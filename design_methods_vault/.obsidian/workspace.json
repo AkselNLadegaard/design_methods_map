@@ -4,44 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "836c1fc3cb11198b",
+        "id": "235506507d5c8883",
         "type": "tabs",
         "children": [
           {
-            "id": "5e87540faa50eb8c",
+            "id": "033e4ce234ebfb45",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "6126c1d0c0e0c448",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Description/00 Read me - introduction, guidelines and instructions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "274895b88be259ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/New concept.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/New concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/New concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/New concept.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -168,18 +138,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "274895b88be259ed",
+  "active": "ff36fd09ae1a4693",
   "lastOpenFiles": [
+    "Methods/Function Mean trees.md",
+    "Concepts/Staging.md",
     "Templates/New note template.md",
-    "Templates/New concept.md",
-    "00_Description/00 Read me - introduction, guidelines and instructions.md",
+    "Concepts/Hunter Gather.md",
+    "Methods/Interviews.md",
+    "Methods/Modular Function Deployment.md",
+    "Design Maps/Mechanism Design.md",
+    "Methods/Opportunity Evaluation Matrix.md",
+    "Methods/PRIMO-F - People, Resources, Innovation, Marketing, Operations and finance.md",
+    "Methods/Power Tower.md",
+    "Concepts/Product Platforms.md",
+    "Methods/Prototyping.md",
+    "Methods/Requirements Specification.md",
+    "Methods/Smart Goals.md",
+    "Methods/Stakeholder Value Mapping.md",
+    "Concepts/Arena.md",
+    "Design Maps/Systems Design.md",
+    "Concepts/System Analysis.md",
+    "Methods/Weighted Objective Matrix.md",
+    "Methodologies/The V-Model.md",
+    "Methods/Surveys & Questionnaires.md",
+    "Methods/Design Game.md",
+    "Design Maps/Game Design.md",
+    "Concepts/Robust Design.md",
+    "Methods/ABC Analysis.md",
+    "Methods/Affinity mapping.md",
+    "Workshops",
+    "Design Maps",
+    "Methods/Untitled",
     "99 New canvases",
     "99 Attachments",
     "99 New notes",
     "Templates",
     "Methodologies",
     "Methods",
-    "Concepts",
-    "00_Description"
+    "Concepts"
   ]
 }

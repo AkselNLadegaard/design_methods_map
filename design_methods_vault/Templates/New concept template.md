@@ -5,10 +5,7 @@
 ## Examples 
 
 
-## Related concepts
-
-
-## Related methods 
+## Related notes 
 
 
 ## Academic roots
