@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d0254ed98c5e10ba",
+        "id": "2256677893e159df",
         "type": "tabs",
         "children": [
           {
-            "id": "46c7e7dad6d79c7c",
+            "id": "34b1e5f7ef914100",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#doubleDiamond/converging",
+                "query": "tag:#phase/develop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e7991122d1731804",
@@ -140,34 +139,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46c7e7dad6d79c7c",
+  "active": "34b1e5f7ef914100",
   "lastOpenFiles": [
-    "99 New notes/Camera Journal.md",
+    "Methods/What Would Jesus Do.md",
+    "99 New notes/note.md",
+    "99 New notes/Untitled.md",
+    "Methods/Camera Journal.md",
     "Methods/Brainstorming.md",
     "Methods/Prototyping.md",
     "Methods/Weighted Objective Matrix.md",
     "Methods/Affinity Diagrams.md",
-    "99 New notes/Kanban board.md",
+    "Methods/Kanban board.md",
     "Concepts/Staging.md",
     "99 New notes/Untitled 5.md",
     "Methods/De Bono's six thinking hats.md",
     "99 New notes/Untitled 4.md",
     "Concepts/Facilitation.md",
     "99 New notes/Untitled 3.md",
-    "99 New notes/note.md",
     "Concepts/Project Management.md",
     "99 New notes/Untitled 2.md",
-    "99 New notes/Gantt Chart.md",
-    "99 New notes/Low fidelity prototype.md",
-    "99 New notes/Design specification.md",
+    "Methods/Gantt Chart.md",
+    "Methods/Low fidelity prototype.md",
+    "Methods/Design specification.md",
     "99 New notes/Untitled 1.md",
-    "99 New notes/Consolidation Session.md",
+    "Methods/Consolidation Session.md",
     "Methods/Walking The Wall.md",
     "Methods/Affinity mapping.md",
     "Methods/SCAMPER.md",
     "Methods/Function Mean trees.md",
-    "00_Description/03 transfer of notse.md",
-    "Methods/Mood Boards.md",
     "Workshops",
     "Design Maps",
     "Methods/Untitled",
