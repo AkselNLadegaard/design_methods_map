@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2256677893e159df",
+        "id": "b8d0f3f14ec7ceef",
         "type": "tabs",
         "children": [
           {
-            "id": "34b1e5f7ef914100",
+            "id": "6d5a58738824fb05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01 Design maps/Map of Eco Design.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 Design maps/Map of Eco Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 Design maps/Map of Eco Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 Design maps/Map of Eco Design.md"
+              }
             }
           }
         ],
@@ -139,43 +148,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34b1e5f7ef914100",
+  "active": "ff36fd09ae1a4693",
   "lastOpenFiles": [
-    "Methods/What Would Jesus Do.md",
+    "01 Design maps/Map of Co-Cocreation.md",
+    "01 Design maps/Game Design.md",
+    "01 Design maps/Map.md",
+    "01 Design maps/Map of Product design.md",
+    "01 Design maps/Map of Product Service System design.md",
+    "01 Design maps/Map of System design.md",
+    "01 Design maps/Map of Web and App design.md",
+    "00 Notebook/02 Tagging.md",
+    "01 Design maps/Designing products.md",
+    "01 Design maps/Designing systems.md",
+    "02 Concepts/Circular Design.md",
+    "03 Methods/What Would Jesus Do.md",
     "99 New notes/note.md",
     "99 New notes/Untitled.md",
-    "Methods/Camera Journal.md",
-    "Methods/Brainstorming.md",
-    "Methods/Prototyping.md",
-    "Methods/Weighted Objective Matrix.md",
-    "Methods/Affinity Diagrams.md",
-    "Methods/Kanban board.md",
-    "Concepts/Staging.md",
+    "03 Methods/Camera Journal.md",
+    "03 Methods/Brainstorming.md",
+    "03 Methods/Prototyping.md",
+    "03 Methods/Weighted Objective Matrix.md",
+    "03 Methods/Affinity Diagrams.md",
+    "03 Methods/Kanban board.md",
+    "02 Concepts/Staging.md",
     "99 New notes/Untitled 5.md",
-    "Methods/De Bono's six thinking hats.md",
+    "03 Methods/De Bono's six thinking hats.md",
     "99 New notes/Untitled 4.md",
-    "Concepts/Facilitation.md",
+    "02 Concepts/Facilitation.md",
     "99 New notes/Untitled 3.md",
-    "Concepts/Project Management.md",
-    "99 New notes/Untitled 2.md",
-    "Methods/Gantt Chart.md",
-    "Methods/Low fidelity prototype.md",
-    "Methods/Design specification.md",
-    "99 New notes/Untitled 1.md",
-    "Methods/Consolidation Session.md",
-    "Methods/Walking The Wall.md",
-    "Methods/Affinity mapping.md",
-    "Methods/SCAMPER.md",
-    "Methods/Function Mean trees.md",
-    "Workshops",
-    "Design Maps",
+    "05 Workshops",
+    "01 Design maps",
     "Methods/Untitled",
-    "99 New canvases",
-    "99 Attachments",
-    "99 New notes",
-    "Templates",
-    "Methodologies",
-    "Methods",
-    "Concepts"
+    "00 Notebook/99 New canvases",
+    "00 Notebook/99 Attachments",
+    "00 Notebook/99 New notes",
+    "06 Templates",
+    "04 Methodologies",
+    "03 Methods",
+    "02 Concepts"
   ]
 }

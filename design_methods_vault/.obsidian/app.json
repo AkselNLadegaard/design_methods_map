@@ -1,8 +1,8 @@
 {
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "99 New notes",
-  "attachmentFolderPath": "Attachments",
+  "newFileFolderPath": "00 Notebook/99 New notes",
+  "attachmentFolderPath": "00 Notebook/99 Attachments",
   "showLineNumber": true,
   "trashOption": "system",
   "userIgnoreFilters": [
