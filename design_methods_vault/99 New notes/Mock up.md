@@ -1,17 +1,16 @@
 ---
 tags:
   - phase/develop
+  - phase/deliver
   - stakeholders/users
   - stakeholders/experts
   - stakeholders/designer
   - inputs/ideas
-  - inputs/problems
+  - inputs/concepts
   - outputs/ideas
   - outputs/insights
-  - outputs/overview
   - goal/create
-  - exploration
-  - methods
+  - goal/communicate
 aliases:
 ---
 
@@ -22,7 +21,8 @@ aliases:
 
 
 ## Related notes 
-- [[Functional Decomposition]]
-- [[Objective Trees]]
+- [[Boundary objects]]
+- [[Wireframe]]
+- [[Functional Prototyping]]
 
 ## Academic roots

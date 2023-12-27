@@ -1,7 +1,7 @@
 ---
 tags:
   - services
-  - doubleDiamond/converging
+  - phase/converging
   - defining
   - serviceDesign
 aliases:

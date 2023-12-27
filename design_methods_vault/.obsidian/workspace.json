@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9df271c5de219648",
+        "id": "d0254ed98c5e10ba",
         "type": "tabs",
         "children": [
           {
-            "id": "ccfe81dfa36d1ddf",
+            "id": "46c7e7dad6d79c7c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#doubleDiamond/converging",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e7991122d1731804",
@@ -121,7 +122,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -138,34 +140,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff36fd09ae1a4693",
+  "active": "46c7e7dad6d79c7c",
   "lastOpenFiles": [
-    "Methods/Life Cycle Assesment.md",
-    "Methods/MECO Matrix.md",
-    "Concepts/Product Life Cycle.md",
-    "99 New notes/Portfolio.md",
-    "Concepts/Technology Platform.md",
-    "Concepts/Technology Architecture.md",
-    "Methods/Field Work.md",
-    "Methodologies/Behavioural Design.md",
-    "Methods/Key Performance Index - KPI.md",
-    "Methods/IN-CASE framework.md",
-    "Concepts/Attachment and Detachment.md",
-    "Methodologies/Business Model Design.md",
-    "Methods/Flow diagram.md",
-    "Concepts/Ideation.md",
-    "Methods/Evaluation.md",
-    "Concepts/Design process.md",
-    "Methodologies/Design Thinking.md",
-    "Concepts/Constraints.md",
-    "Concepts/Creativity.md",
-    "Concepts/Functions.md",
-    "Concepts/Socio-Technical systems.md",
-    "Concepts/Goodhart's Law.md",
-    "Methods/Hoshin Kanri Planning Matrix.md",
-    "Concepts/Engineering Systems.md",
-    "Concepts/Rebound Effects.md",
-    "Concepts/Multi Modal systems.md",
+    "99 New notes/Camera Journal.md",
+    "Methods/Brainstorming.md",
+    "Methods/Prototyping.md",
+    "Methods/Weighted Objective Matrix.md",
+    "Methods/Affinity Diagrams.md",
+    "99 New notes/Kanban board.md",
+    "Concepts/Staging.md",
+    "99 New notes/Untitled 5.md",
+    "Methods/De Bono's six thinking hats.md",
+    "99 New notes/Untitled 4.md",
+    "Concepts/Facilitation.md",
+    "99 New notes/Untitled 3.md",
+    "99 New notes/note.md",
+    "Concepts/Project Management.md",
+    "99 New notes/Untitled 2.md",
+    "99 New notes/Gantt Chart.md",
+    "99 New notes/Low fidelity prototype.md",
+    "99 New notes/Design specification.md",
+    "99 New notes/Untitled 1.md",
+    "99 New notes/Consolidation Session.md",
+    "Methods/Walking The Wall.md",
+    "Methods/Affinity mapping.md",
+    "Methods/SCAMPER.md",
+    "Methods/Function Mean trees.md",
+    "00_Description/03 transfer of notse.md",
+    "Methods/Mood Boards.md",
     "Workshops",
     "Design Maps",
     "Methods/Untitled",

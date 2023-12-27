@@ -1,15 +1,15 @@
 ---
 tags:
-  - phase/discover
   - phase/develop
+  - phase/deliver
   - stakeholders/designer
-  - stakeholders/users
-  - stakeholders/experts
   - inputs/ideas
   - inputs/concepts
-  - outputs/ideas
   - outputs/concepts
+  - outputs/overview
   - goal/create
-  - goal
+  - definition
 aliases:
+  - Morfologi
+  - morphologi
 ---

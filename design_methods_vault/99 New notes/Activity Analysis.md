@@ -1,19 +1,16 @@
 ---
 tags:
-  - phase/define
-  - stakeholders/users
-  - stakeholders/experts
+  - phase/discover
   - stakeholders/designer
-  - inputs/ideas
+  - stakeholders/experts
+  - stakeholders/users
   - inputs/problems
-  - inputs/insights
-  - outputs/problems
+  - inputs/none
+  - ouputs/problems
   - outputs/insights
   - outputs/decisionSupport
   - goal/analyse
 aliases:
-  - Affinity mapping
-  - KJ Technique
 ---
 
 ## Description
@@ -23,6 +20,8 @@ aliases:
 
 
 ## Related notes 
-- [[Consolidation Session]]
+- [[Process mapping]]
+- [[Flow diagram]]
+- [[BPM diagrams - Business Process Modelling]]
 
 ## Academic roots

@@ -2,14 +2,27 @@
 tags:
   - phase/discover
   - phase/develop
-  - stakeholders/designer
   - stakeholders/users
   - stakeholders/experts
+  - stakeholders/designer
   - inputs/ideas
   - inputs/concepts
   - outputs/ideas
   - outputs/concepts
-  - goal/create
-  - goal
+  - goal/evaluate
 aliases:
 ---
+
+## Description
+
+
+## Examples 
+
+
+## Related notes 
+- [[Brainstorming]]
+- [[Ideation]]
+- [[Facilitation]]
+- 
+
+## Academic roots

@@ -1,5 +1,11 @@
 ---
-tags: 
+tags:
+  - phase/develop
+  - stakeholders/designer
+  - inputs/ideas
+  - outputs/ideas
+  - outputs/insights
+  - goal/create
 aliases:
 ---
 

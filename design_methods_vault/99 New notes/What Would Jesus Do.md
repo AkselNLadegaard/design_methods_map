@@ -1,15 +1,17 @@
 ---
 tags:
+  - methods
   - phase/discover
   - phase/develop
-  - stakeholders/designer
   - stakeholders/users
   - stakeholders/experts
+  - stakeholders/designer
   - inputs/ideas
-  - inputs/concepts
+  - inputs/problems
+  - inputs/insights
   - outputs/ideas
-  - outputs/concepts
+  - outputs/insights
   - goal/create
-  - goal
+  - goal/analyse
 aliases:
 ---

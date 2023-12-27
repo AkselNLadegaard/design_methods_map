@@ -132,3 +132,4 @@ But some hierarchy is necessary for making this maintainable so:
 5. **Templates**: are for small outlines for how to use some methods, there can be multiple templates per concept, method or methodology 
 
 
+

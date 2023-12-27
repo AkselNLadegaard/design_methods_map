@@ -4,5 +4,8 @@
   "newFileFolderPath": "99 New notes",
   "attachmentFolderPath": "Attachments",
   "showLineNumber": true,
-  "trashOption": "system"
+  "trashOption": "system",
+  "userIgnoreFilters": [
+    "00_Description/"
+  ]
 }
