@@ -1,6 +1,7 @@
 
 The tags have been adapted from: https://docs.google.com/spreadsheets/d/1Hv4r7alRZE423eJWIVmyesgwPzPAX-UY/edit#gid=317149818
 ## Reworked
+```
 #phase/discover
 #phase/define
 #phase/develop
@@ -31,9 +32,10 @@ The tags have been adapted from: https://docs.google.com/spreadsheets/d/1Hv4r7al
 #goal/evaluate
 #goal/communicate
 
-
+```
 ## New 
-
+```
 #phase/converging
 #phase/diverging
 
+```

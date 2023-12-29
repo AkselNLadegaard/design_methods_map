@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b8d0f3f14ec7ceef",
+        "id": "771c746efe1185b8",
         "type": "tabs",
         "children": [
           {
-            "id": "6d5a58738824fb05",
+            "id": "c1976a73f97824c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Design maps/Map of Eco Design.md",
+                "file": "01 Design maps/03 Map of Double Diamond Concepts 💎💎.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Design maps/Map of Eco Design.md",
+                "file": "01 Design maps/03 Map of Double Diamond Concepts 💎💎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Design maps/Map of Eco Design.md",
+                "file": "01 Design maps/03 Map of Double Diamond Concepts 💎💎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Design maps/Map of Eco Design.md"
+                "file": "01 Design maps/03 Map of Double Diamond Concepts 💎💎.md"
               }
             }
           }
@@ -150,32 +150,32 @@
   },
   "active": "ff36fd09ae1a4693",
   "lastOpenFiles": [
+    "01 Design maps/03 Map of Double Diamond Methods 💎💎.md",
+    "01 Design maps/03 Map of Double Diamond Concepts 💎💎.md",
+    "01 Design maps/02 Map of Design Methods.md",
+    "01 Design maps/01 Map of Design Concepts.md",
+    "02 Concepts/Untitled.md",
+    "02 Concepts/Untitled 1.md",
+    "00 Notebook/01 To do for this project.md",
+    "00 Notebook/99 New notes/scratchpad.md",
+    "00 Notebook/99 New notes/Untitled.md",
+    "00 Notebook/02 Tagging.md",
+    "02 Concepts/80 20 Pareto principle.md",
+    "03 Methods/SWOT - Strengths, Weaknesses, Opportunities and Threats.md",
+    "01 Design maps/Map of Web and App design.md",
+    "02 Concepts/00 Design concepts.md",
+    "01 Design maps/Map of Eco Design.md",
     "01 Design maps/Map of Co-Cocreation.md",
     "01 Design maps/Game Design.md",
     "01 Design maps/Map.md",
     "01 Design maps/Map of Product design.md",
     "01 Design maps/Map of Product Service System design.md",
     "01 Design maps/Map of System design.md",
-    "01 Design maps/Map of Web and App design.md",
-    "00 Notebook/02 Tagging.md",
     "01 Design maps/Designing products.md",
     "01 Design maps/Designing systems.md",
     "02 Concepts/Circular Design.md",
     "03 Methods/What Would Jesus Do.md",
     "99 New notes/note.md",
-    "99 New notes/Untitled.md",
-    "03 Methods/Camera Journal.md",
-    "03 Methods/Brainstorming.md",
-    "03 Methods/Prototyping.md",
-    "03 Methods/Weighted Objective Matrix.md",
-    "03 Methods/Affinity Diagrams.md",
-    "03 Methods/Kanban board.md",
-    "02 Concepts/Staging.md",
-    "99 New notes/Untitled 5.md",
-    "03 Methods/De Bono's six thinking hats.md",
-    "99 New notes/Untitled 4.md",
-    "02 Concepts/Facilitation.md",
-    "99 New notes/Untitled 3.md",
     "05 Workshops",
     "01 Design maps",
     "Methods/Untitled",
