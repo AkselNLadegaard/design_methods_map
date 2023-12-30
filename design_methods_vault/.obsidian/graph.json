@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#ideation  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -35,10 +35,10 @@
   "nodeSizeMultiplier": 1.65677083333333,
   "lineSizeMultiplier": 2.44791666666667,
   "collapse-forces": false,
-  "centerStrength": 0.510416666666667,
-  "repelStrength": 10.625,
-  "linkStrength": 0.515625,
-  "linkDistance": 275,
-  "scale": 0.3326014279574233,
+  "centerStrength": 0.484375,
+  "repelStrength": 10.7291666666667,
+  "linkStrength": 0.5625,
+  "linkDistance": 304,
+  "scale": 0.5218925008826002,
   "close": false
 }

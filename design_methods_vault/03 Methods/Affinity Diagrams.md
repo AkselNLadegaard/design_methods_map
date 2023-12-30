@@ -11,6 +11,7 @@ tags:
   - outputs/insights
   - outputs/decisionSupport
   - goal/analyse
+  - methods
 aliases:
   - Affinity mapping
   - KJ Technique
@@ -24,5 +25,7 @@ aliases:
 
 ## Related notes 
 - [[Consolidation Session]]
+- [[Walking The Wall]]
+- 
 
 ## Academic roots

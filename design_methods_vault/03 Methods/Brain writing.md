@@ -11,5 +11,6 @@ tags:
   - outputs/concepts
   - goal/create
   - goal
+  - ideation
 aliases:
 ---

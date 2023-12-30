@@ -1,5 +1,9 @@
 ---
-tags: 
+tags:
+  - outputs/decisionSupport
+  - outputs/insights
+  - inputs/problems
+  - inputs/ideas
 aliases: 
 description:
 ---

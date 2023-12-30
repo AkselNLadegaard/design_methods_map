@@ -25,5 +25,7 @@ aliases:
 ## Related notes 
 - [[De Bono's six thinking hats]]
 - [[Facilitation]]
+- [[Negative Brainstorming]]
+- 
 
 ## Academic roots

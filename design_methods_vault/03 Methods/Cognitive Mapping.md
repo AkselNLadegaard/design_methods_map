@@ -1,5 +1,8 @@
 ---
-tags: 
+tags:
+  - "#mapping"
+  - goal/analyse
+  - outputs/insights
 aliases: 
 description:
 ---
@@ -15,6 +18,6 @@ description:
 - [[Activity Analysis]]
 - [[Contextual Interview]]
 	- [[Cognitive Walkthrough]]
-- 
+- [[Behavioural Design]]
 
 ## Academic roots
