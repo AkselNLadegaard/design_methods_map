@@ -11,8 +11,6 @@ description:
 
 
 ## Related notes 
-- [[Laddering]]
-- [[Chaining]]
-- [[Association Chains]]
+- [[Content Inventory & Audit]]
 
 ## Academic roots

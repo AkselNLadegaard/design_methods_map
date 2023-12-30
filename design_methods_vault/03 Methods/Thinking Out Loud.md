@@ -1,6 +1,6 @@
 ---
 tags: 
 aliases:
-  - Simulation Exercises
+  - Think Aloud Protocol
 description:
 ---

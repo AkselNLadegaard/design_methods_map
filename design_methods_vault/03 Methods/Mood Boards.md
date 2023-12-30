@@ -19,6 +19,7 @@ tags:
   - goal/communicate
 aliases:
   - Moodboard
+  - Image Boards
 ---
 
 ## Description

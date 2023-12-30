@@ -12,6 +12,7 @@ tags:
   - goal/communicate
   - phase/diverging
 aliases:
+  - Shadowing
 ---
 
 ## Description

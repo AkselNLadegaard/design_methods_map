@@ -46,3 +46,7 @@ Totalform
 
 principlal structure
 Quantitative structure 
+
+---
+
+Concept mapping 

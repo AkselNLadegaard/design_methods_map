@@ -11,8 +11,6 @@ description:
 
 
 ## Related notes 
-- [[Laddering]]
-- [[Chaining]]
-- [[Association Chains]]
+- [[The Love Letter]]
 
 ## Academic roots

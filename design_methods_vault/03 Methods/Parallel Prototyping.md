@@ -11,8 +11,7 @@ description:
 
 
 ## Related notes 
-- [[Laddering]]
-- [[Chaining]]
-- [[Association Chains]]
+- [[Project Management]]
+- [[Prototyping]]
 
 ## Academic roots

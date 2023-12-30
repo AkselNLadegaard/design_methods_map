@@ -11,8 +11,5 @@ description:
 
 
 ## Related notes 
-- [[Laddering]]
-- [[Chaining]]
-- [[Association Chains]]
 
 ## Academic roots

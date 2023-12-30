@@ -1,6 +1,6 @@
 ---
 tags: 
 aliases:
-  - Simulation Exercises
+  - Artifact Analysis
 description:
 ---

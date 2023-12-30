@@ -1,8 +1,8 @@
 ---
 tags: 
 aliases:
-  - Stakeholder Maps
-  - Stakeholder Diagram
+  - Parallel
+  - Parallelism
 description:
 ---
 
@@ -13,8 +13,6 @@ description:
 
 
 ## Related notes 
-- [[Stakeholder Value Mapping]]
-- [[Mapping]]
-- [[Persona]]
+
 
 ## Academic roots

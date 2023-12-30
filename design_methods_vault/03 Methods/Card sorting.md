@@ -11,8 +11,6 @@ description:
 
 
 ## Related notes 
-- [[Laddering]]
-- [[Chaining]]
-- [[Association Chains]]
+- [[Priority game]]
 
 ## Academic roots

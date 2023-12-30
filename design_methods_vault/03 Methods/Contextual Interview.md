@@ -12,6 +12,7 @@ tags:
   - goal/evaluate
   - goal/communicate
 aliases:
+  - Contextual Inquiry
 ---
 
 ## Description

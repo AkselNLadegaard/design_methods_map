@@ -11,8 +11,7 @@ description:
 
 
 ## Related notes 
-- [[Laddering]]
-- [[Chaining]]
-- [[Association Chains]]
+- [[Mood Boards|Moodboard]]
+- [[Staging]]
 
 ## Academic roots

@@ -1,8 +1,6 @@
 ---
 tags: 
-aliases:
-  - Stakeholder Maps
-  - Stakeholder Diagram
+aliases: 
 description:
 ---
 
@@ -13,8 +11,7 @@ description:
 
 
 ## Related notes 
-- [[Stakeholder Value Mapping]]
 - [[Mapping]]
-- [[Persona]]
+- [[Brainstorming]]
 
 ## Academic roots

@@ -46,6 +46,11 @@ The tags have been adapted from: https://docs.google.com/spreadsheets/d/1Hv4r7al
 #aesthetics
 #decisionMaking 
 
+
+More tags 
+#qualitative 
+#quantitative
+
 ```
 
 ## Adapted from 100 principles and 100 methods

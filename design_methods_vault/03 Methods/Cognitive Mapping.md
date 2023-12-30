@@ -11,8 +11,10 @@ description:
 
 
 ## Related notes 
-- [[Laddering]]
-- [[Chaining]]
-- [[Association Chains]]
+- [[Mental Model]]
+- [[Activity Analysis]]
+- [[Contextual Interview]]
+	- [[Cognitive Walkthrough]]
+- 
 
 ## Academic roots
