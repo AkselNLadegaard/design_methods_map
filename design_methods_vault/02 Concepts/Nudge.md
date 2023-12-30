@@ -1,5 +1,5 @@
 ---
 tags: 
 aliases:
-  - Personas
+  - Nudging
 ---

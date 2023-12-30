@@ -1,8 +1,7 @@
 ---
-tags:
-  - usability
-  - perception
+tags: 
 aliases:
+  - Factor of Safety
 ---
 
 ## Description
@@ -12,8 +11,8 @@ aliases:
 
 
 ## Related notes 
-- [[Intuition]]
-- [[Function follows form]]
+- [[Tolerances]]
+- [[Error margin]]
+- 
 
 ## Academic roots
-

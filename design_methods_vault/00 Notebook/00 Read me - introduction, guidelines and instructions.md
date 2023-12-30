@@ -60,7 +60,7 @@ Pleas remember to
 1. Tag it relevantly! See [[02 Tagging]] for existing tags, and feel free to add your own! 
 
 2. Link it to relevant concepts and methods, even if they haven't been written yet!
-	1. For existing concepts and methods see [[01 Map of Design Concepts]] and [[02 Map of Design Methods]] or just browse the project! 
+	1. For existing concepts and methods see [[01 Map of Design Concepts and Principels]] and [[02 Map of Design Methods]] or just browse the project! 
 
 
 # Meanderings and thoughts on figuring out how to structure this 

@@ -4,114 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "771c746efe1185b8",
+        "id": "78bf82f0b95f8fad",
         "type": "tabs",
         "children": [
           {
-            "id": "c1976a73f97824c8",
+            "id": "3061cbdb8e140d53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Notebook/00 Read me - introduction, guidelines and instructions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            },
-            "group": "be989a4b4417ae8c"
-          },
-          {
-            "id": "305d02442dd7830e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Concepts/Facilitation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            },
-            "group": "39e4cf77d3ba33d9"
-          },
-          {
-            "id": "39b834645de53f18",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "02 Concepts/Facilitation.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 3,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7983099209587539,
-                  "close": false
-                }
-              }
-            },
-            "group": "39e4cf77d3ba33d9"
-          }
-        ]
-      },
-      {
-        "id": "4e711d0ff9476294",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "052463952a60f6c9",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "00 Notebook/00 Read me - introduction, guidelines and instructions.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "be989a4b4417ae8c"
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -179,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Notebook/00 Read me - introduction, guidelines and instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Notebook/00 Read me - introduction, guidelines and instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00 Notebook/00 Read me - introduction, guidelines and instructions.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -241,35 +139,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "052463952a60f6c9",
+  "active": "3061cbdb8e140d53",
   "lastOpenFiles": [
-    "00 Notebook/99 Attachments/Pasted image 20231229190528.png",
-    "02 Concepts/Facilitation.md",
-    "00 Notebook/00 Read me - introduction, guidelines and instructions.md",
-    "00 Notebook/99 Attachments/Pasted image 20231229190446.png",
-    "01 Design maps/03 Map of Double Diamond Concepts 💎💎.md",
-    "01 Design maps/03 Map of Double Diamond Methods 💎💎.md",
-    "01 Design maps/02 Map of Design Methods.md",
-    "01 Design maps/01 Map of Design Concepts.md",
-    "02 Concepts/Untitled.md",
-    "02 Concepts/Untitled 1.md",
-    "00 Notebook/01 To do for this project.md",
-    "00 Notebook/99 New notes/scratchpad.md",
-    "00 Notebook/99 New notes/Untitled.md",
+    "02 Concepts/Hierarchy.md",
+    "02 Concepts/Flexibility-Usability Tradeoff.md",
+    "02 Concepts/Feedback Loop.md",
+    "02 Concepts/Iteration.md",
+    "02 Concepts/Minimum Viable Product - MVP.md",
+    "02 Concepts/Distributions.md",
+    "02 Concepts/Modularity.md",
+    "02 Concepts/Fallacies.md",
+    "02 Concepts/Scaling Fallacy.md",
+    "02 Concepts/Satisficing.md",
+    "02 Concepts/Ockham's Razor.md",
+    "02 Concepts/Structural Form.md",
+    "02 Concepts/Weakest Link.md",
     "00 Notebook/02 Tagging.md",
-    "02 Concepts/80 20 Pareto principle.md",
-    "03 Methods/SWOT - Strengths, Weaknesses, Opportunities and Threats.md",
-    "01 Design maps/Map of Web and App design.md",
-    "02 Concepts/00 Design concepts.md",
-    "01 Design maps/Map of Eco Design.md",
-    "01 Design maps/Map of Co-Cocreation.md",
-    "01 Design maps/Game Design.md",
-    "01 Design maps/Map.md",
-    "01 Design maps/Map of Product design.md",
-    "01 Design maps/Map of Product Service System design.md",
-    "01 Design maps/Map of System design.md",
-    "01 Design maps/Designing products.md",
-    "01 Design maps/Designing systems.md",
+    "00 Notebook/99 New notes/tagigng.md",
+    "02 Concepts/Effectiveness.md",
+    "02 Concepts/Efficiency.md",
+    "02 Concepts/Sufficiency.md",
+    "02 Concepts/Safety Factor.md",
+    "02 Concepts/Untitled",
+    "02 Concepts/Expectation Effect.md",
+    "02 Concepts/Development Cycle.md",
+    "02 Concepts/Design by Committee.md",
+    "02 Concepts/Convergence.md",
+    "02 Concepts/Uncertainty Principle.md",
+    "02 Concepts/Wabi-Sabi.md",
+    "02 Concepts/Vebien Effect.md",
+    "00 Notebook/99 Attachments/Pasted image 20231229190528.png",
+    "00 Notebook/99 Attachments/Pasted image 20231229190446.png",
     "05 Workshops",
     "01 Design maps",
     "Methods/Untitled",
@@ -278,7 +178,6 @@
     "00 Notebook/99 New notes",
     "06 Templates",
     "04 Methodologies",
-    "03 Methods",
-    "02 Concepts"
+    "03 Methods"
   ]
 }

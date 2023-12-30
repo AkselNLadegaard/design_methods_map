@@ -1,7 +1,5 @@
 ---
-tags:
-  - usability
-  - perception
+tags: 
 aliases:
 ---
 
@@ -12,8 +10,7 @@ aliases:
 
 
 ## Related notes 
-- [[Intuition]]
-- [[Function follows form]]
+- [[Legibility]]
+- 
 
 ## Academic roots
-
