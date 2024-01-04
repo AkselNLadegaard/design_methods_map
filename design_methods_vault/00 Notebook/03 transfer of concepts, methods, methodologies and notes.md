@@ -50,3 +50,15 @@ Quantitative structure
 ---
 
 Concept mapping 
+
+
+---
+## Transfer of Ready 2 Loop methods 
+https://ready2loop.org/da/group/25/Vores+v%C3%A6rkt%C3%B8jer
+
+
+## Transfer of circularity methods from Tim & Daniella books 
+
+## Go through Delft 
+
+## Go through design methods finder 

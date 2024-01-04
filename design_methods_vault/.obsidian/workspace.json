@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Methods/Cognitive Mapping.md",
+                "file": "03 Methods/Defining a Functional Unit.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 Methods/Cognitive Mapping.md",
+                "file": "03 Methods/Defining a Functional Unit.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Methods/Cognitive Mapping.md",
+                "file": "03 Methods/Defining a Functional Unit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Methods/Cognitive Mapping.md",
+                "file": "03 Methods/Defining a Functional Unit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Methods/Cognitive Mapping.md"
+                "file": "03 Methods/Defining a Functional Unit.md"
               }
             }
           }
@@ -193,6 +193,10 @@
   },
   "active": "86cd10828ad53624",
   "lastOpenFiles": [
+    "00 Notebook/03 transfer of concepts, methods, methodologies and notes.md",
+    "03 Methods/Defining a Functional Unit.md",
+    "03 Methods/Action Framework.md",
+    "03 Methods/Cognitive Mapping.md",
     "03 Methods/Change wheel.md",
     "03 Methods/Cause effect chain.md",
     "03 Methods/Case studies.md",
@@ -215,10 +219,6 @@
     "03 Methods/AEIOU.md",
     "03 Methods/Actor Network Theory (ANT).md",
     "03 Methods/Activity Analysis.md",
-    "02 Concepts/Abstraction 1.md",
-    "02 Concepts/Absolute Sustainability.md",
-    "02 Concepts/80 20 Pareto principle.md",
-    "03 Methods/Six Sigma.md",
     "A",
     "02 Concepts/Untitled",
     "00 Notebook/99 Attachments/Pasted image 20231229190528.png",
