@@ -4,40 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "cb0f4cc36957d2e4",
+        "id": "c60cf1d44cbd3e8a",
         "type": "tabs",
         "children": [
           {
-            "id": "86cd10828ad53624",
+            "id": "e70b598783e3294c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Methods/Defining a Functional Unit.md",
+                "file": "02 Concepts/Facilitation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             },
-            "group": "d31a8e8cc223891e"
-          }
-        ]
-      },
-      {
-        "id": "097fc6eaf9cc1bcf",
-        "type": "tabs",
-        "children": [
+            "group": "d870242115b455e3"
+          },
           {
-            "id": "3f31d8d11eaa3b66",
+            "id": "3af86c6d2c0312d5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e72f9dc28d89b26",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 Methods/Defining a Functional Unit.md",
+                "file": "02 Concepts/Facilitation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -45,7 +47,29 @@
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
-                  "colorGroups": [],
+                  "colorGroups": [
+                    {
+                      "query": "path:\"02 Concepts\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "path:\"03 Methods\" ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14069084
+                      }
+                    },
+                    {
+                      "query": "path:\"04 Methodologies\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11392604
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -61,9 +85,49 @@
                 }
               }
             },
-            "group": "d31a8e8cc223891e"
+            "group": "d870242115b455e3"
+          },
+          {
+            "id": "dd01b8cf5bd50d3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Concepts/Facilitation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddc04a10754c3524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Design maps/03 Map of Double Diamond Methods 💎💎.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89ccaca89d94d3a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Methods/Rubber ducking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -129,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Methods/Defining a Functional Unit.md",
+                "file": "03 Methods/Rubber ducking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Methods/Defining a Functional Unit.md",
+                "file": "03 Methods/Rubber ducking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Methods/Defining a Functional Unit.md"
+                "file": "03 Methods/Rubber ducking.md"
               }
             }
           }
@@ -191,10 +255,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86cd10828ad53624",
+  "active": "ff36fd09ae1a4693",
   "lastOpenFiles": [
-    "00 Notebook/03 transfer of concepts, methods, methodologies and notes.md",
+    "01 Design maps/03 Map of Double Diamond Methods 💎💎.md",
+    "03 Methods/Rubber ducking.md",
+    "04 Methodologies/Behavioural Design.md",
+    "01 Design maps/03 Map of Double Diamond Concepts 💎💎.md",
+    "02 Concepts/Double Diamond.md",
+    "04 Methodologies/Bio Inspired Design.md",
+    "04 Methodologies/Double Diamond.md",
+    "04 Methodologies/Business Model Design.md",
+    "04 Methodologies/Agile.md",
+    "01 Design maps/Map of Eco Design.md",
+    "02 Concepts/Facilitation.md",
+    "02 Concepts/Abstraction.md",
+    "01 Design maps/01 Map of Design Concepts and Principels.md",
     "03 Methods/Defining a Functional Unit.md",
+    "00 Notebook/03 transfer of concepts, methods, methodologies and notes.md",
     "03 Methods/Action Framework.md",
     "03 Methods/Cognitive Mapping.md",
     "03 Methods/Change wheel.md",
@@ -206,19 +283,6 @@
     "03 Methods/Brainstorming.md",
     "03 Methods/Brain writing.md",
     "03 Methods/Bottleneck Analysis.md",
-    "03 Methods/Bodystorming.md",
-    "03 Methods/Behavioural Mapping.md",
-    "03 Methods/Assumptions mapping.md",
-    "03 Methods/Artefact Analysis.md",
-    "03 Methods/Affinity Diagrams.md",
-    "03 Methods/Advance Organizer.md",
-    "03 Methods/AB Testing.md",
-    "03 Methods/ABC Analysis.md",
-    "03 Methods/Analogizing.md",
-    "03 Methods/Artificat.md",
-    "03 Methods/AEIOU.md",
-    "03 Methods/Actor Network Theory (ANT).md",
-    "03 Methods/Activity Analysis.md",
     "A",
     "02 Concepts/Untitled",
     "00 Notebook/99 Attachments/Pasted image 20231229190528.png",
