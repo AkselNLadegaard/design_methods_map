@@ -113,7 +113,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Methods/Assumptions mapping.md",
+                "file": "03 Methods/Brainstorming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Methods/Assumptions mapping.md",
+                "file": "03 Methods/Brainstorming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Methods/Assumptions mapping.md",
+                "file": "03 Methods/Brainstorming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Methods/Assumptions mapping.md"
+                "file": "03 Methods/Brainstorming.md"
               }
             }
           }
@@ -251,8 +251,14 @@
   },
   "active": "79602f8d0e0fb0e8",
   "lastOpenFiles": [
-    "01 Design maps/03 Map of Double Diamond Methods 💎💎.md",
+    "03 Methods/Brain writing.md",
+    "03 Methods/Bottleneck Analysis.md",
+    "03 Methods/Bodystorming.md",
+    "03 Methods/Black Boxing.md",
+    "03 Methods/Behavioural Mapping.md",
     "03 Methods/Assumptions mapping.md",
+    "00 Notebook/00 Read me - introduction, guidelines and instructions.md",
+    "01 Design maps/03 Map of Double Diamond Methods 💎💎.md",
     "03 Methods/Actor Network Theory (ANT).md",
     "03 Methods/Affinity Diagrams.md",
     "Untitled 1.md",
@@ -270,13 +276,7 @@
     "01 Design maps/02 Map of Design Methods.md",
     "01 Design maps/03 Map of Double Diamond Concepts 💎💎.md",
     "03 Methods/Camera Journal.md",
-    "00 Notebook/00 Read me - introduction, guidelines and instructions.md",
     "02 Concepts/Project Management.md",
-    "Untitled.md",
-    "03 Methods/Rubber ducking.md",
-    "03 Methods/AB Testing.md",
-    "00 Notebook/02 Tagging.md",
-    "04 Methodologies/Behavioural Design.md",
     "A",
     "02 Concepts/Untitled",
     "00 Notebook/99 Attachments/Pasted image 20231229190528.png",
