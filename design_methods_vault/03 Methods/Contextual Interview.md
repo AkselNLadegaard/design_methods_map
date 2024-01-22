@@ -23,6 +23,7 @@ aliases:
 
 ## Related notes 
 - [[Interviews]]
+-  [[Observation]]
 
 
 ## Academic roots

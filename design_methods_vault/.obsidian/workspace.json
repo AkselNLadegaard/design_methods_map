@@ -108,12 +108,12 @@
             "group": "faafed4a7afae6fa"
           },
           {
-            "id": "79602f8d0e0fb0e8",
+            "id": "7049cff1c2ba8f54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Methods/Brainstorming.md",
+                "file": "03 Methods/Focus Groups.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Methods/Brainstorming.md",
+                "file": "03 Methods/Focus Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Methods/Brainstorming.md",
+                "file": "03 Methods/Focus Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Methods/Brainstorming.md"
+                "file": "03 Methods/Focus Groups.md"
               }
             }
           }
@@ -249,34 +249,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79602f8d0e0fb0e8",
+  "active": "7049cff1c2ba8f54",
   "lastOpenFiles": [
-    "03 Methods/Brain writing.md",
-    "03 Methods/Bottleneck Analysis.md",
-    "03 Methods/Bodystorming.md",
-    "03 Methods/Black Boxing.md",
-    "03 Methods/Behavioural Mapping.md",
+    "02 Concepts/Association Chains.md",
     "03 Methods/Assumptions mapping.md",
-    "00 Notebook/00 Read me - introduction, guidelines and instructions.md",
-    "01 Design maps/03 Map of Double Diamond Methods 💎💎.md",
-    "03 Methods/Actor Network Theory (ANT).md",
-    "03 Methods/Affinity Diagrams.md",
-    "Untitled 1.md",
-    "Anticipating.md",
-    "03 Methods/Artefact Analysis.md",
-    "03 Methods/Analogizing.md",
-    "03 Methods/Walking The Wall.md",
-    "03 Methods/AEIOU.md",
-    "03 Methods/Advance Organizer.md",
-    "03 Methods/Activity Analysis.md",
-    "01 Design maps/Action Framework.md",
-    "03 Methods/ABC Analysis.md",
-    "02 Concepts/Facilitation.md",
-    "02 Concepts/80 20 Pareto principle.md",
-    "01 Design maps/02 Map of Design Methods.md",
-    "01 Design maps/03 Map of Double Diamond Concepts 💎💎.md",
-    "03 Methods/Camera Journal.md",
-    "02 Concepts/Project Management.md",
+    "00 Notebook/99 New notes/Untitled 6.md",
+    "03 Methods/Focus Groups.md",
+    "00 Notebook/99 New notes/Personal inventory.md",
+    "00 Notebook/99 New notes/e.md",
+    "00 Notebook/99 New notes/Untitled 5.md",
+    "03 Methods/Fishbone diagram.md",
+    "00 Notebook/99 New notes/ne.md",
+    "03 Methods/Failure Mode Error Analysis - FMEA.md",
+    "00 Notebook/99 New notes/n.md",
+    "03 Methods/Environmental Footprint.md",
+    "03 Methods/Engineering Systems Matrix.md",
+    "03 Methods/Eco-Benchmarking.md",
+    "00 Notebook/99 New notes/Untitled 4.md",
+    "03 Methods/Diary Studies.md",
+    "03 Methods/Development Arena.md",
+    "03 Methods/Design Charette.md",
+    "03 Methods/Design of experiments - DOE.md",
+    "03 Methods/Design Game.md",
+    "03 Methods/Delphi Surveys.md",
+    "03 Methods/Decision Trees.md",
+    "00 Notebook/99 New notes/Untitled 3.md",
+    "03 Methods/De Bono's six thinking hats.md",
+    "03 Methods/Customer Experience Audit.md",
+    "03 Methods/Crowdsourcing.md",
+    "00 Notebook/99 Attachments/Pasted image 20240122233522.png",
+    "00 Notebook/99 Attachments/Pasted image 20240122233451.png",
     "A",
     "02 Concepts/Untitled",
     "00 Notebook/99 Attachments/Pasted image 20231229190528.png",

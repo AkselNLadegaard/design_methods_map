@@ -14,7 +14,9 @@ aliases:
 ---
 
 ## Description
-
+Participants log their journey before, during and after using a service/product/system
+- The scope is very flexible and gives participants a lot of agency in what is logged (photographed)
+- 
 
 ## Examples 
 
@@ -23,5 +25,8 @@ aliases:
 - [[Photo Safari]]
 - [[User journeys]]
 - [[Field Work]]
+- [[User reporting]]
+- [[Observation]]
+- [[Field Work]] is this field work?
 
 ## Academic roots

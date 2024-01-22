@@ -23,6 +23,8 @@ aliases:
 - [[Brainstorming]]
 - [[Ideation]]
 - [[Facilitation]]
-- 
+- [[Lateral Thinking]]
+- [[Creative Thinking]]
+- [[Critical Thinking]]
 
 ## Academic roots

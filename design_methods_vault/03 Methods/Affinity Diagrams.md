@@ -38,6 +38,6 @@ aliases:
 ## Related notes 
 - [[Consolidation Session]]
 - [[Walking The Wall]]
-- 
+- [[Boundary objects]]
 
 ## Academic roots

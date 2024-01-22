@@ -34,5 +34,7 @@ The gamification of design methods to increase engagement from users, experts an
 - [[Priority game]]
 - [[Layout game]]
 - [[Simulation game]]
-
+- [[Roleplaying]]
+- [[Scenarios]]
+- 
 ## Academic roots

@@ -19,5 +19,6 @@ description:
 - [[Contextual Interview]]
 	- [[Cognitive Walkthrough]]
 - [[Behavioural Design]]
+- [[Persona]]
 
 ## Academic roots
