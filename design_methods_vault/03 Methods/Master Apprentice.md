@@ -23,5 +23,7 @@ aliases:
 
 ## Related notes 
 - [[Interviews]]
-
+- [[Training]]
+- [[Teaching]]
+- 
 ## Academic roots

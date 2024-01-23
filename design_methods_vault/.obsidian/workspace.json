@@ -4,124 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fa90490f0ec752c1",
+        "id": "27a0a64a11782638",
         "type": "tabs",
         "children": [
           {
-            "id": "decfe0493e2ebfd9",
+            "id": "1aaacdd5c471e815",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Methods/Assumptions mapping.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            },
-            "group": "a37a6b420d4dbdb0"
-          },
-          {
-            "id": "229e89c6711f0964",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "03 Methods/Assumptions mapping.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "path:\"03 Methods\"  ",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "a37a6b420d4dbdb0"
-          },
-          {
-            "id": "adcd646c4fa85897",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Concepts/Facilitation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            },
-            "group": "faafed4a7afae6fa"
-          },
-          {
-            "id": "6621f1bd42e04b41",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "02 Concepts/Facilitation.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 111,
-                  "scale": 0.9799308653125577,
-                  "close": true
-                }
-              }
-            },
-            "group": "faafed4a7afae6fa"
-          },
-          {
-            "id": "7049cff1c2ba8f54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Methods/Focus Groups.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Methods/Focus Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Methods/Focus Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "03 Methods/Focus Groups.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -249,34 +139,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7049cff1c2ba8f54",
+  "active": "1aaacdd5c471e815",
   "lastOpenFiles": [
-    "02 Concepts/Association Chains.md",
     "03 Methods/Assumptions mapping.md",
-    "00 Notebook/99 New notes/Untitled 6.md",
+    "02 Concepts/Facilitation.md",
     "03 Methods/Focus Groups.md",
-    "00 Notebook/99 New notes/Personal inventory.md",
     "00 Notebook/99 New notes/e.md",
-    "00 Notebook/99 New notes/Untitled 5.md",
-    "03 Methods/Fishbone diagram.md",
     "00 Notebook/99 New notes/ne.md",
-    "03 Methods/Failure Mode Error Analysis - FMEA.md",
     "00 Notebook/99 New notes/n.md",
-    "03 Methods/Environmental Footprint.md",
-    "03 Methods/Engineering Systems Matrix.md",
-    "03 Methods/Eco-Benchmarking.md",
+    "00 Notebook/99 New notes/m.md",
+    "00 Notebook/99 New notes/Currying.md",
+    "02 Concepts/Don't Repeat Yourself - DRY.md",
+    "02 Concepts/Keep it Simple, Stupid - KISS.md",
+    "03 Methods/Personal inventory.md",
+    "00 Notebook/00 Read me - introduction, guidelines and instructions.md",
+    "04 Methodologies/Performance Management.md",
+    "00 Notebook/99 New notes/Untitled 8.md",
+    "00 Notebook/99 New notes/Untitled 10.md",
+    "00 Notebook/99 New notes/Untitled 7.md",
+    "00 Notebook/99 New notes/Untitled 6.md",
     "00 Notebook/99 New notes/Untitled 4.md",
-    "03 Methods/Diary Studies.md",
-    "03 Methods/Development Arena.md",
-    "03 Methods/Design Charette.md",
-    "03 Methods/Design of experiments - DOE.md",
-    "03 Methods/Design Game.md",
-    "03 Methods/Delphi Surveys.md",
-    "03 Methods/Decision Trees.md",
     "00 Notebook/99 New notes/Untitled 3.md",
-    "03 Methods/De Bono's six thinking hats.md",
-    "03 Methods/Customer Experience Audit.md",
-    "03 Methods/Crowdsourcing.md",
+    "00 Notebook/99 New notes/Untitled 1.md",
+    "00 Notebook/99 New notes/Untitled.md",
+    "03 Methods/Weighted Objective Matrix.md",
+    "03 Methods/SWOT - Strengths, Weaknesses, Opportunities and Threats.md",
+    "03 Methods/SCAMPER.md",
+    "03 Methods/Rubber ducking.md",
+    "03 Methods/Sankey Diagram.md",
     "00 Notebook/99 Attachments/Pasted image 20240122233522.png",
     "00 Notebook/99 Attachments/Pasted image 20240122233451.png",
     "A",

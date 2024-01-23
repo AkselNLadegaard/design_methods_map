@@ -1,5 +1,12 @@
 ---
-tags: 
+tags:
+  - stakeholders/users
+  - stakeholders/designer
+  - goal/analyse
+  - goal/process
+  - inputs/problems
+  - outputs/insights
+  - outputs/ideas
 aliases: 
 description:
 ---
@@ -11,6 +18,8 @@ description:
 
 
 ## Related notes 
-
+- [[Thinking Out Loud]]
+- [[Roleplaying]]? Not entirely sure
+- 
 
 ## Academic roots

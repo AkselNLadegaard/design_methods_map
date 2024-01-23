@@ -29,5 +29,6 @@ aliases:
 ## Related notes 
 - [[Decision making]]
 - [[PRIMO-F - People, Resources, Innovation, Marketing, Operations and finance]]
+- [[Business Model Design]]
 
 ## Academic roots
