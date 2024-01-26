@@ -29,12 +29,17 @@ The gamification of design methods to increase engagement from users, experts an
 
 
 ## Related notes 
+- [[Gamification]] see for elements, like badges, points, leaderboards
+
 - [[Facilitation]]
 - [[Workshops]]
+
+### types/examples
 - [[Priority game]]
 - [[Layout game]]
 - [[Simulation game]]
+
+### Concepts
 - [[Roleplaying]]
 - [[Scenarios]]
-- 
 ## Academic roots

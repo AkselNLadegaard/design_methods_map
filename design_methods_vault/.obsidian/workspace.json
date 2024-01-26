@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "27a0a64a11782638",
+        "id": "c08c33b46d8d1e24",
         "type": "tabs",
         "children": [
           {
-            "id": "1aaacdd5c471e815",
+            "id": "b8952206475466ba",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "04 Methodologies/TRIZ.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:framework",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04 Methodologies/TRIZ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04 Methodologies/TRIZ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "04 Methodologies/TRIZ.md"
+              }
             }
           }
         ],
@@ -139,38 +148,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1aaacdd5c471e815",
+  "active": "b8952206475466ba",
   "lastOpenFiles": [
-    "03 Methods/Assumptions mapping.md",
-    "02 Concepts/Facilitation.md",
-    "03 Methods/Focus Groups.md",
-    "00 Notebook/99 New notes/e.md",
-    "00 Notebook/99 New notes/ne.md",
-    "00 Notebook/99 New notes/n.md",
     "00 Notebook/99 New notes/m.md",
-    "00 Notebook/99 New notes/Currying.md",
-    "02 Concepts/Don't Repeat Yourself - DRY.md",
-    "02 Concepts/Keep it Simple, Stupid - KISS.md",
-    "03 Methods/Personal inventory.md",
-    "00 Notebook/00 Read me - introduction, guidelines and instructions.md",
-    "04 Methodologies/Performance Management.md",
-    "00 Notebook/99 New notes/Untitled 8.md",
-    "00 Notebook/99 New notes/Untitled 10.md",
-    "00 Notebook/99 New notes/Untitled 7.md",
-    "00 Notebook/99 New notes/Untitled 6.md",
-    "00 Notebook/99 New notes/Untitled 4.md",
-    "00 Notebook/99 New notes/Untitled 3.md",
+    "04 Methodologies/TRIZ.md",
+    "03 Methods/Poka-Yoke.md",
+    "03 Methods/Value Stream Mapping.md",
+    "03 Methods/Future state mapping.md",
+    "03 Methods/Current state mapping.md",
+    "03 Methods/Bottleneck Analysis.md",
+    "03 Methods/Fishbone diagram.md",
+    "03 Methods/Discrete event simulation.md",
+    "02 Concepts/System design.md",
+    "02 Concepts/Framing.md",
+    "00 Notebook/99 New notes/Untitled 2.md",
     "00 Notebook/99 New notes/Untitled 1.md",
-    "00 Notebook/99 New notes/Untitled.md",
-    "03 Methods/Weighted Objective Matrix.md",
-    "03 Methods/SWOT - Strengths, Weaknesses, Opportunities and Threats.md",
-    "03 Methods/SCAMPER.md",
-    "03 Methods/Rubber ducking.md",
-    "03 Methods/Sankey Diagram.md",
+    "00 Notebook/99 New notes/me.md",
+    "00 Notebook/99 New notes/Untitled 4.md",
+    "03 Methods/Contradiction analysis.md",
+    "03 Methods/Problem definition.md",
+    "04 Methodologies/Behavioural Design.md",
+    "02 Concepts/Facilitation.md",
+    "02 Concepts/01 Principles/Segmentation.md",
+    "02 Concepts/Logging.md",
+    "03 Methods/Controls Systems.md",
+    "03 Methods/Design Game.md",
+    "01 Design maps/TRIZ Methods.md",
+    "03 Methods/Generative design.md",
+    "00 Notebook/99 Attachments/Pasted image 20220502101434.png",
+    "02 Concepts/01 Principles",
     "00 Notebook/99 Attachments/Pasted image 20240122233522.png",
     "00 Notebook/99 Attachments/Pasted image 20240122233451.png",
     "A",
-    "02 Concepts/Untitled",
     "00 Notebook/99 Attachments/Pasted image 20231229190528.png",
     "00 Notebook/99 Attachments/Pasted image 20231229190446.png",
     "05 Workshops",

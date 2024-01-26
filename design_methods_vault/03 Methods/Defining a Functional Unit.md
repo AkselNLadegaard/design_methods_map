@@ -1,6 +1,7 @@
 ---
 tags: 
-aliases: 
+aliases:
+  - Functional unit
 description:
 ---
 

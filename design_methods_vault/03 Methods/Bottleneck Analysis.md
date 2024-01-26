@@ -32,7 +32,8 @@ Questions for the reader?
 ## Related notes 
 - [[System Analysis]]
 - [[Production line design]]
-- [[Discrete event simulation]]
+- [[Discrete event simulation]] and [[Simulation]] in general
 - [[Takt Time]]
+- [[Value Stream Mapping]]
 
 ## Academic roots

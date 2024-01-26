@@ -1,0 +1,6 @@
+---
+tags:
+  - "#thinking"
+aliases: 
+description:
+---
