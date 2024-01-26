@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Methodologies/TRIZ.md",
+                "file": "01 Design maps/Map of Product design.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Methodologies/TRIZ.md",
+                "file": "01 Design maps/Map of Product design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Methodologies/TRIZ.md",
+                "file": "01 Design maps/Map of Product design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Methodologies/TRIZ.md"
+                "file": "01 Design maps/Map of Product design.md"
               }
             }
           }
@@ -150,8 +150,11 @@
   },
   "active": "b8952206475466ba",
   "lastOpenFiles": [
-    "00 Notebook/99 New notes/m.md",
+    "01 Design maps/Map of Product design.md",
+    "03 Methods/Requirements Specification.md",
+    "00 Notebook/99 New notes/Untitled.md",
     "04 Methodologies/TRIZ.md",
+    "00 Notebook/99 New notes/m.md",
     "03 Methods/Poka-Yoke.md",
     "03 Methods/Value Stream Mapping.md",
     "03 Methods/Future state mapping.md",
@@ -173,8 +176,6 @@
     "02 Concepts/Logging.md",
     "03 Methods/Controls Systems.md",
     "03 Methods/Design Game.md",
-    "01 Design maps/TRIZ Methods.md",
-    "03 Methods/Generative design.md",
     "00 Notebook/99 Attachments/Pasted image 20220502101434.png",
     "02 Concepts/01 Principles",
     "00 Notebook/99 Attachments/Pasted image 20240122233522.png",
