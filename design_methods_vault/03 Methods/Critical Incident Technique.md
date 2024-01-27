@@ -15,5 +15,5 @@ The mapping of user journeys, seperately, to understand how users might think an
 - [[Storyboards]]
 - [[User journeys]]
 - [[Scenarios]]
-- [[Failure Mode Error Analysis - FMEA]]
+- [[Failure Mode Effect Analysis - FMEA]]
 ## Academic roots

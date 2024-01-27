@@ -11,6 +11,8 @@ description:
 
 
 ## Related notes 
-
+- [[Statistics]]
+- [[Quality Assurance]]
+- 
 
 ## Academic roots

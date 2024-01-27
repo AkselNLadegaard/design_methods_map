@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - methods/tree
 aliases: 
 description:
 ---

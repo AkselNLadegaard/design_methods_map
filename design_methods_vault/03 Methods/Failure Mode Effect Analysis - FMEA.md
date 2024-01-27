@@ -24,4 +24,6 @@ description:
 - [[Root Cause Analysis]]
 - [[Fishbone diagram]]
 
+- [[Failure Mode and Maintenance Analysis]]
+- 
 ## Academic roots

@@ -1,6 +1,7 @@
 ---
 tags: 
-aliases: 
+aliases:
+  - Object meditation
 description:
 ---
 
@@ -11,6 +12,7 @@ description:
 
 
 ## Related notes 
-
+- [[Meditation]]
+- [[Creativity]]
 
 ## Academic roots

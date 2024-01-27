@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - sustainability
 aliases: 
 description:
 ---
@@ -11,6 +12,7 @@ description:
 
 
 ## Related notes 
-
+- [[Map of Eco Design]]
+- [[MECO Matrix]]
 
 ## Academic roots

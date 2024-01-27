@@ -11,6 +11,6 @@ description:
 
 
 ## Related notes 
-
-
+- [[Interviews]]
+- [[Persona]]
 ## Academic roots

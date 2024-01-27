@@ -4,6 +4,7 @@ aliases:
 description:
 ---
 
+
 ## Description
 
 
@@ -11,6 +12,6 @@ description:
 
 
 ## Related notes 
-
+- [[Cellular Automation]]
 
 ## Academic roots

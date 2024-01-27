@@ -11,6 +11,8 @@ description:
 
 
 ## Related notes 
-
+- [[Failure Mode Effect Analysis - FMEA]]
+- 
 
 ## Academic roots
+

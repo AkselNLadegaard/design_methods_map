@@ -22,3 +22,4 @@ aliases:
 14. Extract methods 
 15. Extract principles 
 16. Link things together 
+17. Refator Academic roots to further reading and other mateirals or something like that. References, there are many good ideas 

@@ -15,4 +15,6 @@ description:
 - [[Preliminary action]]
 - [[Periodic action]]
 - [[Continuity of useful action]] 
+- [[Nudge|Nudging]]
+- [[Incentive design]]
 ## Academic roots

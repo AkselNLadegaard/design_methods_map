@@ -13,14 +13,80 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Design maps/Map of Product design.md",
+                "file": "03 Methods/Eco-Benchmarking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07b29e943ba3fbea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Methods/Benchmarking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cca7d869c915d227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Concepts/Bionics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8563d3b35f64854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Methods/Shape Grammar.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc854fd89b832794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Methods/Material Flow Analysis.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11167bc997981e32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Methods/Decision Making Trial and Evaluation Laboratory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -86,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Design maps/Map of Product design.md",
+                "file": "03 Methods/Decision Making Trial and Evaluation Laboratory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Design maps/Map of Product design.md",
+                "file": "03 Methods/Decision Making Trial and Evaluation Laboratory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Design maps/Map of Product design.md"
+                "file": "03 Methods/Decision Making Trial and Evaluation Laboratory.md"
               }
             }
           }
@@ -148,34 +214,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8952206475466ba",
+  "active": "11167bc997981e32",
   "lastOpenFiles": [
-    "01 Design maps/Map of Product design.md",
-    "03 Methods/Requirements Specification.md",
-    "00 Notebook/99 New notes/Untitled.md",
-    "04 Methodologies/TRIZ.md",
+    "03 Methods/Analysis of Interconnected Decision Areas.md",
     "00 Notebook/99 New notes/m.md",
-    "03 Methods/Poka-Yoke.md",
-    "03 Methods/Value Stream Mapping.md",
-    "03 Methods/Future state mapping.md",
-    "03 Methods/Current state mapping.md",
-    "03 Methods/Bottleneck Analysis.md",
-    "03 Methods/Fishbone diagram.md",
-    "03 Methods/Discrete event simulation.md",
-    "02 Concepts/System design.md",
-    "02 Concepts/Framing.md",
-    "00 Notebook/99 New notes/Untitled 2.md",
-    "00 Notebook/99 New notes/Untitled 1.md",
+    "00 Notebook/99 New notes/ALp.md",
+    "02 Concepts/Bionics.md",
+    "03 Methods/Canonical Correlation Analysis.md",
+    "03 Methods/Decision Making Trial and Evaluation Laboratory.md",
+    "03 Methods/Forecasting.md",
+    "03 Methods/Input-output modelling.md",
+    "03 Methods/Interpretive Structural Modeling.md",
+    "03 Methods/Material Flow Analysis.md",
+    "03 Methods/Linear Programming.md",
+    "03 Methods/Materials Energy Toxicity Matrix.md",
     "00 Notebook/99 New notes/me.md",
-    "00 Notebook/99 New notes/Untitled 4.md",
-    "03 Methods/Contradiction analysis.md",
-    "03 Methods/Problem definition.md",
-    "04 Methodologies/Behavioural Design.md",
-    "02 Concepts/Facilitation.md",
-    "02 Concepts/01 Principles/Segmentation.md",
-    "02 Concepts/Logging.md",
-    "03 Methods/Controls Systems.md",
-    "03 Methods/Design Game.md",
+    "03 Methods/Shape Grammar.md",
+    "03 Methods/Set theory.md",
+    "03 Methods/Semantic differential.md",
+    "00 Notebook/00 Read me - introduction, guidelines and instructions.md",
+    "00 Notebook/99 New notes/Untitled.md",
+    "00 Notebook/99 New notes/Untitled 8.md",
+    "03 Methods/Roadmaps.md",
+    "03 Methods/Secondary data analysis.md",
+    "02 Concepts/Instructions.md",
+    "03 Methods/Citizen Science.md",
+    "02 Concepts/Creativity.md",
+    "01 Design maps/Work design.md",
+    "03 Methods/Value frameworks.md",
+    "00 Notebook/99 Attachments/Pasted image 20211110203132.png",
     "00 Notebook/99 Attachments/Pasted image 20220502101434.png",
     "02 Concepts/01 Principles",
     "00 Notebook/99 Attachments/Pasted image 20240122233522.png",

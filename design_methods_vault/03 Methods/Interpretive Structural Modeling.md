@@ -11,6 +11,6 @@ description:
 
 
 ## Related notes 
-
+- [[Analytical Hierarchy Process]]
 
 ## Academic roots

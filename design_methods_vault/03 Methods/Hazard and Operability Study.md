@@ -1,6 +1,8 @@
 ---
-tags: 
-aliases: 
+tags:
+  - compliance
+aliases:
+  - HAZOP
 description:
 ---
 
@@ -11,6 +13,6 @@ description:
 
 
 ## Related notes 
-
+- [[Failure Mode Effect Analysis - FMEA]]
 
 ## Academic roots

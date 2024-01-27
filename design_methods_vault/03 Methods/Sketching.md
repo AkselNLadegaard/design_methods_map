@@ -11,6 +11,6 @@ description:
 
 
 ## Related notes 
-
+- [[Idea sketch]]
 
 ## Academic roots

@@ -11,6 +11,7 @@ description:
 
 
 ## Related notes 
-
+- [[Clustering]]
+- [[Grouping]]
 
 ## Academic roots
