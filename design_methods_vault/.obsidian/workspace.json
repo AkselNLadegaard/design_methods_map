@@ -73,12 +73,75 @@
             }
           },
           {
+            "id": "6f03c09bc2eed7ec",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "03 Methods/Gamification.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "-file:\"Google bard 2024\"",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7983099209587543,
+                  "close": false
+                }
+              }
+            },
+            "group": "2f192418fc183420"
+          },
+          {
             "id": "11167bc997981e32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Methods/Decision Making Trial and Evaluation Laboratory.md",
+                "file": "03 Methods/Gamification.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "group": "2f192418fc183420"
+          },
+          {
+            "id": "00ce890ee20643b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Notebook/Ignored files/Google bard 2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d4beed73880e38e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Concepts/Creativity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +149,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -136,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e7991122d1731804",
@@ -152,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Methods/Decision Making Trial and Evaluation Laboratory.md",
+                "file": "02 Concepts/Creativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Methods/Decision Making Trial and Evaluation Laboratory.md",
+                "file": "02 Concepts/Creativity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Methods/Decision Making Trial and Evaluation Laboratory.md"
+                "file": "02 Concepts/Creativity.md"
               }
             }
           }
@@ -214,14 +278,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11167bc997981e32",
+  "active": "5d4beed73880e38e",
   "lastOpenFiles": [
+    "00 Notebook/99 New notes/Degrees of freedom.md",
+    "02 Concepts/Facilitation.md",
+    "04 Methodologies/The N-Model.md",
+    "00 Notebook/03 transfer of concepts, methods, methodologies and notes.md",
+    "00 Notebook/02 Tagging.md",
+    "00 Notebook/01 To do for this project.md",
+    "03 Methods/Gamification.md",
+    "00 Notebook/Ignored files/Google bard 2024.md",
+    "00 Notebook/Ignored files",
+    "03 Methods/Decision Making Trial and Evaluation Laboratory.md",
     "03 Methods/Analysis of Interconnected Decision Areas.md",
     "00 Notebook/99 New notes/m.md",
     "00 Notebook/99 New notes/ALp.md",
     "02 Concepts/Bionics.md",
     "03 Methods/Canonical Correlation Analysis.md",
-    "03 Methods/Decision Making Trial and Evaluation Laboratory.md",
     "03 Methods/Forecasting.md",
     "03 Methods/Input-output modelling.md",
     "03 Methods/Interpretive Structural Modeling.md",
@@ -234,14 +307,6 @@
     "03 Methods/Semantic differential.md",
     "00 Notebook/00 Read me - introduction, guidelines and instructions.md",
     "00 Notebook/99 New notes/Untitled.md",
-    "00 Notebook/99 New notes/Untitled 8.md",
-    "03 Methods/Roadmaps.md",
-    "03 Methods/Secondary data analysis.md",
-    "02 Concepts/Instructions.md",
-    "03 Methods/Citizen Science.md",
-    "02 Concepts/Creativity.md",
-    "01 Design maps/Work design.md",
-    "03 Methods/Value frameworks.md",
     "00 Notebook/99 Attachments/Pasted image 20211110203132.png",
     "00 Notebook/99 Attachments/Pasted image 20220502101434.png",
     "02 Concepts/01 Principles",
@@ -256,7 +321,6 @@
     "00 Notebook/99 New canvases",
     "00 Notebook/99 Attachments",
     "00 Notebook/99 New notes",
-    "06 Templates",
-    "04 Methodologies"
+    "06 Templates"
   ]
 }

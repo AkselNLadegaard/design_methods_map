@@ -15,6 +15,8 @@ description:
 - [[Incubation]]
 - [[Priming]]
 - [[Fixation]]
+- [[Constraints]]
+- [[Degrees of freedom]]
 - 
 
 ## Academic roots
