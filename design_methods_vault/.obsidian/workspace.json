@@ -141,7 +141,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Concepts/Creativity.md",
+                "file": "02 Concepts/DFX - Design for X.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Concepts/Creativity.md",
+                "file": "02 Concepts/DFX - Design for X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Concepts/Creativity.md",
+                "file": "02 Concepts/DFX - Design for X.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Concepts/Creativity.md"
+                "file": "02 Concepts/DFX - Design for X.md"
               }
             }
           }
@@ -280,6 +280,8 @@
   },
   "active": "5d4beed73880e38e",
   "lastOpenFiles": [
+    "00 Notebook/99 New notes/Emerging Issues Analysis.md",
+    "02 Concepts/Creativity.md",
     "00 Notebook/99 New notes/Degrees of freedom.md",
     "02 Concepts/Facilitation.md",
     "04 Methodologies/The N-Model.md",
@@ -305,8 +307,6 @@
     "03 Methods/Shape Grammar.md",
     "03 Methods/Set theory.md",
     "03 Methods/Semantic differential.md",
-    "00 Notebook/00 Read me - introduction, guidelines and instructions.md",
-    "00 Notebook/99 New notes/Untitled.md",
     "00 Notebook/99 Attachments/Pasted image 20211110203132.png",
     "00 Notebook/99 Attachments/Pasted image 20220502101434.png",
     "02 Concepts/01 Principles",
