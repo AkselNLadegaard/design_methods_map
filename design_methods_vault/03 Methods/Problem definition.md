@@ -17,6 +17,8 @@ description:
 - [[Positive framing]]
 - [[Reframing]]
 - [[Requirements Specification]]
+- [[Wicked Problems]]
+- [[Framing]]
 ## Related notes 
 
 

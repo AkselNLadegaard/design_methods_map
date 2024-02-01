@@ -43,5 +43,6 @@ aliases:
 ## Related notes 
 - [[SCAMPER]]
 - [[3-6-5 method]]
+- [[Association Chains]]
 
 ## Academic roots

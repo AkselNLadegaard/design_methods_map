@@ -141,7 +141,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Concepts/DFX - Design for X.md",
+                "file": "03 Methods/Workshops.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "group": "16244d8f0f47c958"
+          },
+          {
+            "id": "ccbc9eb77028b69a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Methodologies/Behavioural Design.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -149,7 +163,49 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
+      },
+      {
+        "id": "eff3bdb06dcb62da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20c4f101fb414c7d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "03 Methods/Workshops.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6666666666666669,
+                  "close": false
+                }
+              }
+            },
+            "group": "16244d8f0f47c958"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,8 +255,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e7991122d1731804",
@@ -216,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Concepts/DFX - Design for X.md",
+                "file": "04 Methodologies/Behavioural Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Concepts/DFX - Design for X.md",
+                "file": "04 Methodologies/Behavioural Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Concepts/DFX - Design for X.md"
+                "file": "04 Methodologies/Behavioural Design.md"
               }
             }
           }
@@ -278,12 +333,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d4beed73880e38e",
+  "active": "ccbc9eb77028b69a",
   "lastOpenFiles": [
+    "00 Notebook/99 New notes/Habits.md",
+    "04 Methodologies/Behavioural Design.md",
+    "00 Notebook/99 New notes/Humans.md",
+    "00 Notebook/99 New notes/Behavioural Design Framework.md",
+    "02 Concepts/Warm up.md",
+    "03 Methods/Workshops.md",
+    "03 Methods/Brain writing.md",
+    "02 Concepts/Facilitation.md",
+    "01 Design maps/03 Map of Double Diamond Methods 💎💎.md",
+    "02 Concepts/Double Diamond.md",
+    "03 Methods/Problem definition.md",
+    "00 Notebook/99 New notes/Wicked Problems.md",
+    "00 Notebook/99 New notes/Collective Impact.md",
+    "02 Concepts/DFX - Design for X.md",
     "00 Notebook/99 New notes/Emerging Issues Analysis.md",
     "02 Concepts/Creativity.md",
     "00 Notebook/99 New notes/Degrees of freedom.md",
-    "02 Concepts/Facilitation.md",
     "04 Methodologies/The N-Model.md",
     "00 Notebook/03 transfer of concepts, methods, methodologies and notes.md",
     "00 Notebook/02 Tagging.md",
@@ -294,19 +362,6 @@
     "03 Methods/Decision Making Trial and Evaluation Laboratory.md",
     "03 Methods/Analysis of Interconnected Decision Areas.md",
     "00 Notebook/99 New notes/m.md",
-    "00 Notebook/99 New notes/ALp.md",
-    "02 Concepts/Bionics.md",
-    "03 Methods/Canonical Correlation Analysis.md",
-    "03 Methods/Forecasting.md",
-    "03 Methods/Input-output modelling.md",
-    "03 Methods/Interpretive Structural Modeling.md",
-    "03 Methods/Material Flow Analysis.md",
-    "03 Methods/Linear Programming.md",
-    "03 Methods/Materials Energy Toxicity Matrix.md",
-    "00 Notebook/99 New notes/me.md",
-    "03 Methods/Shape Grammar.md",
-    "03 Methods/Set theory.md",
-    "03 Methods/Semantic differential.md",
     "00 Notebook/99 Attachments/Pasted image 20211110203132.png",
     "00 Notebook/99 Attachments/Pasted image 20220502101434.png",
     "02 Concepts/01 Principles",
