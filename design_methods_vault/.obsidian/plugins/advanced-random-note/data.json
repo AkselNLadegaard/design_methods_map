@@ -1,0 +1,17 @@
+{
+  "queries": [
+    {
+      "id": "query:9b22faa0-c58e-4be6-880d-315f321f4aeb",
+      "name": "concept",
+      "query": "path:02 Concepts",
+      "type": "Default",
+      "createCommand": false,
+      "useDisabledFolders": true,
+      "openType": "Default"
+    }
+  ],
+  "disabledFolders": "",
+  "debug": false,
+  "openType": "Active Leaf",
+  "setActive": true
+}

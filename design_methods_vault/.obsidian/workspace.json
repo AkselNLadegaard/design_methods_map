@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Design maps/TRIZ Principles.md",
+                "file": "00 Notebook/AI LLM templates/bard 2024 template filler.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,25 @@
             }
           },
           {
-            "id": "cca7d869c915d227",
+            "id": "b39e9d2a5f9d2780",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Concepts/Bionics.md",
+                "file": "00 Notebook/99 New notes/Concurrent verbal protocol.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4379c61d793a0b6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Notebook/99 New notes/Alignment Aesthetics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +91,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 Methods/Gamification.md",
+                "file": "02 Concepts/Facilitation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:\"Google bard 2024\"",
@@ -114,10 +127,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Methods/Gamification.md",
+                "file": "02 Concepts/Facilitation.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             },
             "group": "2f192418fc183420"
@@ -175,7 +188,26 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "74f74d7ab7603afd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbd53e37f57d2957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Notebook/AI LLM templates/bard 2024 template filler.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Design maps/TRIZ Principles.md",
+                "file": "00 Notebook/99 New notes/Alignment Aesthetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Design maps/TRIZ Principles.md",
+                "file": "00 Notebook/99 New notes/Alignment Aesthetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Design maps/TRIZ Principles.md"
+                "file": "00 Notebook/99 New notes/Alignment Aesthetics.md"
               }
             }
           }
@@ -300,37 +332,39 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "advanced-random-note:Open random note modal": false
     }
   },
-  "active": "07b29e943ba3fbea",
+  "active": "4379c61d793a0b6f",
   "lastOpenFiles": [
-    "03 Methods/Affinity Diagrams.md",
-    "00 Notebook/99 New notes/Social Implication Design.md",
-    "04 Methodologies/TRIZ.md",
-    "03 Methods/Benchmarking.md",
-    "03 Methods/Eco-Benchmarking.md",
-    "04 Methodologies/Behavioural Design.md",
-    "00 Notebook/99 New notes/SOFT Systems.md",
-    "00 Notebook/99 New notes/Work flow model.md",
-    "01 Design maps/Map of Product Service System design.md",
-    "00 Notebook/99 New notes/Habits.md",
-    "00 Notebook/99 New notes/Humans.md",
-    "00 Notebook/99 New notes/Behavioural Design Framework.md",
-    "02 Concepts/Warm up.md",
-    "03 Methods/Workshops.md",
-    "03 Methods/Brain writing.md",
-    "02 Concepts/Facilitation.md",
-    "01 Design maps/03 Map of Double Diamond Methods 💎💎.md",
-    "02 Concepts/Double Diamond.md",
-    "03 Methods/Problem definition.md",
-    "00 Notebook/99 New notes/Wicked Problems.md",
-    "00 Notebook/99 New notes/Collective Impact.md",
-    "02 Concepts/DFX - Design for X.md",
-    "00 Notebook/99 New notes/Emerging Issues Analysis.md",
-    "02 Concepts/Creativity.md",
-    "00 Notebook/99 New notes/Degrees of freedom.md",
-    "04 Methodologies/The N-Model.md",
+    "02 Concepts/Alignment.md",
+    "00 Notebook/99 New notes/Alignment Aesthetics.md",
+    "03 Methods/Governance Models.md",
+    "03 Methods/Product Passport.md",
+    "01 Design maps/TRIZ Methods.md",
+    "03 Methods/Time Aware Research.md",
+    "02 Concepts/Goodhart's Law.md",
+    "03 Methods/Value analysis.md",
+    "00 Notebook/AI LLM templates/bard 2024 template filler.md",
+    "02 Concepts/Organizational Silence.md",
+    "02 Concepts/Chunking.md",
+    "00 Notebook/99 New notes/Concurrent verbal protocol.md",
+    "03 Methods/Thinking Out Loud.md",
+    "03 Methods/Protocol Analysis.md",
+    "03 Methods/Contextual Interview.md",
+    "00 Notebook/99 New notes/Appreciative inquiry.md",
+    "03 Methods/Check sheet.md",
+    "03 Methods/Future state mapping.md",
+    "03 Methods/Causal Analysis.md",
+    "06 Templates/New method template.md",
+    "04 Methodologies/Universal Design.md",
+    "00 Notebook/99 New notes/Fault tolerance.md",
+    "00 Notebook/99 New notes/Simple.md",
+    "03 Methods/Functional Prototyping.md",
+    "06 Templates/New note template.md",
+    "03 Methods/Checklist.md",
+    "00 Notebook/AI LLM templates",
     "00 Notebook/Ignored files",
     "00 Notebook/99 Attachments/Pasted image 20211110203132.png",
     "00 Notebook/99 Attachments/Pasted image 20220502101434.png",
@@ -345,7 +379,6 @@
     "Methods/Untitled",
     "00 Notebook/99 New canvases",
     "00 Notebook/99 Attachments",
-    "00 Notebook/99 New notes",
-    "06 Templates"
+    "00 Notebook/99 New notes"
   ]
 }

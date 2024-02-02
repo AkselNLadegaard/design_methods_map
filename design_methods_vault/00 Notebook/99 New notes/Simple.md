@@ -1,6 +1,7 @@
 ---
 tags: 
-aliases: 
+aliases:
+  - simplicity
 description:
 ---
 
@@ -11,8 +12,6 @@ description:
 
 
 ## Related notes 
-- [[Morphology]]
-- [[Morphological analysis]]
 
-## Academic roots
- 
+
+## Related content and sources
