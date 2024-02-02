@@ -20,7 +20,7 @@ description:
 - [[Incentive design]]
 - [[IN-CASE framework]]
 
-
+-  [[Social Implication Design]]
 --- 
 - [[Persuasion]]
 - [[Motivation]]
