@@ -24,6 +24,6 @@ aliases:
 - [[Workshops]]
 - [[Boundary objects]] especially in relation of maintaining boundary objects or creating new on basis of the consolidation of new input
 - [[Design reviews]]
-- 
+- [[Debriefing]]
 
 ## Academic roots

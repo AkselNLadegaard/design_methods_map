@@ -13,82 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Notebook/AI LLM templates/bard 2024 template filler.md",
+                "file": "02 Concepts/Nemesis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "4c88576a5bb52842",
+        "type": "tabs",
+        "children": [
           {
-            "id": "ac50c4f250356669",
+            "id": "049edcc02f4e0709",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d79d91e2bb07316d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f5c7e217a9ba529e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Methods/Swimlane Diagram.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07fccf1f36a1aba9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Notebook/99 New notes/Process mapping.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "213aa817224d89a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Concepts/Arena.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78272741a319fd46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Concepts/Facilitation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e7991122d1731804",
@@ -155,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 Concepts/Nemesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 Concepts/Nemesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 Concepts/Nemesis.md"
+              }
             }
           }
         ],
@@ -214,34 +163,35 @@
       "advanced-random-note:Open random note modal": false
     }
   },
-  "active": "ac50c4f250356669",
+  "active": "4c9f5eb0ae5f0caf",
   "lastOpenFiles": [
+    "03 Methods/Case studies.md",
+    "02 Concepts/Progressive Disclosure.md",
+    "02 Concepts/Signal to Noise Ratio.md",
+    "02 Concepts/Value Density.md",
+    "00 Notebook/99 Attachments/Pasted image 20240206231743.png",
     "02 Concepts/Facilitation.md",
+    "02 Concepts/Arena.md",
+    "03 Methods/Critical Incident Technique.md",
+    "03 Methods/Swimlane Diagram.md",
+    "02 Concepts/Reflective practitioner.md",
+    "03 Methods/Process mapping.md",
+    "00 Notebook/Alignment Aesthetics.md",
+    "02 Concepts/Self improvement.md",
+    "02 Concepts/Simple.md",
+    "02 Concepts/Mental Model.md",
+    "00 Notebook/AI LLM templates/bard 2024 template filler.md",
+    "03 Methods/Consolidation Session.md",
+    "03 Methods/Research Through Design.md",
+    "03 Methods/Mass Flow Analysis.md",
+    "03 Methods/SWOT - Strengths, Weaknesses, Opportunities and Threats.md",
     "03 Methods/Negative Brainstorming.md",
     "03 Methods/Quality Function Deployment.md",
     "02 Concepts/DFX - Design for X.md",
     "02 Concepts/Quality Assurance.md",
-    "00 Notebook/99 New notes/Competitive analysis.md",
-    "02 Concepts/Arena.md",
-    "00 Notebook/99 New notes/Market analysis.md",
+    "03 Methods/Competitive analysis.md",
+    "03 Methods/Market analysis.md",
     "03 Methods/Competitor Analysis.md",
-    "02 Concepts/Controls.md",
-    "03 Methods/Decision Making Trial and Evaluation Laboratory, DEMATEL.md",
-    "03 Methods/Delphi Surveys.md",
-    "02 Concepts/Product Platforms.md",
-    "02 Concepts/Technology Architecture.md",
-    "04 Methodologies/Generative Design.md",
-    "00 Notebook/99 New notes/Functional  Analysis.md",
-    "00 Notebook/99 New notes/Modules.md",
-    "03 Methods/Rubber ducking.md",
-    "03 Methods/The Breakup Letter.md",
-    "00 Notebook/99 New notes/Process mapping.md",
-    "03 Methods/Swimlane Diagram.md",
-    "00 Notebook/00 Read me - introduction, guidelines and instructions.md",
-    "03 Methods/Goal setting.md",
-    "00 Notebook/AI LLM templates/bard 2024 template filler.md",
-    "02 Concepts/Engineering Systems Level.md",
-    "03 Methods/Design specification.md",
     "00 Notebook/AI LLM templates",
     "00 Notebook/Ignored files",
     "00 Notebook/99 Attachments/Pasted image 20211110203132.png",
