@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c08c33b46d8d1e24",
+        "id": "2a0173a6928959bb",
         "type": "tabs",
         "children": [
           {
-            "id": "b8952206475466ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Methods/Eco-Benchmarking.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07b29e943ba3fbea",
+            "id": "4c9f5eb0ae5f0caf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,12 +21,27 @@
             }
           },
           {
-            "id": "b39e9d2a5f9d2780",
+            "id": "ac50c4f250356669",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d79d91e2bb07316d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5c7e217a9ba529e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Notebook/99 New notes/Concurrent verbal protocol.md",
+                "file": "03 Methods/Swimlane Diagram.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +49,12 @@
             }
           },
           {
-            "id": "4379c61d793a0b6f",
+            "id": "07fccf1f36a1aba9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Notebook/99 New notes/Alignment Aesthetics.md",
+                "file": "00 Notebook/99 New notes/Process mapping.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +62,12 @@
             }
           },
           {
-            "id": "d8563d3b35f64854",
+            "id": "213aa817224d89a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Methods/Shape Grammar.md",
+                "file": "02 Concepts/Arena.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,114 +75,12 @@
             }
           },
           {
-            "id": "dc854fd89b832794",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Methods/Material Flow Analysis.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f03c09bc2eed7ec",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "02 Concepts/Facilitation.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "-file:\"Google bard 2024\"",
-                  "localJumps": 3,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7983099209587543,
-                  "close": false
-                }
-              }
-            },
-            "group": "2f192418fc183420"
-          },
-          {
-            "id": "11167bc997981e32",
+            "id": "78272741a319fd46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "02 Concepts/Facilitation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            },
-            "group": "2f192418fc183420"
-          },
-          {
-            "id": "00ce890ee20643b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Notebook/Ignored files/Google bard 2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d4beed73880e38e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Methods/Workshops.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccbc9eb77028b69a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Design maps/Map of Product Service System design.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "928ddd4bb8b1b444",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Methodologies/Behavioural Design.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -189,25 +89,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "74f74d7ab7603afd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bbd53e37f57d2957",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Notebook/AI LLM templates/bard 2024 template filler.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -257,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e7991122d1731804",
@@ -273,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Notebook/99 New notes/Alignment Aesthetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Notebook/99 New notes/Alignment Aesthetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00 Notebook/99 New notes/Alignment Aesthetics.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -336,34 +214,34 @@
       "advanced-random-note:Open random note modal": false
     }
   },
-  "active": "4379c61d793a0b6f",
+  "active": "ac50c4f250356669",
   "lastOpenFiles": [
-    "02 Concepts/Alignment.md",
-    "00 Notebook/99 New notes/Alignment Aesthetics.md",
-    "03 Methods/Governance Models.md",
-    "03 Methods/Product Passport.md",
-    "01 Design maps/TRIZ Methods.md",
-    "03 Methods/Time Aware Research.md",
-    "02 Concepts/Goodhart's Law.md",
-    "03 Methods/Value analysis.md",
+    "02 Concepts/Facilitation.md",
+    "03 Methods/Negative Brainstorming.md",
+    "03 Methods/Quality Function Deployment.md",
+    "02 Concepts/DFX - Design for X.md",
+    "02 Concepts/Quality Assurance.md",
+    "00 Notebook/99 New notes/Competitive analysis.md",
+    "02 Concepts/Arena.md",
+    "00 Notebook/99 New notes/Market analysis.md",
+    "03 Methods/Competitor Analysis.md",
+    "02 Concepts/Controls.md",
+    "03 Methods/Decision Making Trial and Evaluation Laboratory, DEMATEL.md",
+    "03 Methods/Delphi Surveys.md",
+    "02 Concepts/Product Platforms.md",
+    "02 Concepts/Technology Architecture.md",
+    "04 Methodologies/Generative Design.md",
+    "00 Notebook/99 New notes/Functional  Analysis.md",
+    "00 Notebook/99 New notes/Modules.md",
+    "03 Methods/Rubber ducking.md",
+    "03 Methods/The Breakup Letter.md",
+    "00 Notebook/99 New notes/Process mapping.md",
+    "03 Methods/Swimlane Diagram.md",
+    "00 Notebook/00 Read me - introduction, guidelines and instructions.md",
+    "03 Methods/Goal setting.md",
     "00 Notebook/AI LLM templates/bard 2024 template filler.md",
-    "02 Concepts/Organizational Silence.md",
-    "02 Concepts/Chunking.md",
-    "00 Notebook/99 New notes/Concurrent verbal protocol.md",
-    "03 Methods/Thinking Out Loud.md",
-    "03 Methods/Protocol Analysis.md",
-    "03 Methods/Contextual Interview.md",
-    "00 Notebook/99 New notes/Appreciative inquiry.md",
-    "03 Methods/Check sheet.md",
-    "03 Methods/Future state mapping.md",
-    "03 Methods/Causal Analysis.md",
-    "06 Templates/New method template.md",
-    "04 Methodologies/Universal Design.md",
-    "00 Notebook/99 New notes/Fault tolerance.md",
-    "00 Notebook/99 New notes/Simple.md",
-    "03 Methods/Functional Prototyping.md",
-    "06 Templates/New note template.md",
-    "03 Methods/Checklist.md",
+    "02 Concepts/Engineering Systems Level.md",
+    "03 Methods/Design specification.md",
     "00 Notebook/AI LLM templates",
     "00 Notebook/Ignored files",
     "00 Notebook/99 Attachments/Pasted image 20211110203132.png",

@@ -8,7 +8,7 @@ description:
 
 
 ## Examples 
-
+- [[Design for Manufacturing]]
 
 ## Related notes 
 - [[Issue led design]]

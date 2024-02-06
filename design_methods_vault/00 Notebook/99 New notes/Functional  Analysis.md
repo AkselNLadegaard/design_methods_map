@@ -1,7 +1,6 @@
 ---
 tags: 
-aliases:
-  - Quality Management
+aliases: 
 description:
 ---
 
@@ -12,7 +11,9 @@ description:
 
 
 ## Related concepts and principles
-
+- [[Physical Domain]]
+- [[Functional Domain]]
+- [[Technology Domain]]
 
 ## Related methods
 

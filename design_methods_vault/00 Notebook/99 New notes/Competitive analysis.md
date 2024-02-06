@@ -1,7 +1,6 @@
 ---
 tags: 
-aliases:
-  - Quality Management
+aliases: 
 description:
 ---
 
@@ -15,6 +14,6 @@ description:
 
 
 ## Related methods
-
+- [[Industry analysis]]
 
 ## Related content and sources

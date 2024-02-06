@@ -1,6 +1,7 @@
 ---
 tags: 
-aliases: 
+aliases:
+  - Delphi method
 description:
 ---
 
@@ -13,5 +14,6 @@ A Delphi survey is a qualitative research method that seeks to gather and synthe
 ## Related notes 
 - [[Nominal Group Technique]]
 - [[Focus Groups]]
-
+- [[Fuzzy Delphi Method]]
+- 
 ## Academic roots

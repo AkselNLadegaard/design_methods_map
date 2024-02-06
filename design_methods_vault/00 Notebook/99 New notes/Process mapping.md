@@ -1,7 +1,7 @@
 ---
 tags: 
 aliases:
-  - Quality Management
+  - Process modelling
 description:
 ---
 
