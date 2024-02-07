@@ -1,11 +1,13 @@
 ---
 tags:
   - "#notebook/help"
+  - ignored
 aliases:
   - help
   - introduction
   - inscript
   - readMe
+description:
 ---
 
 The goal of this obsidian notebook is to be a living collection of design methods, concepts and methodologies, with descriptions, examples and relation to other methods, concepts and methodologies. 

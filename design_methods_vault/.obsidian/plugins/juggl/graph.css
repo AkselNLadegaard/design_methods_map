@@ -1,0 +1,7 @@
+
+/* For a full overview of styling options, see https://js.cytoscape.org/#style */
+
+.note {
+	text-opacity: 1.0;
+	font-size: 10;
+}

@@ -23,3 +23,9 @@ aliases:
 15. Extract principles 
 16. Link things together 
 17. Refator Academic roots to further reading and other mateirals or something like that. References, there are many good ideas 
+18. Where should sustainability methods be? E.g., transformational change, etc.
+	1. What should link to planetary boundaries and things that are relevant everywhere
+19. Switch to https://github.com/IdreesInc/Waypoint no implement dataview with templater to have a publishing process.
+	1. This requires making a set of must have maps that will be reflected in graph view
+20. Setup obsidian/publish
+21. 

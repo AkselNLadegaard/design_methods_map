@@ -11,6 +11,7 @@ description:
 - [[Behavioural Design Framework]]
 
 ## Related notes 
+- [[Ethical design]]
 - [[Humans]]
 - [[Preliminary anti-action]]
 - [[Preliminary action]]
@@ -30,5 +31,9 @@ description:
 - [[Reciprocity]]
 - [[Authority]]
 
+
+## Methods
+- [[Positive reinforcement]]
+- [[Framing]]
 ## Academic roots
 

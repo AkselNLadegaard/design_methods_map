@@ -17,5 +17,6 @@ aliases:
 - [[Mood Boards|Moodboard]]
 - [[Boundary objects]]
 - [[Facilitation]]
+- [[Props]]
 
 ## Academic roots

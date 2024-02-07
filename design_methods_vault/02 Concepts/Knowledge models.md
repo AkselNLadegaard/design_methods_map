@@ -1,7 +1,6 @@
 ---
 tags: 
-aliases:
-  - What if analysis
+aliases: 
 description:
 ---
 
@@ -12,7 +11,7 @@ description:
 
 
 ## Related concepts and principles
-
+- [[Knowledge trees]]
 
 ## Related methods
 

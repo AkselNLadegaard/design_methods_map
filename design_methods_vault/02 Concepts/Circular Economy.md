@@ -1,7 +1,6 @@
 ---
 tags: 
-aliases:
-  - What if analysis
+aliases: 
 description:
 ---
 
@@ -12,9 +11,11 @@ description:
 
 
 ## Related concepts and principles
-
+- [[Linear economy]]
+-  [[Donut economy]]
 
 ## Related methods
 
 
 ## Related content and sources
+- https://www.wikiwand.com/en/Circular_economy

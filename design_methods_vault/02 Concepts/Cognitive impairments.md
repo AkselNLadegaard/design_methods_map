@@ -1,7 +1,7 @@
 ---
 tags: 
 aliases:
-  - What if analysis
+  - Cognitive disability
 description:
 ---
 

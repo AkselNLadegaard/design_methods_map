@@ -4,30 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a0173a6928959bb",
+        "id": "97abf3a8e43bd41a",
         "type": "tabs",
         "children": [
           {
-            "id": "4c9f5eb0ae5f0caf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Concepts/Nemesis.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4c88576a5bb52842",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "049edcc02f4e0709",
+            "id": "373d14038b848906",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Concepts/Nemesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Concepts/Nemesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +118,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 Concepts/Nemesis.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "7e77aaf1f4d10e53",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d6bf429e1a6c109",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
             }
           }
         ],
@@ -163,35 +156,36 @@
       "advanced-random-note:Open random note modal": false
     }
   },
-  "active": "4c9f5eb0ae5f0caf",
+  "active": "373d14038b848906",
   "lastOpenFiles": [
-    "03 Methods/Case studies.md",
-    "02 Concepts/Progressive Disclosure.md",
-    "02 Concepts/Signal to Noise Ratio.md",
-    "02 Concepts/Value Density.md",
-    "00 Notebook/99 Attachments/Pasted image 20240206231743.png",
+    "02 Concepts/Material efficiency.md",
+    "02 Concepts/The 6rs.md",
+    "00 Notebook/00 Read me - introduction, guidelines and instructions.md",
     "02 Concepts/Facilitation.md",
-    "02 Concepts/Arena.md",
-    "03 Methods/Critical Incident Technique.md",
-    "03 Methods/Swimlane Diagram.md",
-    "02 Concepts/Reflective practitioner.md",
-    "03 Methods/Process mapping.md",
-    "00 Notebook/Alignment Aesthetics.md",
-    "02 Concepts/Self improvement.md",
-    "02 Concepts/Simple.md",
+    "03 Methods/Policy design.md",
+    "02 Concepts/Circular Design.md",
+    "03 Methods/Policy analysis.md",
+    "02 Concepts/Regulation.md",
+    "03 Methods/Life cycle value stream matrix.md",
+    "02 Concepts/Refurbish.md",
+    "02 Concepts/Circular Economy.md",
+    "02 Concepts/Planetary boundaries.md",
+    "02 Concepts/Vertical integration.md",
+    "02 Concepts/Horizontal integration.md",
+    "03 Methods/Persona.md",
     "02 Concepts/Mental Model.md",
-    "00 Notebook/AI LLM templates/bard 2024 template filler.md",
-    "03 Methods/Consolidation Session.md",
-    "03 Methods/Research Through Design.md",
-    "03 Methods/Mass Flow Analysis.md",
-    "03 Methods/SWOT - Strengths, Weaknesses, Opportunities and Threats.md",
-    "03 Methods/Negative Brainstorming.md",
-    "03 Methods/Quality Function Deployment.md",
-    "02 Concepts/DFX - Design for X.md",
-    "02 Concepts/Quality Assurance.md",
-    "03 Methods/Competitive analysis.md",
-    "03 Methods/Market analysis.md",
-    "03 Methods/Competitor Analysis.md",
+    "02 Concepts/Marketing.md",
+    "03 Methods/Cognitive Mapping.md",
+    "00 Notebook/Ignored files/Google bard 2024.md",
+    "02 Concepts/Social biases.md",
+    "02 Concepts/Spaced repetition.md",
+    "02 Concepts/Cognitive biases.md",
+    "02 Concepts/Perceptual biases.md",
+    "04 Methodologies/Behavioural Design.md",
+    "02 Concepts/Defaults.md",
+    "02 Concepts/Memory biases.md",
+    "adj 2024-02-07 210622.png",
+    "00 Notebook/99 Attachments/Pasted image 20240206231743.png",
     "00 Notebook/AI LLM templates",
     "00 Notebook/Ignored files",
     "00 Notebook/99 Attachments/Pasted image 20211110203132.png",

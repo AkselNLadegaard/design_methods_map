@@ -1,7 +1,10 @@
 ---
-tags: 
-aliases:
-  - What if analysis
+tags:
+  - learning
+  - cognition
+  - methods
+  - concepts
+aliases: 
 description:
 ---
 
@@ -15,6 +18,6 @@ description:
 
 
 ## Related methods
-
+- [[Brand repetition]]
 
 ## Related content and sources

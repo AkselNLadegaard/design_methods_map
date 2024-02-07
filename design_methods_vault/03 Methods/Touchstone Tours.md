@@ -14,5 +14,8 @@ Going to see the key touchpoints of ones user journey, e.g., visiting the differ
 
 ## Related notes 
 - [[Site visits]]
+- [[User journeys]]
+- [[Field Work]]
+- [[Empathy]]
 
 ## Academic roots

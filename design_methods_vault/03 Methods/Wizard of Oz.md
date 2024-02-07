@@ -1,5 +1,9 @@
 ---
-tags: 
+tags:
+  - prototyping
+  - phase/diverging
+  - phase/converging
+  - goal/evaluate
 aliases: 
 description:
 ---
@@ -8,9 +12,10 @@ description:
 A prototyping method where you fake complicated functionality to get feedback before developing it. 
 
 ## Examples 
-Faking an AI assistant by a human playing the AI assistant role. 
+Faking an AI assistant by a human playing the AI assistant role.  
 
 ## Related notes 
-
+- [[Functional Prototyping]]
+- [[Low fidelity prototype]]
 
 ## Academic roots
