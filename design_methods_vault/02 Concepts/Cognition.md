@@ -27,6 +27,9 @@ description:
 
 - [[Cognitive impairments]]
 
+- [[System 1 thinking]]
+- [[System 2 thinking]]
+
 ## Related methods
 
 

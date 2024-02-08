@@ -1,6 +1,7 @@
 ---
 tags: 
-aliases: 
+aliases:
+  - Disabilities
 description:
 ---
 
@@ -12,9 +13,9 @@ description:
 
 ## Related concepts and principles
 - Temporal type:
-	- [[Temporary Disabilities]] i.e., knee injury
-	- [[Permanent Disabilities]] 
-	- [[Situational disabilities]] i.e., pregnancy, heavy accent 
+	- [[Temporary Abilities]] i.e., knee injury
+	- [[Permanent Abilities]] 
+	- [[Situational abilities]] i.e., pregnancy, heavy accent 
 - Many categorisations 
 	- [[Mobility impairment]]
 	- [[Sensory impairments]]
