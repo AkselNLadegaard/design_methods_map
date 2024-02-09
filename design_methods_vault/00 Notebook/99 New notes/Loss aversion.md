@@ -14,9 +14,13 @@ description:
 
 
 ## Related methods
-- [[Crazy 8's]]
-- [[Brainstorming]]
-- [[Brain writing]]
-- 
+
+
+
+
+
+
+
 
 ## Related content and sources
+zc

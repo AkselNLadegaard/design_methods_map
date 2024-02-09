@@ -1,7 +1,7 @@
 ---
 tags: 
 aliases:
-  - User Experience
+  - UI design
 description:
 ---
 
@@ -12,10 +12,13 @@ description:
 
 
 ## Related concepts and principles
-- [[Gamification]]
-- [[Service design]]
+- [[Ambient communication]]
+- [[Personalisation]]
+- [[Affordance]]
+- [[Gestalt principles]]
 
 ## Related methods
+- [[User Experience Design - UX]]
 
 
 ## Related content and sources

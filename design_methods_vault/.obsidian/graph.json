@@ -1,9 +1,9 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-path:\"00 Notebook\" -path:\"00 Notebook/99 Attachments\"  ",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
@@ -34,11 +34,11 @@
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.22291666666667,
   "lineSizeMultiplier": 1.27395833333333,
-  "collapse-forces": true,
-  "centerStrength": 0.768385899814471,
-  "repelStrength": 20,
+  "collapse-forces": false,
+  "centerStrength": 0.416666666666667,
+  "repelStrength": 8.64583333333333,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.12091417933161218,
+  "linkDistance": 162,
+  "scale": 0.12091417933161448,
   "close": false
 }

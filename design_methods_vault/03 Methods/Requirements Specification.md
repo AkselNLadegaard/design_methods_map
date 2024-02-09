@@ -1,6 +1,10 @@
 ---
-tags: 
-aliases: 
+tags:
+  - specification
+  - requirements
+  - boundaryObject
+aliases:
+  - Kravspecifikation
 description:
 ---
 
@@ -13,5 +17,6 @@ description:
 - [[Product Properties]]
 - [[Cost-Benefit]]
 
-- 
+- [[Requirements]]: have to
+- [[Criteria]]: how well
 ## Academic roots

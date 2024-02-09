@@ -28,4 +28,10 @@ aliases:
 19. Switch to https://github.com/IdreesInc/Waypoint no implement dataview with templater to have a publishing process.
 	1. This requires making a set of must have maps that will be reflected in graph view
 20. Setup obsidian/publish
-21. 
+21. Add note for Returning customers and replayability and find interlink with service/game deisgn or something.
+22. https://docs.google.com/spreadsheets/d/17mNG8OXEPQqWJliw3OAAvWkPP37xtHMd/edit#gid=745137822
+23. Cleanup
+24. Discuss folder structure 
+25. CSS styling of juggl graph view based on folder, posb. tag
+26. https://www.mcgill.ca/engineeringdesign/step-step-design-process/design-methods
+27. Nigel cross engineering desigh? 

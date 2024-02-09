@@ -7,10 +7,10 @@ aliases:
   - Policy
 description:
 ---
-Todo find nice way of having a policy note
-
-**>Written by [[Google bard 2024]]**
+Partially by [[Google bard 2024]]
 ## Description
+All policy design is inherently related to [[Behavioural Design]].
+
 Regulation and policy can be categorized in various ways, depending on the desired perspective. Here are some common approaches:
 
 **By Level of [[Authority]]:**
@@ -34,7 +34,7 @@ Regulation and policy can be categorized in various ways, depending on the desir
 - **[[Market-based instruments]]:** Use economic incentives like taxes, subsidies, or trading schemes to achieve policy goals.
 - **[[Information-based instruments]]:** Provide transparency and public disclosure to influence behaviour.
 - **[[Voluntary approaches]]:** Encourage desired behaviour through collaboration, education, or incentives without mandatory rules.
-- [ ] Find new policy instruments using design, possible exercise for the reader. 
+- [ ] Find new policy instruments using design, possible exercise for the reader ;). 
 
 **Other Frameworks:**
 

@@ -14,9 +14,6 @@ description:
 
 
 ## Related methods
-- [[Crazy 8's]]
-- [[Brainstorming]]
-- [[Brain writing]]
-- 
+- [[Value proposition canvas]]
 
 ## Related content and sources

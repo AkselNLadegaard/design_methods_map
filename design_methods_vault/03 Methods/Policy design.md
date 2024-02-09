@@ -15,20 +15,19 @@ A framework adapted from by policy visuals
 
 - [[Implementation]]
 - [[Monitoring]]
-- [[Communication]] about the policy
-
-- [[Impact assessment]]
-- Restructuring, adaptation, abolishment, pivot
-
-## Examples 
+- [[Communication]] 
+- Redesign or similar 
 
 
 ## Related concepts and principles
 - [[Regulation]] which are where most policy-[[Instruments]] exist 
-- 
 
 ## Related methods
 
+- [[Impact assessment]]
+- [[Public discourse]]
+
+ 
 
 ## Related content and sources
 https://policyvisuals.eu/policy-design/

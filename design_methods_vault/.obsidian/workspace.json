@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Notebook/99 New notes/Game design.md",
+                "file": "02 Concepts/Axiomatic design.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3133b246c7c10a9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Notebook/01 To do for this project.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -31,6 +44,23 @@
                 "backlinks": true,
                 "source": false
               }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "bab3b42b0315a0bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5c2e3de105c873b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -79,7 +109,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Notebook/99 New notes/Game design.md",
+                "file": "00 Notebook/01 To do for this project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Notebook/99 New notes/Game design.md",
+                "file": "00 Notebook/01 To do for this project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Notebook/99 New notes/Game design.md"
+                "file": "00 Notebook/01 To do for this project.md"
               }
             }
           },
@@ -178,34 +209,34 @@
       "advanced-random-note:Open random note modal": false
     }
   },
-  "active": "0d500b6706af06ee",
+  "active": "3133b246c7c10a9f",
   "lastOpenFiles": [
+    "02 Concepts/Axiomatic design.md",
+    "02 Concepts/Web Accessibility - WCAG.md",
+    "02 Concepts/Taxonomy.md",
+    "00 Notebook/99 New notes/Value proposition.md",
+    "00 Notebook/01 To do for this project.md",
+    "02 Concepts/Ideation.md",
+    "03 Methods/Negative Brainstorming.md",
+    "04 Methodologies/User Experience Design - UX.md",
+    "00 Notebook/99 New notes/User Interface design.md",
+    "04 Methodologies/Behavioural Design.md",
+    "00 Notebook/99 New notes/Cue Action Reward - CAR model.md",
+    "00 Notebook/99 New notes/Reward.md",
+    "02 Concepts/Behaviour Change.md",
+    "00 Notebook/99 New notes/Decision making.md",
+    "00 Notebook/99 New notes/Loss aversion.md",
+    "02 Concepts/Situational abilities.md",
+    "01 Design maps/Game design.md",
     "03 Methods/Performance Evaluation.md",
-    "00 Notebook/99 New notes/Game design.md",
     "02 Concepts/Regulation.md",
     "03 Methods/Policy design.md",
-    "04 Methodologies/Behavioural Design.md",
-    "02 Concepts/Situational abilities.md",
-    "02 Concepts/Ability.md",
-    "02 Concepts/Permanent Abilities.md",
-    "02 Concepts/Temporary Abilities.md",
-    "02 Concepts/Motivation.md",
-    "04 Methodologies/Behavioural Design Framework.md",
-    "02 Concepts/Behaviour Change.md",
-    "02 Concepts/Cognition.md",
-    "02 Concepts/Social Context.md",
-    "02 Concepts/Material efficiency.md",
-    "02 Concepts/The 6rs.md",
-    "00 Notebook/00 Read me - introduction, guidelines and instructions.md",
-    "02 Concepts/Facilitation.md",
-    "02 Concepts/Circular Design.md",
-    "03 Methods/Policy analysis.md",
-    "03 Methods/Life cycle value stream matrix.md",
-    "02 Concepts/Refurbish.md",
-    "02 Concepts/Circular Economy.md",
-    "02 Concepts/Planetary boundaries.md",
-    "02 Concepts/Vertical integration.md",
-    "02 Concepts/Horizontal integration.md",
+    "Persuasion.md",
+    "02 Concepts/Ethical design.md",
+    "02 Concepts/Gameplay Mechanics.md",
+    "03 Methods/Gamification.md",
+    "03 Methods/Requirements Specification.md",
+    "03 Methods/Checklist.md",
     "adj 2024-02-07 210622.png",
     "00 Notebook/99 Attachments/Pasted image 20240206231743.png",
     "00 Notebook/AI LLM templates",
