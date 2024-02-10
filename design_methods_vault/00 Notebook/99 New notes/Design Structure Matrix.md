@@ -7,7 +7,7 @@ description:
 ---
 
 ## Description
-
+Method developed by Eppinger and Ulrich
 
 ## Examples 
 
