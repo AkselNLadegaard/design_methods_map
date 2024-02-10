@@ -6,7 +6,11 @@ description:
 ---
 Partially By: [[Google bard 2024]]
 ## Description
+"Making solutions for real people, not ideal"
+
 Universal Design (UD) is a philosophy and set of guidelines for creating products, environments, and services that can be used by everyone, regardless of age, ability, or disability. It aims to eliminate unnecessary barriers and make things usable for the widest possible range of users
+
+
 
 ## Examples 
 - Curb cuts
