@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - concepts
 aliases: 
 description:
 ---

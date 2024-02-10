@@ -11,12 +11,9 @@ description:
 
 
 ## Related concepts and principles
-- [[Economy]]
-- [[Linear economy]]
-- [[Donut economy]]
+
 
 ## Related methods
-
+- [[Impact feasibility matrix]]
 
 ## Related content and sources
-- https://www.wikiwand.com/en/Circular_economy
