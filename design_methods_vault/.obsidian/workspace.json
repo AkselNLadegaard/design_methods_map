@@ -47,12 +47,29 @@
             "id": "0bdcb65bdb528987",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 Notebook/00 Read me - introduction, guidelines and instructions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afcc1ff2db1c8859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Methodologies/Behavioural Design.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,13 +211,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "advanced-random-note:Open random note modal": false
+      "advanced-random-note:Open random note modal": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "0bdcb65bdb528987",
+  "active": "94b5bdef002d44f9",
   "lastOpenFiles": [
-    "02 Concepts/Takeback systems.md",
+    "00 Notebook/00 Read me - introduction, guidelines and instructions.md",
+    "00 Notebook/99 Attachments/Pasted image 20240210184213.png",
     "02 Concepts/Facilitation.md",
+    "02 Concepts/Takeback systems.md",
     "04 Methodologies/Behavioural Design.md",
     "02 Concepts/Situational abilities.md",
     "02 Concepts/Axiomatic design.md",
@@ -223,8 +243,6 @@
     "03 Methods/Policy design.md",
     "Persuasion.md",
     "02 Concepts/Ethical design.md",
-    "02 Concepts/Gameplay Mechanics.md",
-    "03 Methods/Gamification.md",
     "adj 2024-02-07 210622.png",
     "00 Notebook/99 Attachments/Pasted image 20240206231743.png",
     "00 Notebook/AI LLM templates",

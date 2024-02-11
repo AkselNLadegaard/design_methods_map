@@ -19,6 +19,8 @@ A full view of the methods as of 20231229
 ![[Pasted image 20231229190446.png]]
 And a local graph view showing 3 deep links for the note [[Facilitation]]
 ![[Pasted image 20231229190528.png]]
+and updated view as of 20240210 
+![[Pasted image 20240210184213.png]] 
 
 You can use this notebook in two different ways
 1. Online through // insert linked // 
