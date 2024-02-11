@@ -11,7 +11,7 @@ description:
 ---
 
 The goal of this obsidian notebook is to be a living collection of design methods, concepts and methodologies, with descriptions, examples and relation to other methods, concepts and methodologies. 
-
+****
 This is further enhanced by Obsidians amazing "Graph view" which allows us to create views like this, to explore relevant concepts and methods, when looking for the right tool for the job.
 
 A full view of the methods as of 20231229

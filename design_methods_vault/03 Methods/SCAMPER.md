@@ -6,10 +6,11 @@ tags:
   - outputs/ideas
   - outputs/insights
   - goal/create
-aliases:
+aliases: 
+description:
 ---
-
 (S) Substitute, (C) Combine, (A) Adapt, (M) Modify, (P) Put to another use, (E) Eliminate and (R) Reverse. 
+
 
 ## Description
 
