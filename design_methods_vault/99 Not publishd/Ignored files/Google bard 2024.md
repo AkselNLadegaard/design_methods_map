@@ -1,0 +1,6 @@
+---
+tags:
+  - ignored
+aliases: 
+description:
+---

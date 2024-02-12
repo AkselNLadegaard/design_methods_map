@@ -4,55 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "149a66fca9400220",
+        "id": "2ef08303f24979dc",
         "type": "tabs",
         "children": [
           {
-            "id": "94b5bdef002d44f9",
+            "id": "9e6490fe7aac11de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Concepts/Facilitation.md",
+                "file": "02 Concepts/80 20 Pareto principle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "b1faa1202844fe8f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "56aad889a3beb9e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Concepts/Takeback systems.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bdcb65bdb528987",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#roleplaying",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Concepts/Facilitation.md",
+                "file": "02 Concepts/80 20 Pareto principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Concepts/Facilitation.md",
+                "file": "02 Concepts/80 20 Pareto principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Concepts/Facilitation.md"
+                "file": "02 Concepts/80 20 Pareto principle.md"
               }
             }
           },
@@ -194,54 +162,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "advanced-random-note:Open random note modal": false
+      "advanced-random-note:Open random note modal": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "0bdcb65bdb528987",
+  "active": "9e6490fe7aac11de",
   "lastOpenFiles": [
+    "00 Index.md",
+    "00 Notebook/99 Attachments/graph_creation.mp4",
+    "04 Methodologies/Behavioural Design.md",
+    "04 Methodologies/Performance Management.md",
+    "03 Methods/Performance Evaluation.md",
+    "03 Methods/Key Performance Index - KPI.md",
+    "00 Notebook/99 Attachments/Logo_v2.png",
+    "00 Notebook/99 Attachments/Logo.png",
+    "00 Notebook/99 Attachments/Logo_v2.png.0.pdnSave",
+    "99 Not publishd/00 Read me - introduction, guidelines and instructions.md",
+    "99 Not publishd/03 transfer of concepts, methods, methodologies and notes.md",
+    "99 Not publishd/02 Tagging.md",
+    "99 Not publishd",
+    "00 Notebook/99 Attachments/Logo.png.0.pdnSave",
+    "00 Notebook/99 Attachments/_bd556136-18ae-437c-bc52-f2852e935328 1.jfif",
+    "00 Notebook/99 Attachments/Pasted image 20220502101434.png",
+    "00 Notebook/99 Attachments/Pasted image 20240122233451.png",
+    "00 Notebook/99 Attachments/Pasted image 20240206231743.png",
+    "00 Notebook/99 Attachments/Pasted image 20211110203132.png",
+    "00 Notebook/99 Attachments/_bd556136-18ae-437c-bc52-f2852e935328.jfif",
+    "_bd556136-18ae-437c-bc52-f2852e935328.jfif",
+    "03 Methods/Brainstorming.md",
+    "99 Not publishd/01 To do for this project.md",
+    "Untitled.md",
+    "adj 2024-02-07 210622.png",
+    "02 Concepts/Cognitive psychology.md",
+    "03 Methods/Axis mapping.md",
+    "03 Methods/Design Structure Matrix.md",
+    "02 Concepts/Illities.md",
     "02 Concepts/Takeback systems.md",
     "02 Concepts/Facilitation.md",
-    "04 Methodologies/Behavioural Design.md",
-    "02 Concepts/Situational abilities.md",
-    "02 Concepts/Axiomatic design.md",
-    "00 Notebook/01 To do for this project.md",
-    "02 Concepts/Web Accessibility - WCAG.md",
-    "02 Concepts/Taxonomy.md",
-    "02 Concepts/Value proposition.md",
-    "02 Concepts/Ideation.md",
-    "03 Methods/Negative Brainstorming.md",
-    "04 Methodologies/User Experience Design - UX.md",
-    "04 Methodologies/User Interface design.md",
-    "03 Methods/Cue Action Reward - CAR model.md",
-    "02 Concepts/Reward.md",
-    "02 Concepts/Behaviour Change.md",
-    "02 Concepts/Decision making.md",
-    "02 Concepts/Loss aversion.md",
-    "01 Design maps/Game design.md",
-    "03 Methods/Performance Evaluation.md",
-    "02 Concepts/Regulation.md",
-    "03 Methods/Policy design.md",
-    "Persuasion.md",
-    "02 Concepts/Ethical design.md",
-    "02 Concepts/Gameplay Mechanics.md",
-    "03 Methods/Gamification.md",
-    "adj 2024-02-07 210622.png",
-    "00 Notebook/99 Attachments/Pasted image 20240206231743.png",
-    "00 Notebook/AI LLM templates",
-    "00 Notebook/Ignored files",
-    "00 Notebook/99 Attachments/Pasted image 20211110203132.png",
-    "00 Notebook/99 Attachments/Pasted image 20220502101434.png",
+    "02 Concepts/Persuasion.md",
+    "02 Concepts/Collaboration.md",
+    "02 Concepts/Blue ocean.md",
+    "02 Concepts/Anticipating.md",
+    "00 Notebook/99 New notes/Untitled 1.md",
+    "02 Concepts/Movement.md",
+    "02 Concepts/Meme.md",
+    "02 Concepts/Dissemination.md",
+    "00 Notebook/99 Attachments/Pasted image 20240210184213.png",
+    "99 Not publishd/AI LLM templates",
+    "99 Not publishd/Ignored files",
     "02 Concepts/01 Principles",
     "00 Notebook/99 Attachments/Pasted image 20240122233522.png",
-    "00 Notebook/99 Attachments/Pasted image 20240122233451.png",
-    "A",
-    "00 Notebook/99 Attachments/Pasted image 20231229190528.png",
-    "00 Notebook/99 Attachments/Pasted image 20231229190446.png",
-    "05 Workshops",
-    "01 Design maps",
-    "Methods/Untitled",
-    "00 Notebook/99 New canvases",
-    "00 Notebook/99 Attachments",
-    "00 Notebook/99 New notes"
+    "00 Notebook/99 Attachments/Pasted image 20231229190528.png"
   ]
 }
