@@ -13,7 +13,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Concepts/80 20 Pareto principle.md",
+                "file": "02 Concepts/Organisation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fb1e957730f07432",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3432577c1886994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Notebook/99 New notes/Relational organizers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "080323a0a9be72e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d76c3f3b173d6b39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Notebook/99 New notes/Pedagogy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Concepts/80 20 Pareto principle.md",
+                "file": "02 Concepts/Organisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Concepts/80 20 Pareto principle.md",
+                "file": "02 Concepts/Organisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Concepts/80 20 Pareto principle.md"
+                "file": "02 Concepts/Organisation.md"
               }
             }
           },
@@ -168,18 +206,36 @@
   },
   "active": "9e6490fe7aac11de",
   "lastOpenFiles": [
-    "00 Index.md",
-    "00 Notebook/99 Attachments/graph_creation.mp4",
-    "04 Methodologies/Behavioural Design.md",
+    "00 Notebook/99 New notes/Relational organizers.md",
+    "02 Concepts/Organisation.md",
+    "00 Notebook/99 New notes/Relationship matrices.md",
+    "00 Notebook/99 New notes/Pedagogy.md",
+    "00 Notebook/99 New notes/Graphic organizer.md",
+    "03 Methods/Evaluation.md",
+    "03 Methods/Advance Organizer.md",
+    "03 Methods/Actor Network Theory (ANT).md",
+    "03 Methods/ABC Analysis.md",
+    "03 Methods/Activity Analysis.md",
+    "03 Methods/AB Testing.md",
+    "00 Notebook/99 New notes/User reporting.md",
+    "02 Concepts/MECE principle.md",
+    "02 Concepts/Quality Assurance.md",
     "04 Methodologies/Performance Management.md",
-    "03 Methods/Performance Evaluation.md",
     "03 Methods/Key Performance Index - KPI.md",
+    "01 Design maps/Design for Manufacturing.md",
+    "01 Design maps/Design for disassembly.md",
+    "01 Design maps/Action Framework.md",
+    "01 Design maps/01 Map of Design Concepts and Principels.md",
+    "02 Concepts/Accessibility.md",
+    "02 Concepts/Accuracy vs. Precision.md",
+    "02 Concepts/80 20 Pareto principle.md",
+    "01 Design maps/Game design.md",
+    "02 Concepts/Absolute Sustainability.md",
+    "02 Concepts/Abstraction.md",
+    "00 Notebook/99 Attachments/graph_creation.mp4",
     "00 Notebook/99 Attachments/Logo_v2.png",
     "00 Notebook/99 Attachments/Logo.png",
     "00 Notebook/99 Attachments/Logo_v2.png.0.pdnSave",
-    "99 Not publishd/00 Read me - introduction, guidelines and instructions.md",
-    "99 Not publishd/03 transfer of concepts, methods, methodologies and notes.md",
-    "99 Not publishd/02 Tagging.md",
     "99 Not publishd",
     "00 Notebook/99 Attachments/Logo.png.0.pdnSave",
     "00 Notebook/99 Attachments/_bd556136-18ae-437c-bc52-f2852e935328 1.jfif",
@@ -189,24 +245,7 @@
     "00 Notebook/99 Attachments/Pasted image 20211110203132.png",
     "00 Notebook/99 Attachments/_bd556136-18ae-437c-bc52-f2852e935328.jfif",
     "_bd556136-18ae-437c-bc52-f2852e935328.jfif",
-    "03 Methods/Brainstorming.md",
-    "99 Not publishd/01 To do for this project.md",
-    "Untitled.md",
     "adj 2024-02-07 210622.png",
-    "02 Concepts/Cognitive psychology.md",
-    "03 Methods/Axis mapping.md",
-    "03 Methods/Design Structure Matrix.md",
-    "02 Concepts/Illities.md",
-    "02 Concepts/Takeback systems.md",
-    "02 Concepts/Facilitation.md",
-    "02 Concepts/Persuasion.md",
-    "02 Concepts/Collaboration.md",
-    "02 Concepts/Blue ocean.md",
-    "02 Concepts/Anticipating.md",
-    "00 Notebook/99 New notes/Untitled 1.md",
-    "02 Concepts/Movement.md",
-    "02 Concepts/Meme.md",
-    "02 Concepts/Dissemination.md",
     "00 Notebook/99 Attachments/Pasted image 20240210184213.png",
     "99 Not publishd/AI LLM templates",
     "99 Not publishd/Ignored files",

@@ -13,7 +13,7 @@ description:
 - [[Check sheet]]
 - [[Functional Prototyping]]
 ### Template 
-I am creating a notebook database in obsidian for design methods, principles and concepts. For the following entry, fill out the template below. 
+I am creating a notebook database in obsidian for design methods, principles and concepts. For the entry, fill out the template below. Focus on finding many related principles and methods. Keep it at a high abstraction level, keeping in mind that methods can be generalized and used in many fields.
 
 
 Entry: 

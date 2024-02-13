@@ -11,7 +11,9 @@ description:
 
 
 ## Related concepts and principles
-- [[Statistical Significance]]
+- [[Learning]]
+- [[Reflective learning]]
+- [[Co-discovery learning]]
 
 ## Related methods
 

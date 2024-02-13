@@ -1,6 +1,7 @@
 ---
 tags: 
-aliases: 
+aliases:
+  - Minimum effective intervention
 description:
 ---
 
@@ -11,7 +12,7 @@ description:
 
 
 ## Related concepts and principles
-- [[Statistical Significance]]
+
 
 ## Related methods
 

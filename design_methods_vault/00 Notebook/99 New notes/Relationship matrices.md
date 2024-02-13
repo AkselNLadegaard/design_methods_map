@@ -1,6 +1,6 @@
 ---
 tags: 
-aliases: 
+aliases: []
 description:
 ---
 
@@ -11,7 +11,7 @@ description:
 
 
 ## Related concepts and principles
-- [[Statistical Significance]]
+-  [[Relational organizers]]
 
 ## Related methods
 
