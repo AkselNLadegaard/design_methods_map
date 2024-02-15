@@ -41,6 +41,7 @@ Structured ideation sessions, with a lot of flexibility and history, there has b
 - [[De Bono's six thinking hats]]
 - [[Facilitation]]
 - [[Negative Brainstorming]]
+- [[Silent brainstorming]]
 - 
 
 ## Academic roots

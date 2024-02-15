@@ -12,5 +12,5 @@ description:
 
 ## Related notes 
 - [[Benchmarking]]
-
+- [[Performance Management]]
 ## Academic roots

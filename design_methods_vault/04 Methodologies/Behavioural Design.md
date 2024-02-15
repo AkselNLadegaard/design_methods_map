@@ -10,7 +10,7 @@ description:
 ---
 ****
 ## Description
-Solutions in behavioural design are often [[Interventions]]
+Solutions in behavioural design are often framed as [[Interventions]].
 
 ## Examples 
 - [[Behaviour Change]] might be removed 

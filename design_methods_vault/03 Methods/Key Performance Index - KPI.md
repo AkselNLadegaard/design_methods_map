@@ -16,6 +16,6 @@ description:
 ## Related notes 
 - [[Performance Management]]
 - [[Requirements Specification]] 
-- 
+- [[Metrics]]
 
 ## Academic roots

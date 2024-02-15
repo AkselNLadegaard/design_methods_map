@@ -6,7 +6,6 @@
   "showLineNumber": true,
   "trashOption": "system",
   "userIgnoreFilters": [
-    "00_Description/",
-    "00 Notebook/Ignored files/"
+    "99 Not publishd/Ignored files/"
   ]
 }
