@@ -11,10 +11,10 @@ description:
 
 
 ## Related concepts and principles
-- [[Map of Product Service System design]]
-- [[Product Service System Design]]
+
 
 ## Related methods
-
+- [[Participatory Action Research]]
+- [[Practical Action Research]]
 
 ## Related content and sources

@@ -13,7 +13,7 @@ description:
 ## Examples 
 
 
-## Related notes 
+## Related methods
 -  [[Contextual Interview|Contextual Inquiry]]
 - [[Concurrent probing]]
 - [[Dyads and Triads]] Small groups of participants engagne in discussions to generate ideas, share experiences and provide feedback on a specific topic(s).
@@ -25,5 +25,7 @@ description:
 - [[Evaluation]]
 - [[Competitor Analysis]]
 - [[Market analysis]]
+- [[Citizen juries]] are a deliberately representative *sample/focus_group* of citizens
+- 
 
 ## Academic roots

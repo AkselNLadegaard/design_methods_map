@@ -19,7 +19,11 @@ description:
 - [[Requirements Specification]]
 - [[Wicked Problems]]
 - [[Framing]]
-## Related notes 
+## Related methods
+- [[Convergent problems]]
+- [[Divergent problems]]
+
+## Related concepts & principles
 
 
 ## Academic roots

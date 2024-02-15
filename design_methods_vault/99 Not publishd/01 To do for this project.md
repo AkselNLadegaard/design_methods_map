@@ -37,3 +37,24 @@ aliases:
 27. https://www.mcgill.ca/engineeringdesign/step-step-design-process/design-methods
 28. Nigel cross engineering desigh? 
 29. http://wiki.doing-projects.org/index.php/ConceptBox
+30. Before, after, alternative methods template for specifying 
+	1. All methods to link are either 
+		1. Similar 
+		2. Opposite 
+		3. Complementary 
+		4. Or something?
+31. [[Machine assisted proofs]] and how mathematicians solve problems in general 
+32. Setup date with Anders Marchsteiner 
+33. Look into more options for publish 
+34. Ways to alter all design methods (this needs to be tied into workshops but also an using design method)
+	1. Ways to use all design methods 
+	2. Anonmyity 
+	3. Limit cross polination 
+	4. limit priming 
+	5. Enhance priming 
+	6. etc
+	7. >Phillip would be good here 
+35. Go through Conceptual Design book
+36. Go through Miro templates 
+37. Go through Figma templates
+38. Figure out how to handle those maps.
