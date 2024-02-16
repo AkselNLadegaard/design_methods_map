@@ -1,7 +1,7 @@
 ---
 tags:
   - concepts
-  - designApproach
+  - design/approach
   - sustainability
 aliases: 
 description:

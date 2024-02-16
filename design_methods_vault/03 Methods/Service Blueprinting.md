@@ -3,7 +3,7 @@ tags:
   - services
   - phase/converging
   - defining
-  - serviceDesign
+  - design/services
 aliases:
 ---
 

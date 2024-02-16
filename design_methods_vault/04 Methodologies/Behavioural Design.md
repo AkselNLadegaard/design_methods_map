@@ -1,6 +1,6 @@
 ---
 tags:
-  - behaviouralDesign
+  - design/behavioural
   - design
   - ethics
   - changeManagement

@@ -1,6 +1,6 @@
 ---
 tags:
-  - SystemsEngineering
+  - systems/engineering
 aliases:
   - Design Structure Matrix / DSM
 description:

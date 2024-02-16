@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5ed4a46f0f1eb85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Methods/Problem definition.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a59def8c95af7e4a",
             "type": "leaf",
             "pinned": true,
@@ -28,6 +15,14 @@
               "type": "juggl_view",
               "state": {},
               "pinned": true
+            }
+          },
+          {
+            "id": "c7c2ba6acebdb990",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -60,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#thinking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +71,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "625ef0b3999d5682",
+            "type": "leaf",
+            "state": {
+              "type": "graph-presets-list",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -97,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Methods/Problem definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Methods/Problem definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "03 Methods/Problem definition.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,11 +173,30 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "advanced-random-note:Open random note modal": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "a59def8c95af7e4a",
+  "active": "c7c2ba6acebdb990",
   "lastOpenFiles": [
+    "00 Notebook/99 graph presets/Concepts.md",
+    "00 Notebook/99 graph presets/default filtered.md",
+    "00 Notebook/99 graph presets/Color v1.md",
+    "00 Notebook/99 graph presets/Methodologies and maps.md",
+    "00 Notebook/99 graph presets/Ideas.md",
+    "03 Methods/Black Boxing.md",
+    "00 Notebook/99 graph presets/Problem space.md",
+    "00 Notebook/99 graph presets/Methods.md",
+    "00 Index.md",
+    "01 Design maps/02 Map of Design Methods.md",
+    "03 Methods/Activity Analysis.md",
+    "00 Notebook/99 graph presets",
+    "03 Methods/Action research.md",
+    "03 Methods/ABC Analysis.md",
+    "03 Methods/AB Testing.md",
+    "02 Concepts/Pedagogy.md",
+    "03 Methods/Stakeholder Influence Grid.md",
     "_bd556136-18ae-437c-bc52-f2852e935328.jfif",
     "99 Not publishd/Ignored files/Google bard 2024.md",
     "99 Not publishd/AI LLM templates/bard 2024 template filler.md",
@@ -192,22 +210,7 @@
     "99 Not publishd",
     "04 Methodologies/Product Service Design2.md",
     "03 Methods/Surveys.md",
-    "03 Methods/Stakeholder Influence Grid.md",
     "03 Methods/Root Cause Analysis.md",
-    "03 Methods/Design Structure Matrix.md",
-    "03 Methods/Axis mapping.md",
-    "03 Methods/Action research.md",
-    "02 Concepts/User reporting.md",
-    "02 Concepts/Segmentation.md",
-    "02 Concepts/Relationship matrices.md",
-    "02 Concepts/Relational organizers.md",
-    "02 Concepts/Pedagogy.md",
-    "02 Concepts/Organisation.md",
-    "02 Concepts/Movement.md",
-    "02 Concepts/Minimum effective dose.md",
-    "02 Concepts/Meme.md",
-    "02 Concepts/MECE principle.md",
-    "02 Concepts/Illities.md",
     "00 Notebook/99 Attachments/graph_creation.mp4",
     "00 Notebook/99 Attachments/_bd556136-18ae-437c-bc52-f2852e935328.jfif",
     "00 Notebook/99 Attachments/_bd556136-18ae-437c-bc52-f2852e935328 1.jfif",
@@ -216,9 +219,7 @@
     "adj 2024-02-07 210622.png",
     "02 Concepts/01 Principles",
     "00 Notebook/Ignored files",
-    "00 Notebook/AI LLM templates",
     "00 Notebook/99 Attachments/Pasted image 20240210184213.png",
-    "00 Notebook/99 Attachments/Logo_v2.png.0.pdnSave",
     "00 Notebook/99 Attachments/Pasted image 20220502101434.png",
     "00 Notebook/99 Attachments/Pasted image 20240122233451.png",
     "00 Notebook/99 Attachments/Pasted image 20240206231743.png",

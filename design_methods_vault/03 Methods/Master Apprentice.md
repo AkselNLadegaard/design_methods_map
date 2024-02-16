@@ -5,7 +5,7 @@ tags:
   - stakeholders/users
   - inputs/problems
   - inputs/none
-  - ouputs/problems
+  - outputs/problems
   - outputs/insights
   - outputs/userBuyIn
   - goal/informationGathering

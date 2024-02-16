@@ -5,7 +5,7 @@ tags:
   - heuristics
   - stakeholders/designer
   - stakeholders/experts
-  - abstr
+  - abstraction
 aliases: 
 description:
 ---

@@ -7,7 +7,7 @@ tags:
   - inputs/problems
   - inputs/insights
   - outputs/ideas
-  - ouputs/problems
+  - outputs/problems
   - outputs/insights
   - outputs/decisionSupport
   - goal/informationGathering

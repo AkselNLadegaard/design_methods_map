@@ -5,7 +5,7 @@ tags:
   - inputs/concepts
   - inputs/problems
   - inputs/insights
-  - ouputs/problems
+  - outputs/problems
   - outputs/insights
   - outputs/userBuyIn
   - goal/informationGathering

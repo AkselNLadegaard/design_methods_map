@@ -11,7 +11,7 @@ tags:
   - outputs/concepts
   - outputs/problems
   - outputs/insights
-  - ouputs/problems
+  - outputs/problems
   - outputs/userBuyIn
   - outputs/decisionSupport
   - goal/informationGathering

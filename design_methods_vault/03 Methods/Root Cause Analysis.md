@@ -1,7 +1,7 @@
 ---
 tags:
   - inputs/problems
-  - ouputs/problems
+  - outputs/problems
   - outputs/insights
   - systems/thinking
 aliases: 

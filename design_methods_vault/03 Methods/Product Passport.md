@@ -1,7 +1,7 @@
 ---
 tags:
   - sustainability
-  - ciruclar/economy
+  - economy/circular
   - compliance
   - regulation
   - product

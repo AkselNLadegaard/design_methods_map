@@ -1,7 +1,7 @@
 ---
 tags:
   - phase/discover
-  - behaviouralDesign
+  - design/behavioural
   - mapping
 aliases: 
 description:

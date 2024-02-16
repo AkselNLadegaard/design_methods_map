@@ -6,7 +6,7 @@ tags:
   - inputs/insights
   - inputs/none
   - outputs/ideas
-  - ouputs/problems
+  - outputs/problems
   - outputs/insights
   - goal/informationGathering
 aliases:
