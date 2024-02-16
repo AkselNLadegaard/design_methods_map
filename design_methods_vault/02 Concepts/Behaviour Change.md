@@ -1,5 +1,7 @@
 ---
-tags: 
+tags:
+  - concept
+  - design/behavioural
 aliases:
   - Behavioural change models
 description:

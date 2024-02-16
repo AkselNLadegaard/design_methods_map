@@ -2,7 +2,7 @@
 tags:
   - psychology
   - groupBehaviour
-  - concepts
+  - concept
   - cognition
 aliases: 
 description:

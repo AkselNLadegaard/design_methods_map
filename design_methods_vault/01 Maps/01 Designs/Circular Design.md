@@ -1,6 +1,6 @@
 ---
 tags:
-  - concepts
+  - concept
   - design/approach
   - sustainability
 aliases: 

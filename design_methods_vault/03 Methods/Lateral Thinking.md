@@ -10,7 +10,7 @@ tags:
   - inputs/insights
   - outputs/ideas
   - goal/create
-  - concepts
+  - concept
   - methods
 aliases:
 ---

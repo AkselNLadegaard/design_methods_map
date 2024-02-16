@@ -1,5 +1,11 @@
 ---
-tags: 
+tags:
+  - concept
+  - boundaryObject
+  - abstraction
+  - goal/analyse
+  - outputs/overview
+  - outputs/insights
 aliases: 
 description:
 ---

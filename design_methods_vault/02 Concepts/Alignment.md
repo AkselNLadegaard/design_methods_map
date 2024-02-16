@@ -1,9 +1,12 @@
 ---
-tags: 
+tags:
+  - concept
+  - aesthetics
+  - groupBehaviour
 aliases: 
 description:
 ---
-Partially By: [[Google bard 2024]]
+
 ## Description
 
 

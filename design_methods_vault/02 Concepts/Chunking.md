@@ -3,6 +3,8 @@ tags:
   - cognitiveLoad
   - abstraction
   - organisation
+  - thinking
+  - creativity
 aliases: 
 description:
 ---

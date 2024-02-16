@@ -12,7 +12,7 @@ description:
 
 
 ## Related notes 
-- [[Map of Eco Design]]
+- [[Eco Design]]
 - [[MECO Matrix]]
 
 ## Academic roots

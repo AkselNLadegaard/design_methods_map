@@ -1,5 +1,12 @@
 ---
-tags: 
+tags:
+  - thinking
+  - goal/communicate
+  - goal/analyse
+  - boundaryObject
+  - concept
+  - mentalProcesses
+  - mental/model
 aliases: 
 description:
 ---

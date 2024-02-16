@@ -1,6 +1,6 @@
 ---
 tags:
-  - concepts
+  - concept
 aliases: 
 description:
 ---

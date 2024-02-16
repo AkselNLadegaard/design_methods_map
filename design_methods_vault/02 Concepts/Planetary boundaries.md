@@ -1,7 +1,7 @@
 ---
 tags:
   - sustainability
-  - concepts
+  - concept
 aliases:
   - Global boundaries
 description:

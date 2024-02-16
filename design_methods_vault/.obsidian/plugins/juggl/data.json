@@ -30,6 +30,32 @@
       "showInPane": true,
       "show": true,
       "size": 1
+    },
+    {
+      "filter": "tag:#method",
+      "color": "#008552",
+      "shape": "ellipse",
+      "icon": {
+        "name": "No icon",
+        "path": "",
+        "color": "white"
+      },
+      "showInPane": true,
+      "show": true,
+      "size": 1
+    },
+    {
+      "filter": "tag:#concept",
+      "color": "#9a0404",
+      "shape": "ellipse",
+      "icon": {
+        "name": "No icon",
+        "path": "",
+        "color": "white"
+      },
+      "showInPane": true,
+      "show": true,
+      "size": 1
     }
   ],
   "globalGraphRibbon": false,

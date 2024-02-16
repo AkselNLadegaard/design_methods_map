@@ -1,5 +1,12 @@
 ---
-tags: 
+tags:
+  - concept
+  - mental/model
+  - abstraction
+  - outputs/overview
+  - outputs/insights
+  - cognitiveLoad
+  - goal/communicate
 aliases: 
 description:
 ---

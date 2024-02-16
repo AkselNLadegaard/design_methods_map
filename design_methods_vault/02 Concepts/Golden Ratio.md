@@ -1,6 +1,6 @@
 ---
 tags:
-  - concepts
+  - concept
   - aesthetics
   - proportion
   - composition

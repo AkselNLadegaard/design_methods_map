@@ -2,6 +2,8 @@
 tags:
   - usability
   - perception
+  - concept
+  - principle
 aliases:
 ---
 

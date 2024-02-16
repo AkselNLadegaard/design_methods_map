@@ -3,6 +3,7 @@ tags:
   - qualitative
   - goal/evaluate
   - heuristics
+  - concept
 aliases:
   - Principle of Factor Sparsity
   - Law of the Vital Few

@@ -17,7 +17,7 @@ description:
 ## Related concepts and principles
 - [[Feedback Loop]]
 
- %%  Unsure if the concepts below are too broad for the note %%
+   Unsure if the concepts below are too broad for the note 
 - [[Transparency]]
 - [[Empowerment]]
 - [[Inclusivity]]
@@ -44,7 +44,7 @@ description:
 
 - [[Stakeholder egagement assessment matrix]]
 
-%% maybe for another note  %%
+ maybe for another note  
 - [[Public hearing]]
 	- [[Public comment periods]]
 

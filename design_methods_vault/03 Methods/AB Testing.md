@@ -4,7 +4,7 @@ tags:
   - phase/converging
   - phase/deliver
   - methods
-  - concepts
+  - concept
   - inputs/concepts
   - outputs/decisionSupport
   - optimization

@@ -5,7 +5,7 @@ description:
 ---
 
 ## Description
-Only like one of the most awesome of models ♥
+ - One of the most awesome of models ♥
 
 - [[System Analysis]]
 	- [[Artefact Level]]

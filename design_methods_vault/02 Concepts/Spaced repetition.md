@@ -3,7 +3,7 @@ tags:
   - learning
   - cognition
   - methods
-  - concepts
+  - concept
 aliases: 
 description:
 ---

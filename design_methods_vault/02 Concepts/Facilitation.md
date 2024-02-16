@@ -3,7 +3,7 @@ tags:
   - goal/planning
   - goal/communicate
   - stakeholders/designer
-  - concepts
+  - concept
   - methods
 aliases:
 ---

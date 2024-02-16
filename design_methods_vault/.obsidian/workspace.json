@@ -11,8 +11,13 @@
             "id": "36b85c60890a7a2c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01 Maps/04 Topics/Complexity Management.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#thinking",
+                "query": "tag:#concepts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,23 +94,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 Maps/04 Topics/Complexity Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f186ad3308991998",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -123,11 +117,25 @@
             }
           },
           {
+            "id": "f186ad3308991998",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Maps/04 Topics/Complexity Management.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "a0f1a12dbf41e5d3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 Maps/04 Topics/Complexity Management.md"
+              }
             }
           },
           {
@@ -146,8 +154,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,47 +174,47 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "36b85c60890a7a2c",
+  "active": "ff36fd09ae1a4693",
   "lastOpenFiles": [
-    "00 Notebook/99 graph presets/Concepts.md",
-    "00 Notebook/99 graph presets/Just the real stuff.md",
-    "00 Notebook/99 graph presets/default filtered.md",
-    "00 Notebook/99 graph presets/Methods.md",
-    "00 Notebook/99 graph presets/Methodologies and maps.md",
-    "00 Notebook/99 graph presets/Ideas.md",
-    "00 Notebook/99 graph presets/Has outputs.md",
-    "00 Notebook/99 graph presets/Color v1.md",
-    "03 Methods/Black Boxing.md",
-    "00 Notebook/99 graph presets/Problem space.md",
+    "01 Maps/01 Designs/Design Thinking.md",
+    "01 Maps/03 Frameworks/TRIZ.md",
+    "01 Maps/01 Designs/User Interface design.md",
+    "01 Maps/02 Models/The N-Model.md",
+    "01 Maps/02 Models/The V-Model.md",
+    "01 Maps/04 Topics/Requirements Engineering.md",
+    "01 Maps/04 Topics/Performance Management.md",
+    "01 Maps/01 Designs/Enterprise Design.md",
+    "01 Maps/01 Designs/Critical Design.md",
+    "01 Maps/01 Designs/Conceptual Design.md",
+    "01 Maps/04 Topics/Complexity Management.md",
+    "01 Maps/01 Designs/Bio Inspired Design.md",
     "00 Index.md",
-    "01 Design maps/02 Map of Design Methods.md",
-    "03 Methods/Activity Analysis.md",
+    "01 Maps/01 Designs/Work design.md",
+    "01 Maps/04 Topics/System modelling.md",
+    "01 Maps/99 Overviews/01 Map of Design Concepts and Principels.md",
+    "01 Maps/99 Overviews",
+    "01 Maps/04 Topics/Stakeholder Engagement.md",
+    "01 Maps/04 Topics",
+    "01 Maps/01 Designs/Product Service System Design.md",
+    "03 Methods/Monts Model.md",
+    "01 Design maps/Map of Web and App design.md",
+    "01 Design maps/Map of System design.md",
+    "01 Design maps/Map of Product Service System design.md",
+    "04 Methodologies/Product Service Design2.md",
+    "01 Maps/02 Models/03 Map of Double Diamond Concepts 💎💎.md",
+    "01 Maps/01 Designs/Product design.md",
+    "01 Maps/03 Frameworks/Action Framework.md",
+    "01 Maps/01 Designs",
+    "01 Maps/02 Models",
+    "01 Maps/03 Frameworks",
     "00 Notebook/99 graph presets",
-    "03 Methods/Action research.md",
-    "03 Methods/ABC Analysis.md",
-    "03 Methods/AB Testing.md",
-    "02 Concepts/Pedagogy.md",
-    "03 Methods/Stakeholder Influence Grid.md",
     "_bd556136-18ae-437c-bc52-f2852e935328.jfif",
-    "99 Not publishd/Ignored files/Google bard 2024.md",
-    "99 Not publishd/AI LLM templates/bard 2024 template filler.md",
-    "99 Not publishd/Ignored files/bard 2024 - golden ratio test.md",
     "99 Not publishd/Ignored files",
     "99 Not publishd/AI LLM templates",
-    "99 Not publishd/03 transfer of concepts, methods, methodologies and notes.md",
-    "99 Not publishd/02 Tagging.md",
-    "99 Not publishd/01 To do for this project.md",
-    "99 Not publishd/00 Read me - introduction, guidelines and instructions.md",
     "99 Not publishd",
-    "04 Methodologies/Product Service Design2.md",
-    "00 Notebook/99 Attachments/graph_creation.mp4",
-    "00 Notebook/99 Attachments/_bd556136-18ae-437c-bc52-f2852e935328.jfif",
-    "00 Notebook/99 Attachments/_bd556136-18ae-437c-bc52-f2852e935328 1.jfif",
     "00 Notebook/99 Attachments/Logo_v2.png",
     "00 Notebook/99 Attachments/Logo.png",
     "adj 2024-02-07 210622.png",
-    "02 Concepts/01 Principles",
-    "00 Notebook/Ignored files",
     "00 Notebook/99 Attachments/Pasted image 20240210184213.png",
     "00 Notebook/99 Attachments/Pasted image 20220502101434.png",
     "00 Notebook/99 Attachments/Pasted image 20240122233451.png",

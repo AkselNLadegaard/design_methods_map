@@ -1,5 +1,8 @@
 ---
-tags: 
+tags:
+  - concept
+  - cognition
+  - creativity
 aliases: 
 description:
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - concepts
+  - concept
   - methods
   - phase/discover
   - phase/define
