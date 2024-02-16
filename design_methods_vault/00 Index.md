@@ -47,7 +47,7 @@ Pretty much all commands can be found easily through *crtl+p*
 
 1. All of the same as for the online version and: 
 2. Automatic maps/searches/views using [Dataview](https://blacksmithgu.github.io/obsidian-dataview/)
-	1. This enables e.g., the [[03 Map of Double Diamond Methods 💎💎]] to automatically group notes into their relevant phases, if they are tagged properly. 
+	1. This enables e.g., the [[Double Diamond Methods  map 💎💎]] to automatically group notes into their relevant phases, if they are tagged properly. 
 3. Global graph view, *crtl+g* (with color coding!)
 	1. local graph view, *crtl+shift+g*
 4. Juggl Graph Views, accessible through *crtl+p*

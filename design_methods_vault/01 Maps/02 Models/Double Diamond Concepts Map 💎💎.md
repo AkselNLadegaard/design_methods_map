@@ -1,6 +1,7 @@
 Here all design **concepts** are automatically sorted into their relevant phases.
 
-See [[Double Diamond]] or [[03 Map of Double Diamond Methods 💎💎]] for more.
+See [[Double Diamond]] or [[Double Diamond Methods  map 💎💎]] for more.
+
 
 ## Discover 
 ```dataview

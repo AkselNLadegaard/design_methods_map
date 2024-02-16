@@ -11,7 +11,7 @@ showTags: false
 showAttachments: false
 hideUnresolved: true
 showOrphans: true
-collapse-color-groups: true
+collapse-color-groups: false
 colorGroups:
   - query: 'path:"02 Concepts"  '
     color:
@@ -21,11 +21,7 @@ colorGroups:
     color:
       a: 1
       rgb: 14725458
-  - query: 'path:"04 Methodologies"  '
-    color:
-      a: 1
-      rgb: 5399264
-  - query: path:"01 Design maps"
+  - query: path:"01 Maps"
     color:
       a: 1
       rgb: 10773465

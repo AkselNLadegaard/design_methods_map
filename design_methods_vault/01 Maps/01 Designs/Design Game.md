@@ -29,9 +29,9 @@ The gamification of design methods to increase engagement from users, experts an
 
 
 ## Related notes 
-- [[Gamification]] see for elements, like badges, points, leaderboards
+- [[Gamification]] for principles and methods to integrate into your design method.
 
-- [[Facilitation]]
+- [[Facilitation]] 
 - [[Workshops]]
 
 ### types/examples

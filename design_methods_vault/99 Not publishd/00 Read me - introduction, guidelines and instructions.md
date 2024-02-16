@@ -25,7 +25,7 @@ and updated view as of 20240210
 You can use this notebook in two different ways
 1. Online through // insert linked // 
 	1. This has not yet been implemented but the plan is to use https://obsidian.md/publish
-	2. The webview does not support Dataview without some significant work, which makes automatic lists of concepts/methods like: [[03 Map of Double Diamond Methods 💎💎]] and [[03 Map of Double Diamond Concepts 💎💎]]  only available by downloading the vault and running it locally with Obsidian
+	2. The webview does not support Dataview without some significant work, which makes automatic lists of concepts/methods like: [[Double Diamond Methods  map 💎💎]] and [[Double Diamond Concepts Map 💎💎]]  only available by downloading the vault and running it locally with Obsidian
 2. Running it locally  [Obsidian](https://obsidian.md/) by downloading or cloning the [Github repository](https://github.com/AkselNLadegaard/design_methods_map) 
 
 ## Obsidian 

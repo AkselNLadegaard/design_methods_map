@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "path:\"02 Concepts\"  OR path:\"01 Design maps\"  OR path:\"04 Methodologies\"",
+  "search": "path:\"02 Concepts\"  OR path:\"01 Maps\" ",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -22,13 +22,6 @@
       }
     },
     {
-      "query": "path:\"04 Methodologies\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5399264
-      }
-    },
-    {
       "query": "path:\"01 Design maps\"",
       "color": {
         "a": 1,
@@ -42,10 +35,10 @@
   "nodeSizeMultiplier": 1.6,
   "lineSizeMultiplier": 0.7,
   "collapse-forces": true,
-  "centerStrength": 0.5,
+  "centerStrength": 0.3,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 267,
-  "scale": 0.061516527455842934,
+  "linkDistance": 309,
+  "scale": 0.039204404815539155,
   "close": false
 }

@@ -1,6 +1,8 @@
-pHere all design **methods** are automatically sorted into their relevant phases.
+**This does not work in the web view! See [[00 Index#Locally through Obsidian]] for more**
 
-See [[Double Diamond]] or [[03 Map of Double Diamond Concepts 💎💎]] for more.
+Here all design **methods** are automatically sorted into their relevant phases.
+
+See [[Double Diamond]] or [[Double Diamond Concepts Map 💎💎]] for more.
 ## Discover 
 ```dataview
 LIST

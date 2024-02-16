@@ -6,7 +6,7 @@ graph-presets-plugin: basic
 ---
 ```yaml:graph-preset
 collapse-filter: false
-search: path:"04 Methodologies" OR path:"01 Design maps"
+search: path:"01 Maps"
 showTags: true
 showAttachments: false
 hideUnresolved: false
@@ -21,11 +21,7 @@ colorGroups:
     color:
       a: 1
       rgb: 14725458
-  - query: 'path:"04 Methodologies"  '
-    color:
-      a: 1
-      rgb: 5399264
-  - query: path:"01 Design maps"
+  - query: path:"01 Maps"
     color:
       a: 1
       rgb: 10773465

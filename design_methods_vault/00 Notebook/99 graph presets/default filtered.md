@@ -21,11 +21,7 @@ colorGroups:
     color:
       a: 1
       rgb: 14725458
-  - query: 'path:"04 Methodologies"  '
-    color:
-      a: 1
-      rgb: 5399264
-  - query: path:"01 Design maps"
+  - query: path:"01 Maps"
     color:
       rgb: 10773465
       a: 1
