@@ -2,7 +2,7 @@
 tags:
   - exploration
   - mapping
-  - UxDesign
+  - design/UX
 aliases:
 ---
 

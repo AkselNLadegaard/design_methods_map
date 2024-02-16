@@ -1,6 +1,6 @@
 ---
 tags:
-  - businessDesign
+  - design/business
   - outputs/concepts
   - outputs/ideas
   - inputs/ideas

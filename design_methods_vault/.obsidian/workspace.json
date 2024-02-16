@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "29ac4ff061a2eda7",
+        "id": "20e541816666a5b1",
         "type": "tabs",
         "children": [
           {
-            "id": "a59def8c95af7e4a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "c7c2ba6acebdb990",
+            "id": "36b85c60890a7a2c",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,16 +167,18 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "c7c2ba6acebdb990",
+  "active": "36b85c60890a7a2c",
   "lastOpenFiles": [
     "00 Notebook/99 graph presets/Concepts.md",
+    "00 Notebook/99 graph presets/Just the real stuff.md",
     "00 Notebook/99 graph presets/default filtered.md",
-    "00 Notebook/99 graph presets/Color v1.md",
+    "00 Notebook/99 graph presets/Methods.md",
     "00 Notebook/99 graph presets/Methodologies and maps.md",
     "00 Notebook/99 graph presets/Ideas.md",
+    "00 Notebook/99 graph presets/Has outputs.md",
+    "00 Notebook/99 graph presets/Color v1.md",
     "03 Methods/Black Boxing.md",
     "00 Notebook/99 graph presets/Problem space.md",
-    "00 Notebook/99 graph presets/Methods.md",
     "00 Index.md",
     "01 Design maps/02 Map of Design Methods.md",
     "03 Methods/Activity Analysis.md",
@@ -209,8 +200,6 @@
     "99 Not publishd/00 Read me - introduction, guidelines and instructions.md",
     "99 Not publishd",
     "04 Methodologies/Product Service Design2.md",
-    "03 Methods/Surveys.md",
-    "03 Methods/Root Cause Analysis.md",
     "00 Notebook/99 Attachments/graph_creation.mp4",
     "00 Notebook/99 Attachments/_bd556136-18ae-437c-bc52-f2852e935328.jfif",
     "00 Notebook/99 Attachments/_bd556136-18ae-437c-bc52-f2852e935328 1.jfif",

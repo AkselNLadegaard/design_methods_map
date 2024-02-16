@@ -8,7 +8,7 @@ graph-presets-plugin: basic
 collapse-filter: false
 search: tag:#ideation OR tag:#outputs/ideas OR tag:#phase/diverging OR
   tag:#phase/discover
-showTags: true
+showTags: false
 showAttachments: false
 hideUnresolved: false
 showOrphans: true
@@ -30,16 +30,16 @@ colorGroups:
     color:
       a: 1
       rgb: 10773465
-collapse-display: true
+collapse-display: false
 showArrow: true
-textFadeMultiplier: 0.8
+textFadeMultiplier: -3
 nodeSizeMultiplier: 1.6
 lineSizeMultiplier: 0.7
-collapse-forces: true
-centerStrength: 0.5
+collapse-forces: false
+centerStrength: 0.4
 repelStrength: 20
 linkStrength: 1
-linkDistance: 267
+linkDistance: 138
 scale: 0.039204404815539086
 close: false
 ```

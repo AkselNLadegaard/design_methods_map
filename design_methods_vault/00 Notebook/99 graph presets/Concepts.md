@@ -6,7 +6,7 @@ graph-presets-plugin: basic
 ---
 ```yaml:graph-preset
 collapse-filter: false
-search: 'path:"02 Concepts"  OR path:"01 Design maps"  OR path:"04 Methodologies"  '
+search: path:"02 Concepts"  OR path:"01 Design maps"  OR path:"04 Methodologies"
 showTags: true
 showAttachments: false
 hideUnresolved: false
@@ -31,7 +31,7 @@ colorGroups:
       rgb: 10773465
 collapse-display: false
 showArrow: true
-textFadeMultiplier: 0.8
+textFadeMultiplier: -2.8
 nodeSizeMultiplier: 1.6
 lineSizeMultiplier: 0.7
 collapse-forces: false

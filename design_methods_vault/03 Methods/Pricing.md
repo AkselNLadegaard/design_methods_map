@@ -1,7 +1,7 @@
 ---
 tags:
   - segmentation
-  - businessDesign
+  - design/business
   - marketing
 aliases: 
 description:
