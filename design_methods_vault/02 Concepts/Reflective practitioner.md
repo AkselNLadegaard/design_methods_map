@@ -3,7 +3,7 @@ tags: []
 aliases: 
 description:
 ---
-Mostly written by [[Google bard 2024]]
+Partially written by: #notebook/ai/google/bard
 ## Description
 A **reflective practitioner** is someone who **actively and critically examines their own thoughts, actions, and experiences** to **acquire new knowledge, improve their skills, and enhance their professional practice**. They engage in a **conscious and ongoing process of reflection** that goes beyond simply recalling events but involves **analyzing, interpreting, and evaluating** them to **extract valuable lessons and inform future decisions**
 

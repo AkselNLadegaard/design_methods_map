@@ -5,7 +5,7 @@ description:
 ---
 Mechanics creates gameplay, so I merged the notes for cohesion and avoid overlap with mechanical engineering stuff. Subject to change
 
-Mostly by [[Google bard 2024]]
+Partially written by: #notebook/ai/google/bard
 
 **Basic Mechanics:**
 

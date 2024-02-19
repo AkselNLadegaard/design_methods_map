@@ -3,7 +3,7 @@ tags:
 aliases: 
 description:
 ---
-Partially By: [[Google bard 2024]]
+Partially written by: #notebook/ai/google/bard
 ## Description
 Protocol analysis is a research method in which participants verbalize their thoughts and actions while performing a task. This allows researchers to gain insights into their cognitive processes, decision making, and understanding of the task.
 - It has its roots in [[Cognitive psychology]] and [[Cognitive science]]
@@ -24,7 +24,7 @@ Protocol analysis is a research method in which participants verbalize their tho
 - [[Thinking Out Loud]]
 - [[Concurrent verbal protocol]]
 - [[Retrospective verbal protocol]]
-- [[Semi Structured Intervies]]
+- [[Semi Structured interviews]]
 - [[User observation]]
 - 
 

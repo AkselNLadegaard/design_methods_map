@@ -14,7 +14,7 @@ aliases:
 ---
 
 ## Description
-Actor-network theory (ANT) is a sociological approach that views the world as a network of interconnected actors, including humans, non-human objects, concepts, and ideas. ANT emphasizes the active role of non-human actors in shaping social processes, challenging the traditional distinction between humans and technology. ([[Google bard 2024]])
+Actor-network theory (ANT) is a sociological approach that views the world as a network of interconnected actors, including humans, non-human objects, concepts, and ideas. ANT emphasizes the active role of non-human actors in shaping social processes, challenging the traditional distinction between humans and technology.  #notebook/ai/google/bard
 
 ## Key points
 - Non humans have agency, e.g., Technology is an agent, and is not passive

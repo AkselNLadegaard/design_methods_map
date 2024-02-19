@@ -3,9 +3,11 @@ tags:
   - stakeholders/experts
   - stakeholders/designer
   - stakeholders/users
-aliases: 
+aliases:
+  - Performance metrics
 description:
 ---
+
 
 ## Description
 
@@ -13,9 +15,13 @@ description:
 ## Examples 
 
 
-## Related notes 
+## Related concepts and principles
 - [[Performance Management]]
 - [[Requirements Specification]] 
 - [[Metrics]]
 
-## Academic roots
+## Related methods
+- [[Dashboards]]
+
+
+## Related content and sources

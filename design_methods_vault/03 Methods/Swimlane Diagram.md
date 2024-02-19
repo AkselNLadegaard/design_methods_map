@@ -8,7 +8,7 @@ tags:
 aliases: 
 description:
 ---
-Mostly written by [[Google bard 2024]]
+Partially written by: #notebook/ai/google/bard
 ## Description
 A **swimlane diagram** is a type of flowchart that **visually depicts a process** by dividing it into horizontal or vertical lanes. Each lane represents a different **team, department, or individual** responsible for specific steps within the process. This visualization clarifies **ownership, handoffs, and interactions** between different parties involved, improving understanding and communication
 

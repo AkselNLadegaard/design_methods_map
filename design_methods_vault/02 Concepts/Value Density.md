@@ -4,13 +4,15 @@ tags:
   - logistics
   - supplyChain
   - optimization
+  - concept
+  - metric
 aliases:
   - Price density
   - value to weight ratio
   - volumetric value
 description:
 ---
-Mostly by [[Google bard 2024]] 
+Partially written by: #notebook/ai/google/bard
 ## Description
 **Value density** refers to the **quantifiable relationship between the value of a product and its physical volume or weight**. It is a key metric used in various contexts, particularly **product design, logistics, and supply chain management**. 
 Bard argues: It reflects the **efficiency and cost-effectiveness** of transporting, storing, and handling products based on their inherent value.

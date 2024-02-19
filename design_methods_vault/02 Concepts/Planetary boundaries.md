@@ -28,7 +28,7 @@ description:
 - [[Backcasting]]
 - [[Donut economy]]
 ## Related methods
-- [[Life Cycle Assesment]]
+- [[Life Cycle Assessment]]
 - [[Scenario planning]]
 
 ## Related content and sources

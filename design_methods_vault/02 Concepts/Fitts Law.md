@@ -3,7 +3,7 @@ tags:
 aliases: 
 description:
 ---
-Partially written by [[Google bard 2024]]
+Partially written by: #notebook/ai/google/bard
 ## Description
 Fitts' Law predicts the time it takes users to reach a target on a screen or interface, considering the distance and size of the target. Essentially, **larger and closer targets are easier and faster to interact with**.
 

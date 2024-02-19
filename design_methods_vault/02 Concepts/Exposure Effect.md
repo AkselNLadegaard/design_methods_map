@@ -2,11 +2,12 @@
 tags:
   - psychology
   - marketing
+  - user/behaviour
 aliases:
   - Familiarity principle
 description:
 ---
-Partially by [[Google bard 2024]]
+Partially written by: #notebook/ai/google/bard
 ## Description
 The exposure effect, describes the psychological phenomenon where individuals tend to develop a preference for things or people they are simply more familiar with. 
 

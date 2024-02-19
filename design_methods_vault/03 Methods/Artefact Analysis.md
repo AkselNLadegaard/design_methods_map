@@ -23,10 +23,15 @@ description:
 		* Comparison and metrics 
 	* Remember to reflect on your bias! A lot of accessibility oriented products may appear very silly/ill-designed if not viewed from an accessibility angle 
 
-## Examples 
+
+## Related concepts and principles
+- [[Artefact Level]]
+- [[Artefact]]
 
 
-## Related notes 
+## Related methods
+- [[Disassembly workshop]]
+
 
 
 ## Academic roots

@@ -22,6 +22,11 @@ description:
 - [[Metacognition]]
 
 ## Related methods
+- [[Black Boxing]]
+- [[Association Chains]]
+- [[Chunking]]
+- [[Inversion]]
+- 
 
 
 ## Related content and sources

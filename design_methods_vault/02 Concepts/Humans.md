@@ -2,6 +2,7 @@
 tags: 
 aliases:
   - Homo sapiens
+  - People
 description:
 ---
 

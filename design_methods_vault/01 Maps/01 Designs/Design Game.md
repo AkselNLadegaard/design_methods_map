@@ -1,24 +1,8 @@
 ---
 tags:
-  - phase/deliver
-  - stakeholders/experts
-  - stakeholders/users
-  - inputs/ideas
-  - inputs/concepts
-  - inputs/problems
-  - inputs/insights
-  - outputs/ideas
-  - outputs/concepts
-  - outputs/problems
-  - outputs/insights
-  - outputs/problems
-  - outputs/userBuyIn
-  - outputs/decisionSupport
-  - goal/informationGathering
-  - goal/communicate
-  - goal/create
-  - goal/analyse
-  - goal/evaluate
+  - goal/process
+  - design
+  - methods
 aliases:
 ---
 

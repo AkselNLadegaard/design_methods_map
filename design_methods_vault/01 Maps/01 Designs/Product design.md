@@ -1,6 +1,7 @@
 ---
 tags: 
-aliases: 
+aliases:
+  - Product synthesis
 description:
 ---
 
@@ -24,6 +25,12 @@ description:
 - [[Scale models]] and [[Physical models]]
 - [[Industrial design]]
 
-
+## Other structure inspired by Conceptual Design by Claus and Phillip
+- [[Activity domain]]
+- [[Organ domain]]
+- [[Part domain]]
+- [[Product modelling]]
+- 
 
 ## Academic roots
+- https://link.springer.com/book/10.1007/978-3-319-19839-2

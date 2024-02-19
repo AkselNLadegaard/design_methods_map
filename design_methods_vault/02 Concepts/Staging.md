@@ -1,8 +1,9 @@
 ---
 tags:
-  - goal/planning
   - goal/communicate
   - goal/process
+  - workshops
+  - facilitation
 aliases:
   - Moodsetting
 ---

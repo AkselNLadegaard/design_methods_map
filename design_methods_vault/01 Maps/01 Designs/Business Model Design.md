@@ -20,10 +20,12 @@ description:
 - [[Pricing]]
 - [[Marketing]]
 - [[Market analysis]]
+- [[Customer loyalty]]
 
 - [[Economy]]
+- [[Servitization]]
 ## Related methods
 - [[Business Model Canvas]] and all its variaitons
-- 
+- [[Circular business model design]]
 
 ## Related content and sources

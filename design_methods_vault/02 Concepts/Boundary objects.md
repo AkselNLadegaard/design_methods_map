@@ -21,6 +21,6 @@ description:
 - [[Embodied cognition]]
 
 ## Related methods
-
+- [[Dashboards]]
 
 ## Related content and sources

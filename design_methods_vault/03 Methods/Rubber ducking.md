@@ -10,7 +10,7 @@ tags:
 aliases: 
 description:
 ---
-Partially written by [[Google bard 2024]]
+Partially written by: #notebook/ai/google/bard
 ## Description
 **Rubber ducking**, also known as rubber duck debugging, is a **self-teaching** technique where you **explain your problem or code line-by-line to an inanimate object**, like a rubber duck. By verbalizing your thought process, you often **identify the solution yourself** through the act of **articulation and clear explanation**.
 

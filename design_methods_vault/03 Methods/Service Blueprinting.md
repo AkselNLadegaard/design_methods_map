@@ -5,6 +5,7 @@ tags:
   - defining
   - design/services
 aliases:
+  - Service blueprint
 ---
 
 ## Description

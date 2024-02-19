@@ -7,7 +7,7 @@ aliases:
   - Policy
 description:
 ---
-Partially by [[Google bard 2024]]
+Partially written by: #notebook/ai/google/bard
 ## Description
 All policy design is inherently related to [[Behavioural Design]].
 

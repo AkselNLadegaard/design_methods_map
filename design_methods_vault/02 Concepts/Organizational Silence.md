@@ -7,7 +7,7 @@ aliases:
   - employee silence
 description:
 ---
-Partially By: [[Google bard 2024]]
+Partially written by: #notebook/ai/google/bard
 ## Description
 Organizational silence refers to the phenomenon where employees withhold opinions, concerns, or valuable information from colleagues or superiors. This can be due to fear of negative consequences, lack of trust in leadership, or a culture that discourages dissent.
 

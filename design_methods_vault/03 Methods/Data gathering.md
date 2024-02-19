@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - goal/informationGathering
 aliases: 
 description:
 ---
@@ -9,11 +10,16 @@ description:
 
 ## Examples 
 
-## Related notes 
+## Related concepts and principles
 - [[Big data]] 
-- [[Design of experiments - DOE]] which can be very broad
-- [[Logging]] method,
-- [[Crowdsourcing]]
 - [[Ethical design]] 
+
+## Related methods
+- [[Design of experiments - DOE]] s
+- [[Logging]]
+- [[Crowdsourcing]]
+
+- [[Observation]]
+- [[Interviews]]
 
 ## Academic roots

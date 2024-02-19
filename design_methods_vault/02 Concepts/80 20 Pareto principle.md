@@ -9,7 +9,7 @@ aliases:
   - Law of the Vital Few
 description:
 ---
-Mostly by [[Google bard 2024]]
+Partially by: #notebook/ai/google/bard
 ## Description
 The 80/20 rule, also known as the Pareto Principle, suggests that roughly s80% of consequences come from 20% of causes. This principle highlights the uneven distribution of effects across contributing factors, encouraging efforts to be focused on the "vital few".
 

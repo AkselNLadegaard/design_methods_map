@@ -1,11 +1,18 @@
+---
+tags:
+  - methods
+aliases: 
+description:
+---
 
 ## Description
 
 
-## Examples 
+## Related concepts and principles 
 
 
-## Related notes 
+## Related methods 
 - [[Fly on the Wall Observation]]
+- [[Participant Observation]]
 
 ## Academic roots

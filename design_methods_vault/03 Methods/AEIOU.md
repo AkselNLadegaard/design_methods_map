@@ -6,7 +6,7 @@ tags:
 aliases: 
 description: Activities, Environments, Interactions, Objects, Users
 ---
-
+Partially by #notebook/ai/google/bard 
 ## Description
 - An observation framework where you group by:
 	- Activities, Environments, Interactions, Objects, Users
@@ -14,23 +14,23 @@ description: Activities, Environments, Interactions, Objects, Users
 
 ## Examples 
 
-- Activity 
+- [[Activity]] 
 	- Ordering food
-- Environment 
+- [[Context|Environment]]
 	- Evening 
 	- Outside 
 	- Crowded 
 	- Harsh lighting 
-- Interactions 
+- [[Interactions]] 
 	- Cashier gives order receipt to cook worker
 	- Cook prepares food 
 	- Casheer receives confirmation and calls out order
 	- Food is handed over/delivered 
 	- Customer select payment option 
 	- Customer pays 
-- Objects 
+- [[Artefact|Objects]]
 	- Money
-- Users 
+- [[Users]]
 	- Customer
 	- Cook 
 	- Cashier/Waiter

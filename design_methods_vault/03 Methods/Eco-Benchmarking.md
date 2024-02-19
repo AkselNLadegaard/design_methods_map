@@ -16,7 +16,7 @@ description:
 - [[Embodied energy]]
 - [[Embodied carbon]]
 - [[Circular Design]]
-- [[Life Cycle Assesment]]
+- [[Life Cycle Assessment]]
 - [[Defining a Functional Unit]]
 - [[Eco labelling]]
 - [[Environmental Product Declaration]]

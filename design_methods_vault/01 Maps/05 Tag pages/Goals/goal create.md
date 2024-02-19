@@ -1,0 +1,20 @@
+---
+Aliases: [ "#goal/create" ]
+---
+## All notes for tag: #goal/create 
+1. [[Design Game]]
+2. [[Brain writing]]
+3. [[Brainstorming]]
+4. [[Function Mean trees]]
+5. [[Future state mapping|Future state definiton]]
+6. [[Lateral Thinking]]
+7. [[Mock up]]
+8. [[Morphology|Morfologi]]
+9. [[Negative Brainstorming|Reverse brainstorming]]
+10. [[Prototyping]]
+11. [[SCAMPER]]
+12. [[Storyboards]]
+13. [[The Breakup Letter]]
+14. [[Walking The Wall|Wall Walk]]
+15. [[What Would Jesus Do]]
+16. [[goal create]]

@@ -3,7 +3,7 @@ tags:
 aliases: 
 description:
 ---
-[[Google bard 2024]] assisted heavily in this. 
+Partially written by: #notebook/ai/google/bard
 ## Description
 Game design is the art and science of crafting an engaging and meaningful experience through rules, systems, and interaction. 
 

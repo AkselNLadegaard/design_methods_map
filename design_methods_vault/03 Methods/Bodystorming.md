@@ -12,7 +12,7 @@ description:
 ---
 
 ## Description
-Bodystorming provides a unique opportunity to empathize with your target audience by physically simulating their actions and interactions with your design. This embodied experience allows you to uncover hidden pain points, identify potential usability issues, and gain a deeper understanding of their preferences and expectations. [[Google bard 2024]]
+Bodystorming provides a unique opportunity to empathize with your target audience by physically simulating their actions and interactions with your design. This embodied experience allows you to uncover hidden pain points, identify potential usability issues, and gain a deeper understanding of their preferences and expectations. #notebook/ai/google/bard
 
 - Use props! 
 - Staging and proper facilitation is required. 
@@ -26,7 +26,7 @@ Questions for the reader?
 
 
 ## A detailed guide 
-Thanks to [[Google bard 2024]] for helping:
+Thanks to #notebook/ai/google/bard for helping:
 1. **Select Specific Topics:** Choose one or two key themes from your affinity map that you want to explore in more depth through bodystorming. These themes should represent areas where you want to gain deeper insights into user interactions and potential design challenges.
 2. **Create Character Profiles:** Develop character profiles based on your affinity map findings. These profiles should represent your target users, including their characteristics, goals, and challenges.
 3. **Determine Scenarios:** Craft scenarios for each selected theme based on the character profiles you created. These scenarios should represent realistic situations where users would interact with your product or service.

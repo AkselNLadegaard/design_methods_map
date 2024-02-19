@@ -9,7 +9,7 @@ aliases:
   - Future state definiton
 description:
 ---
-Partially By: [[Google bard 2024]]
+Partially written by: #notebook/ai/google/bard
 ## Description
 Future State Mapping is a tool used to envision and explore future states for a process, system, or experience. It involves understanding the current state, identifying pain points and opportunities, and then brainstorming and visualizing an ideal future scenario.
 

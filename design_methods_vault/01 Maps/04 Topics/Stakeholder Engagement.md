@@ -33,7 +33,7 @@ description:
 - [[Interviews]]
 - [[Communication planning]]
 - [[Campaigns]]
-- 
+- [[Strategic Dialogue]]
 - [[Social media engagement]]
 - [[Advisory Boards]] - Customer, experts, stakeholders, etc.
 - [[Focus Groups]]

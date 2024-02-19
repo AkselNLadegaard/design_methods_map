@@ -1,0 +1,20 @@
+---
+Aliases: [ "#goal/evaluate" ]
+---
+## All notes for tag: #goal/evaluate 
+1. [[Design Game]]
+2. [[80 20 Pareto principle|Principle of Factor Sparsity]]
+3. [[AB Testing|Split testing]]
+4. [[Bodystorming]]
+5. [[Bottleneck Analysis]]
+6. [[Check sheet|checklist]]
+7. [[Conjoint analysis]]
+8. [[Contextual Interview|Contextual Inquiry]]
+9. [[De Bono's six thinking hats]]
+10. [[Functional Prototyping|Functional model]]
+11. [[Prototyping]]
+12. [[SWOT - Strengths, Weaknesses, Opportunities and Threats]]
+13. [[The Five Why's 5]]
+14. [[Weighted Objective Matrix|Pugh Matrix]]
+15. [[Wizard of Oz]]
+16. [[goal evaluate]]

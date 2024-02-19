@@ -12,7 +12,7 @@ description:
 - [[Systematic Problem Formulation ]]
 - 
 - [[Problem analysis]]
-- [[Functional  Analysis]]
+- [[Functional Analysis]]
 - [[Solution Space]] and [[Diverging]]
 - [[Contradiction analysis]]
 	- [[Contradiction matrix]]

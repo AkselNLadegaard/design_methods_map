@@ -27,7 +27,7 @@ Questions for the reader:
 
 
 ## Related notes 
-- [[Functional  Analysis]]
+- [[Functional Analysis]]
 - [[Value Engineering]] in the sense of identifying which functions to what means are the most important
 - [[Morphology]] as a morphology in some sense maps different goals/functions and lists means (solutions) for achieving these 
 - [[Functional Decomposition]]

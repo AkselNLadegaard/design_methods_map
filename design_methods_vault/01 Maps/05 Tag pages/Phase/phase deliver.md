@@ -1,0 +1,20 @@
+---
+Aliases: [ "#phase/deliver" ]
+---
+## All notes tag: #phase/deliver 
+1. [[Design Game]]
+2. [[AB Testing|Split testing]]
+3. [[Bottleneck Analysis]]
+4. [[Change wheel]]
+5. [[Consolidation Session|Interpretation session]]
+6. [[Development Arena]]
+7. [[Mock up]]
+8. [[Mood Boards|Moodboard]]
+9. [[Morphology|Morfologi]]
+10. [[Prototyping]]
+11. [[SWOT - Strengths, Weaknesses, Opportunities and Threats]]
+12. [[Storyboards]]
+13. [[The Five Why's 5]]
+14. [[Walking The Wall|Wall Walk]]
+15. [[Weighted Objective Matrix|Pugh Matrix]]
+16. [[phase deliver]]

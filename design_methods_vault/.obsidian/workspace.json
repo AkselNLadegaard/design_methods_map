@@ -4,31 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "fc3de02e4ac14f21",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3fa1b7ad20f0ca8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown-preset-view",
-              "state": {
-                "file": "00 Notebook/99 graph presets/Color v1.md"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "14e27925c8e53c85",
         "type": "tabs",
         "children": [
           {
-            "id": "41460332d349cc31",
+            "id": "c734f9ffe9925fdb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 Concepts/Expectation Effect.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4948686b0565443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Concepts/Arena.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df8e237f951d994d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Concepts/Storytelling.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d27c6f9bf0760e56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Maps/04 Topics/System modelling.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f428a9f2f374f6d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Methods/Morphology.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -60,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "interview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 Concepts/Expectation Effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +164,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -133,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 Concepts/Expectation Effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 Concepts/Expectation Effect.md"
+              }
             }
           },
           {
@@ -162,7 +207,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,47 +225,48 @@
       "advanced-random-note:Open random note modal": false,
       "publish:Publish changes...": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-graph-presets:Graph Presets": false
+      "obsidian-graph-presets:Graph Presets": false,
+      "auto-moc:AutoMOC": false
     }
   },
-  "active": "41460332d349cc31",
+  "active": "c734f9ffe9925fdb",
   "lastOpenFiles": [
-    "00 Notebook/99 graph presets/Color v1.md",
-    "00 Notebook/99 graph presets/Concepts.md",
-    "00 Notebook/99 graph presets/default filtered.md",
-    "00 Notebook/99 graph presets/Has outputs.md",
-    "00 Notebook/99 graph presets/Ideas.md",
-    "00 Notebook/99 graph presets/Just the real stuff.md",
-    "00 Notebook/99 graph presets/Maps.md",
-    "00 Notebook/99 graph presets/Methods.md",
-    "00 Notebook/99 graph presets/Problem space.md",
-    "01 Maps/02 Models/Double Diamond Methods  map 💎💎.md",
-    "01 Maps/02 Models/Double Diamond Concepts Map 💎💎.md",
-    "01 Maps/02 Models/The N-Model.md",
-    "01 Maps/01 Designs/Product Service System Design.md",
-    "01 Maps/01 Designs/Product design.md",
-    "01 Maps/01 Designs/Participatory Design.md",
-    "01 Maps/01 Designs/Integrated Systems Design.md",
-    "01 Maps/01 Designs/Industrial design.md",
-    "01 Maps/01 Designs/Generative Design.md",
-    "01 Maps/01 Designs/Game design.md",
-    "01 Maps/01 Designs/Design Thinking.md",
-    "01 Maps/01 Designs/Eco Design.md",
-    "01 Maps/01 Designs/Design of experiments - DOE.md",
-    "01 Maps/01 Designs/Design Game.md",
-    "03 Methods/Inductive design exploration.md",
-    "01 Maps/Generative design.md",
-    "02 Concepts/Design by Committee.md",
+    "02 Concepts/Modularity.md",
+    "02 Concepts/Change Agents.md",
+    "03 Methods/Development Arena.md",
+    "03 Methods/Morphology.md",
+    "01 Maps/04 Topics/System modelling.md",
+    "02 Concepts/Storytelling.md",
+    "03 Methods/Petrinet model.md",
+    "03 Methods/Stakeholder Mapping.md",
+    "02 Concepts/Meme.md",
+    "03 Methods/Functional Analysis.md",
+    "02 Concepts/Modules.md",
+    "02 Concepts/Arena.md",
+    "03 Methods/Morphological analysis.md",
+    "Systems thinking.md",
+    "02 Concepts/Feedback Loop.md",
+    "99 Not publishd/00 Read me - introduction, guidelines and instructions.md",
+    "01 Maps/01 Designs/Product Service Systems.md",
+    "03 Methods/Analysis of Interconnected Decision Areas.md",
+    "99 Not publishd/AI LLM templates/bard 2024 template filler.md",
+    "02 Concepts/Mimicry.md",
+    "02 Concepts/Exposure Effect.md",
+    "02 Concepts/Group Thinking.md",
+    "00 Notebook/99 Templates/New concept template.md",
+    "01 Maps/01 Designs/Conceptual Design.md",
+    "02 Concepts/Separation of Concerns.md",
+    "02 Concepts/Value Density.md",
+    "01 Maps/05 Tag pages/Output",
+    "01 Maps/05 Tag pages/Phase",
+    "01 Maps/05 Tag pages/Goals",
+    "01 Maps/05 Tag pages",
+    "00 Notebook/Untitled",
     "01 Maps/99 Overviews",
     "01 Maps/04 Topics",
     "01 Maps/01 Designs",
     "01 Maps/02 Models",
     "01 Maps/03 Frameworks",
-    "00 Notebook/99 graph presets",
-    "_bd556136-18ae-437c-bc52-f2852e935328.jfif",
-    "99 Not publishd/Ignored files",
-    "99 Not publishd/AI LLM templates",
-    "99 Not publishd",
     "00 Notebook/99 Attachments/Logo_v2.png",
     "00 Notebook/99 Attachments/Logo.png",
     "adj 2024-02-07 210622.png",

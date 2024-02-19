@@ -5,7 +5,7 @@ description:
 ---
 
 ## Description
-Gamification is the process of incorporating game-like elements into non-game contexts. These elements can be used to motivate, engage, and educate people. [[Google bard 2024]]
+Gamification is the process of incorporating game-like elements into non-game contexts. These elements can be used to motivate, engage, and educate people. #notebook/ai/google/bard
 ## Examples 
 - [ ] Please add gamificaiton examples
 - Sales leaderboards in sale rooms to drive competition between sale agents 

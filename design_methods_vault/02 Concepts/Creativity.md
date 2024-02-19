@@ -1,14 +1,13 @@
 ---
 tags: 
-aliases: 
+aliases:
+  - Creative thinking
 description:
 ---
 
 ## Description
 
-
-## Examples 
-
+- [[Reasoning]]
 
 ## Related notes 
 - [[Association Chains]]
@@ -17,6 +16,6 @@ description:
 - [[Fixation]]
 - [[Constraints]]
 - [[Degrees of freedom]]
-- 
+
 
 ## Academic roots

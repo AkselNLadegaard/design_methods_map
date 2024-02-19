@@ -5,7 +5,7 @@ aliases:
   - Moral philosophy
 description:
 ---
-Once again thanks to [[Google bard 2024]]
+Partially written by: #notebook/ai/google/bard
 ## Description
 Ethics, also known as moral philosophy, deals with the study of what constitutes "good" and "bad" behaviour, and the principles that guide our actions. 
 It asks complex questions about right and wrong, justice and fairness, and our obligations to others and ourselves. These concepts find application in all fields, including design, shaping how we create and interact with the world around us.

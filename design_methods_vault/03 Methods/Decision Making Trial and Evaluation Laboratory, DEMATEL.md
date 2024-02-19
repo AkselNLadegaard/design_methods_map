@@ -9,7 +9,7 @@ aliases:
   - DEMATEL
 description:
 ---
-Partially written by [[Google bard 2024]] 
+Partially written by: #notebook/ai/google/bard
 ## Description
 **DEMATEL** is a multi-criteria decision-making method that helps **visualize and analyze the cause-and-effect relationships** among complex sets of factors or criteria. 
 It involves pair-wise comparisons by experts to assess the direct and indirect influences between factors, resulting in a **visual representation** of their causal structure. 

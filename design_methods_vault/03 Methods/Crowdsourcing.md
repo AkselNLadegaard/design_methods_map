@@ -1,6 +1,6 @@
 
 ## Description
-Crowdsourcing is the act of distributing tasks, problems, or challenges to a large group of individuals (a crowd) from an undefined, generally large, and diverse network of people to solve or complete them. [[Google bard 2024]] 
+Crowdsourcing is the act of distributing tasks, problems, or challenges to a large group of individuals (a crowd) from an undefined, generally large, and diverse network of people to solve or complete them. #notebook/ai/google/bard
 
 ## Examples 
 - >**topic**< crowdsourcing as done in [[Workshops]] or through online platforms

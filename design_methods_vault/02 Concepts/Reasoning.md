@@ -7,11 +7,10 @@ description:
 ## Description
 
 
-## Examples 
-
-
 ## Related concepts and principles
-- [[Statistical Significance]]
+- [[Causal reasoning]]
+- [[Thinking]]
+- [[Mental Model]]
 
 ## Related methods
 

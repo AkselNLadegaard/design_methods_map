@@ -6,7 +6,7 @@ aliases:
 
 
 
-2. Onboard a potential user to get their input early on 
+2. [x] Onboard a potential user to get their input early on 
 3. [x] Add a bunch of concepts 
 4. [x] Add a bunch of methods 
 5. [x] Add a bunch of methodologies 
@@ -22,31 +22,30 @@ aliases:
 14. [x] Extract methods 
 15. [x] Extract principles 
 16. [x] Link things together 
-17. Refator Academic roots to further reading and other mateirals or something like that. References, there are many good ideas 
-18. Where should sustainability methods be? E.g., transformational change, etc.
-	1. What should link to planetary boundaries and things that are relevant everywhere
-19. [x] Switch to https://github.com/IdreesInc/Waypoint no 
-20. implement dataview with templater to have a publishing process.
-	1. This requires making a set of must have maps that will be reflected in graph view
-21. Setup obsidian/publish
-22. Add note for Returning customers and replayability and find interlink with service/game deisgn or something.
-23. https://docs.google.com/spreadsheets/d/17mNG8OXEPQqWJliw3OAAvWkPP37xtHMd/edit#gid=745137822
-24. Cleanup
-25. Discuss folder structure 
-26. CSS styling of juggl graph view based on folder, posb. tag
-27. https://www.mcgill.ca/engineeringdesign/step-step-design-process/design-methods
-28. Nigel cross engineering desigh? 
-29. http://wiki.doing-projects.org/index.php/ConceptBox
-30. Before, after, alternative methods template for specifying 
+17. Complete restructuring of note templates used early on
+18. Tag all the existing notes 
+19. [x] Where should sustainability methods be? E.g., transformational change, etc.
+	1. [x] What should link to planetary boundaries and things that are relevant everywhere
+20. [x] Switch to https://github.com/IdreesInc/Waypoint - nopes.
+21. [x] implement dataview with templater to have a publishing process. - nopes await official solution
+	1. [x] This requires making a set of must have maps that will be reflected in graph view
+22. [x] Setup obsidian/publish
+24. https://docs.google.com/spreadsheets/d/17mNG8OXEPQqWJliw3OAAvWkPP37xtHMd/edit#gid=745137822
+25. [x] Cleanup
+26. [x] Discuss folder structure 
+27. CSS styling of juggl graph view based on folder, posb. tag
+28. https://wwsw.mcgill.ca/engineeringdesign/step-step-design-process/design-methods
+29. Nigel cross engineering desigh? 
+30. http://wiki.doing-projects.org/index.php/ConceptBox
+31. Before, after, alternative methods template for specifying 
 	1. All methods to link are either 
 		1. Similar 
 		2. Opposite 
 		3. Complementary 
 		4. Or something?
-31. [[Machine assisted proofs]] and how mathematicians solve problems in general 
-32. Setup date with Anders Marchsteiner 
-33. Look into more options for publish 
-34. Ways to alter all design methods (this needs to be tied into workshops but also an using design method)
+32. [[Machine assisted proofs]] and how mathematicians solve problems in general 
+34. Look into more options for publish 
+35. Ways to alter all design methods (this needs to be tied into workshops but also an using design method)
 	1. Ways to use all design methods 
 	2. Anonmyity 
 	3. Limit cross polination 
@@ -54,7 +53,8 @@ aliases:
 	5. Enhance priming 
 	6. etc
 	7. >Phillip would be good here 
-35. Go through Conceptual Design book
-36. Go through Miro templates 
-37. Go through Figma templates
-38. Figure out how to handle those maps.
+36. Go through Conceptual Design book
+37. Go through Miro templates 
+38. Go through Figma templates
+39. Figure out how to handle those maps.
+40. "tag pages/notes" in publish and in general.

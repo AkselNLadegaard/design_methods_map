@@ -24,7 +24,7 @@ aliases:
 - [[Ideation]]
 - [[Facilitation]]
 - [[Lateral Thinking]]
-- [[Creative Thinking]]
+- [[Creativity|Creative thinking]]
 - [[Critical Thinking]]
 
 ## Academic roots

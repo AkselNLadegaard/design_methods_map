@@ -9,7 +9,7 @@ aliases:
   - Working prototype
 description:
 ---
-Partially By: [[Google bard 2024]]
+Partially written by: #notebook/ai/google/bard
 ## Description
 Creating a working model of a product or system to test its core functionality and gather feedback early in the design process.
 

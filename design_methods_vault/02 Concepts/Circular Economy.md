@@ -1,5 +1,7 @@
 ---
-tags: 
+tags:
+  - economy
+  - concept
 aliases: 
 description:
 ---

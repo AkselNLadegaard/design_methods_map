@@ -12,6 +12,6 @@ description:
 
 
 ## Related notes 
-- [[Life Cycle Assesment]]
+- [[Life Cycle Assessment]]
 
 ## Academic roots

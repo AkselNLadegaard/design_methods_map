@@ -8,7 +8,7 @@ aliases:
   - checklist
 description:
 ---
-Partially By: [[Google bard 2024]]
+Partially written by: #notebook/ai/google/bard
 ## Description
 A check sheet is a simple data collection tool to systematically observe, record, and possibly structure and/or analyse an event.
 

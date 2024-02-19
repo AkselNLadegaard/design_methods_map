@@ -20,6 +20,7 @@ Also
 - [[User journeys]]
 - [[Scenarios]]
 - [[Failure Mode Effect Analysis - FMEA]]
+- [[Pre mortem analysis]]
 ## Academic roots
 - See the good wikipedia page on the topic: https://www.wikiwand.com/en/Critical_incident_technique
 - 

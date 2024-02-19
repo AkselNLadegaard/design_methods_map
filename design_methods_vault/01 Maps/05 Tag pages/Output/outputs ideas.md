@@ -1,0 +1,23 @@
+---
+Aliases: [ "#outputs/ideas" ]
+---
+## All notes for tag: #outputs/ideas 
+1. [[Design Game]]
+2. [[Brain writing]]
+3. [[Brainstorming]]
+4. [[Business Model Canvas]]
+5. [[De Bono's six thinking hats]]
+6. [[Function Mean trees]]
+7. [[Lateral Thinking]]
+8. [[Mock up]]
+9. [[Mood Boards|Moodboard]]
+10. [[Negative Brainstorming|Reverse brainstorming]]
+11. [[Photo Safari]]
+12. [[Prototyping]]
+13. [[Rubber ducking]]
+14. [[SCAMPER]]
+15. [[Storyboards]]
+16. [[Walking The Wall|Wall Walk]]
+17. [[What Would Jesus Do]]
+18. [[Workbook]]
+19. [[outputs ideas]]

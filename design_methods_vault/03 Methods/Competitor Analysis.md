@@ -14,5 +14,6 @@ Analysing competing products and services in the [[Arena]]
 ## Related notes 
 - [[Evaluative Research]]
 - [[Triading]]
+- [[Product Reviews]]
 
 ## Academic roots

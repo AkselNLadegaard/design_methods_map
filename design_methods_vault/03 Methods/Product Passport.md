@@ -8,7 +8,7 @@ tags:
 aliases: 
 description:
 ---
-Partially By: [[Google bard 2024]]
+Partially written by: #notebook/ai/google/bard
 ## Description
 - A digital repository of information that follows a product throughout its entire lifecycle.
 - Contains key data about the product's materials, origin, manufacturing processes, usage, repair history, and end-of-life options.
