@@ -14,12 +14,9 @@ description:
 
 
 ## Related methods
-- [[Crazy 8's]]
-- [[Brainstorming]]
-- [[Brain writing]]
-- [[Ideal Final Result]]
-- [[Desired final outcome statement]]
-- [[How might we]]
-- 
+- [[Stakeholder Value Mapping]]
+- [[Value Stream Mapping]]
+- [[Life cycle value stream matrix]]
 
 ## Related content and sources
+- https://ddc.dk/tools/value-system-mapping/

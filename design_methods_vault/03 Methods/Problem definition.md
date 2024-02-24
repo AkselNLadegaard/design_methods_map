@@ -9,21 +9,20 @@ description:
 
 
 ## Examples 
-- [[Systematic Problem Formulation]]
-- [[How might we]]
-- [[Ideal Final Result]]
-- [[Why not?]]
-- [[Desired final outcome statement]]
-- [[Positive framing]]
-- [[Reframing]]
-- [[Requirements Specification]]
-- [[Wicked Problems]]
-- [[Framing]]
-## Related methods
+## Related concepts & principles
 - [[Convergent problems]]
 - [[Divergent problems]]
+- [[Requirements Specification]]
 
-## Related concepts & principles
+## Related methods
+- [[WWWWWH: Who, What, Where, When, Why, and How]]
+- [[Wicked Problems]]
+- [[Reframing]]
+- [[Framing]]
+- [[Positive framing]]
+- [[Systematic Problem Formulation]]
+- [[Why not?]]
+- [[The Problem Disc]]
 
 
 ## Academic roots

@@ -1,5 +1,7 @@
 ---
-tags: 
+tags:
+  - goal/analyse
+  - outputs/insights
 aliases: 
 description:
 ---
@@ -11,15 +13,11 @@ description:
 
 
 ## Related concepts and principles
-
+- [[Marketing]]
+- 
 
 ## Related methods
-- [[Crazy 8's]]
-- [[Brainstorming]]
-- [[Brain writing]]
-- [[Ideal Final Result]]
-- [[Desired final outcome statement]]
-- [[How might we]]
-- 
+- [[Trends pyramid]]
+- [ ] [[PESTED categorisation]] //might be revised
 
 ## Related content and sources

@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "-path:\"01 Maps/05 Tag pages\"  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -39,6 +39,6 @@
   "repelStrength": 12.5,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.03920440380489908,
+  "scale": 0.07705845092861248,
   "close": false
 }

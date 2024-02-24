@@ -14,12 +14,12 @@ description:
 
 
 ## Related methods
-- [[Crazy 8's]]
-- [[Brainstorming]]
-- [[Brain writing]]
-- [[Ideal Final Result]]
-- [[Desired final outcome statement]]
-- [[How might we]]
+- [[Product simulation]]
+	- [[Product modelling]] and testing them
+	- [[Ergonomics simulation]]
+- [[System modelling]]
+- [[Mock up]]
+- [[Scale models]]
 - 
 
 ## Related content and sources

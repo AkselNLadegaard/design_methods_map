@@ -58,3 +58,29 @@ aliases:
 38. Go through Figma templates
 39. Figure out how to handle those maps.
 40. "tag pages/notes" in publish and in general.
+41. [[scratchpad thoughts on the project]]
+42. https://joschua.io/posts/2023/09/01/obsidian-publish-dataview/
+43. [[Truth tables]]
+44. https://oecd-opsi.org/toolkits/?_toolkit_type=tool-toolset
+45. https://ddc.dk/tools-and-methods/
+46. https://ddc.dk/tools/living-futures-scenario-kit/
+47. https://ddc.dk/tools/spin-your-web-of-thriving/
+48. https://ddc.dk/tools/designing-your-circular-transition/
+49. https://ddc.dk/tools/toolkit-the-digital-ethics-compass/
+50. https://ddc.dk/tools/open-source-hardware/
+51. https://ddc.dk/tools/tool-how-to-get-started-with-distributed-design/
+52. https://ddc.dk/tools/how-to-go-full-circle-the-circular-business-model/
+53. [[Civic systems]] and other political organs and categorisations needs to be world 
+54. 
+55. [[AI data consolidation]] e.g., sensemate https://www.media.mit.edu/projects/sensemate/overview/
+	1. AI video scraping methods 
+	2. Qualitative feedback scraping methods 
+	3. Types f justice, e.g., spatial justice, as these are ushc a large part of design for societal change,. 
+56. Discuss the role of design thoeries and academic theories in the nordvig method.
+57. Vision and dreaming, forecasting and other future statemethods
+58. Formal and unformal processes. 
+59. [[Shared understanding]] 
+60. A whole section on 
+61. [[Governance Models]]
+62. [x] contact and discuss visioning methods fro [hac@andrew.cmu.edu](mailto:hac@andrew.cmu.edu)
+63. 

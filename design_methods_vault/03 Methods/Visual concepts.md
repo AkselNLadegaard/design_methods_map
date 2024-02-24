@@ -1,13 +1,10 @@
 ---
-tags:
-  - exploration
-  - mapping
-  - design/UX
-aliases: 
+tags: 
+aliases:
+  - Multi media concepts
+  - Animation concepts
 description:
 ---
-
-
 
 ## Description
 
@@ -19,7 +16,6 @@ description:
 
 
 ## Related methods
-- [[User story generator]]
-- [[Userstory]]
+
 
 ## Related content and sources

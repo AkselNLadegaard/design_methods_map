@@ -6,7 +6,6 @@ tags:
 aliases: 
 description:
 ---
-
 ## Description
 
 
@@ -52,5 +51,6 @@ description:
 - [[Design for disassembly]]
 - [[Material selection]]
 - [[Redesign]]
+- [[Ecosystem mapping]]
 ## Related content and sources
 - https://www.circulardesignguide.com/methods

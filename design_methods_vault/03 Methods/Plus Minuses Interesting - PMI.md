@@ -11,15 +11,9 @@ description:
 
 
 ## Related concepts and principles
-
+- [[Pros and Cons]]
 
 ## Related methods
-- [[Crazy 8's]]
-- [[Brainstorming]]
-- [[Brain writing]]
-- [[Ideal Final Result]]
-- [[Desired final outcome statement]]
-- [[How might we]]
-- 
+
 
 ## Related content and sources

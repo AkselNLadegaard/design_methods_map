@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14e27925c8e53c85",
+        "id": "4aba573ae9752cf1",
         "type": "tabs",
         "children": [
           {
-            "id": "c734f9ffe9925fdb",
+            "id": "aeaa1642daef9a71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Concepts/Expectation Effect.md",
+                "file": "02 Concepts/Facilitation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,22 @@
             }
           },
           {
-            "id": "b4948686b0565443",
+            "id": "25a0fe8adf886323",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "43522aed17bb5ea7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Concepts/Arena.md",
+                "file": "03 Methods/User journeys.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +44,12 @@
             }
           },
           {
-            "id": "df8e237f951d994d",
+            "id": "fcec948aff68d026",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Concepts/Storytelling.md",
+                "file": "99 Not publishd/01 To do for this project.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +57,12 @@
             }
           },
           {
-            "id": "d27c6f9bf0760e56",
+            "id": "5a1ddefcf59e1425",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Maps/04 Topics/System modelling.md",
+                "file": "99 Not publishd/01 To do for this project.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +70,64 @@
             }
           },
           {
-            "id": "f428a9f2f374f6d5",
+            "id": "9c181cde5d630ace",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Methods/Morphology.md",
+                "file": "03 Methods/Stakeholder Mapping.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4bc8ecfb672ef7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Maps/99 Overviews/Stakeholder axis mapping methods.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "a5b7df0da4341737",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1819a258ff59d5df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Maps/01 Designs/Transition Design.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4c7bc956f2ba3f86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73cb5e929b0e0aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Civic Design.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +163,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interview",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,8 +188,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Concepts/Expectation Effect.md",
+                "file": "99 Not publishd/01 To do for this project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Concepts/Expectation Effect.md",
+                "file": "99 Not publishd/01 To do for this project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Concepts/Expectation Effect.md"
+                "file": "99 Not publishd/01 To do for this project.md"
               }
             }
           },
@@ -212,7 +273,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,34 +291,34 @@
       "auto-moc:AutoMOC": false
     }
   },
-  "active": "c734f9ffe9925fdb",
+  "active": "5a1ddefcf59e1425",
   "lastOpenFiles": [
-    "02 Concepts/Modularity.md",
-    "02 Concepts/Change Agents.md",
-    "03 Methods/Development Arena.md",
+    "03 Methods/Governance Models.md",
+    "99 Not publishd/01 To do for this project.md",
+    "Civic Design.md",
+    "01 Maps/01 Designs/Transition Design.md",
+    "03 Methods/Wizard of Oz.md",
+    "Ecosystem mapping.md",
+    "01 Maps/01 Designs/Circular Design.md",
+    "03 Methods/Stakeholder Mapping.md",
+    "01 Maps/99 Overviews/Stakeholder axis mapping methods.md",
+    "Attitude and Knowledge stakeholder map.md",
+    "02 Concepts/Facilitation.md",
+    "Value mapping.md",
+    "03 Methods/Stakeholder Value Mapping.md",
+    "User story generator.md",
+    "03 Methods/User journeys.md",
+    "03 Methods/Problem definition.md",
+    "03 Methods/Visual concepts.md",
+    "01 Maps/05 Tag pages/Phase/phase define.md",
+    "03 Methods/AB Testing.md",
+    "03 Methods/ABC Analysis.md",
+    "03 Methods/Action research.md",
     "03 Methods/Morphology.md",
     "01 Maps/04 Topics/System modelling.md",
     "02 Concepts/Storytelling.md",
-    "03 Methods/Petrinet model.md",
-    "03 Methods/Stakeholder Mapping.md",
-    "02 Concepts/Meme.md",
-    "03 Methods/Functional Analysis.md",
-    "02 Concepts/Modules.md",
     "02 Concepts/Arena.md",
-    "03 Methods/Morphological analysis.md",
-    "Systems thinking.md",
-    "02 Concepts/Feedback Loop.md",
-    "99 Not publishd/00 Read me - introduction, guidelines and instructions.md",
-    "01 Maps/01 Designs/Product Service Systems.md",
-    "03 Methods/Analysis of Interconnected Decision Areas.md",
-    "99 Not publishd/AI LLM templates/bard 2024 template filler.md",
-    "02 Concepts/Mimicry.md",
-    "02 Concepts/Exposure Effect.md",
-    "02 Concepts/Group Thinking.md",
-    "00 Notebook/99 Templates/New concept template.md",
-    "01 Maps/01 Designs/Conceptual Design.md",
-    "02 Concepts/Separation of Concerns.md",
-    "02 Concepts/Value Density.md",
+    "03 Methods/Strategy Wheel.md",
     "01 Maps/05 Tag pages/Output",
     "01 Maps/05 Tag pages/Phase",
     "01 Maps/05 Tag pages/Goals",

@@ -1,13 +1,9 @@
 ---
-tags:
-  - exploration
-  - mapping
-  - design/UX
-aliases: 
+tags: 
+aliases:
+  - Action cluster story
 description:
 ---
-
-
 
 ## Description
 
@@ -19,7 +15,7 @@ description:
 
 
 ## Related methods
-- [[User story generator]]
-- [[Userstory]]
+
 
 ## Related content and sources
+- https://ddc.dk/tools/user-story-generator/

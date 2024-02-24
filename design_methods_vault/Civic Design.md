@@ -11,11 +11,10 @@ description:
 
 
 ## Related concepts and principles
-- [[Governance]]
-- [[Self-governance]]
-- [[Distributed agency]]
-- [[Democracy]]
+- [[Civic systems]]
+
 
 ## Related methods
+
 
 ## Related content and sources

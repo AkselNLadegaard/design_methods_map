@@ -5,21 +5,16 @@ description:
 ---
 
 ## Description
-
+Comparing concepts/prototypes to an existing solution on predefined metrics. 
 
 ## Examples 
 
 
 ## Related concepts and principles
-
+- [[Comparison]]
+- [[Emergence]]
 
 ## Related methods
-- [[Crazy 8's]]
-- [[Brainstorming]]
-- [[Brain writing]]
-- [[Ideal Final Result]]
-- [[Desired final outcome statement]]
-- [[How might we]]
-- 
+
 
 ## Related content and sources

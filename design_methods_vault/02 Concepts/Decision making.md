@@ -1,6 +1,7 @@
 ---
 tags: 
-aliases: 
+aliases:
+  - Decision and Selection
 description:
 ---
 
@@ -25,5 +26,6 @@ description:
 - [[Eisenhower Matrix]]
 - [[Decision matrices]]
 - [[Choosing by Advantages]]
+- [[Axis mapping]]
 
 ## Related content and sources

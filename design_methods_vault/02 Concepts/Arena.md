@@ -35,5 +35,6 @@ An **arena** refers to a **competitive space or domain** where individuals, orga
 - [[Stakeholder Mapping|Stakeholder Maps]]
 - **[[Translation studies]]:** Analysing how knowledge and practices travel across different contexts.
 - **[[Discourse analysis]]:** Examining how language and communication shape development processes.
+- [[Trend analysis]]
 
 ## Related content and sources
