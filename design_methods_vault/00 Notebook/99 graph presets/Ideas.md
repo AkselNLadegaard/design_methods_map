@@ -7,7 +7,7 @@ graph-presets-plugin: basic
 ```yaml:graph-preset
 collapse-filter: false
 search: tag:#ideation OR tag:#outputs/ideas OR tag:#phase/diverging OR
-  tag:#phase/discover
+  tag:#phase/discover -path:"01 Maps/05 Tag pages"
 showTags: false
 showAttachments: false
 hideUnresolved: false

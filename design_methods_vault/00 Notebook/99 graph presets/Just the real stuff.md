@@ -6,7 +6,7 @@ graph-presets-plugin: basic
 ---
 ```yaml:graph-preset
 collapse-filter: false
-search: '-path:"99 Not publishd" OR -path: "00 Notebook"'
+search: '-path:"99 Not publishd" -path: "00 Notebook" -path:"01 Maps/05 Tag pages"'
 showTags: false
 showAttachments: false
 hideUnresolved: true

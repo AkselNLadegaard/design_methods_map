@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "tag:#outputs -path:\"01 Maps/05 Tag pages\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -31,14 +31,14 @@
   ],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": -2.9,
+  "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.6,
   "lineSizeMultiplier": 0.7,
   "collapse-forces": true,
-  "centerStrength": 0.395833333333333,
-  "repelStrength": 12.5,
+  "centerStrength": 0.4,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.07705845092861248,
+  "linkDistance": 138,
+  "scale": 0.02498491739547445,
   "close": false
 }

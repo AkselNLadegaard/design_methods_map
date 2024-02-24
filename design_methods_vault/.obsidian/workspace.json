@@ -11,13 +11,8 @@
             "id": "aeaa1642daef9a71",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Concepts/Facilitation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -31,33 +26,7 @@
             }
           },
           {
-            "id": "43522aed17bb5ea7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Methods/User journeys.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fcec948aff68d026",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99 Not publishd/01 To do for this project.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a1ddefcf59e1425",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -95,42 +64,19 @@
               }
             }
           }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "a5b7df0da4341737",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1819a258ff59d5df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Maps/01 Designs/Transition Design.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
         ]
       },
       {
-        "id": "4c7bc956f2ba3f86",
+        "id": "c802784527152ea4",
         "type": "tabs",
         "children": [
           {
-            "id": "73cb5e929b0e0aaf",
+            "id": "43522aed17bb5ea7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "markdown-preset-view",
               "state": {
-                "file": "Civic Design.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "00 Notebook/99 graph presets/Color v1.md"
               }
             }
           }
@@ -188,7 +134,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -208,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 Not publishd/01 To do for this project.md",
+                "file": "00 Notebook/99 graph presets/Color v1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 Not publishd/01 To do for this project.md",
+                "file": "00 Notebook/99 graph presets/Color v1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 Not publishd/01 To do for this project.md"
+                "file": "00 Notebook/99 graph presets/Color v1.md"
               }
             }
           },
@@ -273,8 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,12 +237,20 @@
       "auto-moc:AutoMOC": false
     }
   },
-  "active": "5a1ddefcf59e1425",
+  "active": "43522aed17bb5ea7",
   "lastOpenFiles": [
-    "03 Methods/Governance Models.md",
+    "00 Notebook/99 graph presets/Concepts.md",
+    "00 Notebook/99 graph presets/default filtered.md",
+    "00 Notebook/99 graph presets/Has outputs.md",
+    "00 Notebook/99 graph presets/Ideas.md",
+    "00 Notebook/99 graph presets/Just the real stuff.md",
+    "00 Notebook/99 graph presets/Problem space.md",
+    "00 Notebook/99 graph presets/Methods.md",
+    "00 Notebook/99 graph presets/Maps.md",
     "99 Not publishd/01 To do for this project.md",
     "Civic Design.md",
     "01 Maps/01 Designs/Transition Design.md",
+    "03 Methods/Governance Models.md",
     "03 Methods/Wizard of Oz.md",
     "Ecosystem mapping.md",
     "01 Maps/01 Designs/Circular Design.md",
@@ -311,14 +265,6 @@
     "03 Methods/Problem definition.md",
     "03 Methods/Visual concepts.md",
     "01 Maps/05 Tag pages/Phase/phase define.md",
-    "03 Methods/AB Testing.md",
-    "03 Methods/ABC Analysis.md",
-    "03 Methods/Action research.md",
-    "03 Methods/Morphology.md",
-    "01 Maps/04 Topics/System modelling.md",
-    "02 Concepts/Storytelling.md",
-    "02 Concepts/Arena.md",
-    "03 Methods/Strategy Wheel.md",
     "01 Maps/05 Tag pages/Output",
     "01 Maps/05 Tag pages/Phase",
     "01 Maps/05 Tag pages/Goals",

@@ -6,7 +6,8 @@ graph-presets-plugin: basic
 ---
 ```yaml:graph-preset
 collapse-filter: false
-search: tag:#problem OR tag:#problem/definition OR tag:#outputs/problems  OR tag:#
+search: 'tag:#problem OR tag:#problem/definition OR tag:#outputs/problems OR
+  tag:#goal/analyse -path:"01 Maps/05 Tag pages"  '
 showTags: false
 showAttachments: false
 hideUnresolved: false

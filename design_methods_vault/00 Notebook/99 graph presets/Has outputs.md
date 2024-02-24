@@ -6,7 +6,7 @@ graph-presets-plugin: basic
 ---
 ```yaml:graph-preset
 collapse-filter: false
-search: tag:#outputs
+search: tag:#outputs -path:"01 Maps/05 Tag pages"
 showTags: false
 showAttachments: false
 hideUnresolved: false

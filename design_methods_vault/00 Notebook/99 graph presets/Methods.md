@@ -6,7 +6,7 @@ graph-presets-plugin: basic
 ---
 ```yaml:graph-preset
 collapse-filter: false
-search: 'path:"03 Methods"  OR path:"01 Maps" '
+search: path:"03 Methods" -path:"01 Maps/05 Tag pages"
 showTags: true
 showAttachments: false
 hideUnresolved: false
