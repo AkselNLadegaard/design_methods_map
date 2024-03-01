@@ -23,6 +23,6 @@ description:
 - [[Interview Guides]]
 - [[Structured Interviews]]
 - [[Semi Structured interviews]]
-- [[Appreciative inquiry]]
+- [[Appreciative interviews]] focusing on the positive 
 
 ## Related content and sources

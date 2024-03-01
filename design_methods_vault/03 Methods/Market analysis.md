@@ -15,6 +15,7 @@ description:
 
 
 ## Related methods
+- [[Surveys]]
 
 
 ## Related content and sources

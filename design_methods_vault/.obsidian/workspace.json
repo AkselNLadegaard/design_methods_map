@@ -4,79 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4aba573ae9752cf1",
+        "id": "5022b51587ebcb10",
         "type": "tabs",
         "children": [
           {
-            "id": "aeaa1642daef9a71",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "25a0fe8adf886323",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "fcec948aff68d026",
+            "id": "74661f783130473f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 Not publishd/01 To do for this project.md",
+                "file": "01 Maps/01 Designs/Circular Design.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "9c181cde5d630ace",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Methods/Stakeholder Mapping.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4bc8ecfb672ef7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Maps/99 Overviews/Stakeholder axis mapping methods.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c802784527152ea4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "43522aed17bb5ea7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown-preset-view",
-              "state": {
-                "file": "00 Notebook/99 graph presets/Color v1.md"
               }
             }
           }
@@ -109,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Notebook/99 graph presets/Color v1.md",
+                "file": "01 Maps/01 Designs/Circular Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Notebook/99 graph presets/Color v1.md",
+                "file": "01 Maps/01 Designs/Circular Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Notebook/99 graph presets/Color v1.md"
+                "file": "01 Maps/01 Designs/Circular Design.md"
               }
             }
           },
@@ -220,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,34 +177,37 @@
       "auto-moc:AutoMOC": false
     }
   },
-  "active": "43522aed17bb5ea7",
+  "active": "74661f783130473f",
   "lastOpenFiles": [
-    "00 Notebook/99 graph presets/Concepts.md",
-    "00 Notebook/99 graph presets/default filtered.md",
-    "00 Notebook/99 graph presets/Has outputs.md",
-    "00 Notebook/99 graph presets/Ideas.md",
-    "00 Notebook/99 graph presets/Just the real stuff.md",
-    "00 Notebook/99 graph presets/Problem space.md",
-    "00 Notebook/99 graph presets/Methods.md",
-    "00 Notebook/99 graph presets/Maps.md",
-    "99 Not publishd/01 To do for this project.md",
-    "Civic Design.md",
-    "01 Maps/01 Designs/Transition Design.md",
-    "03 Methods/Governance Models.md",
-    "03 Methods/Wizard of Oz.md",
-    "Ecosystem mapping.md",
-    "01 Maps/01 Designs/Circular Design.md",
-    "03 Methods/Stakeholder Mapping.md",
-    "01 Maps/99 Overviews/Stakeholder axis mapping methods.md",
-    "Attitude and Knowledge stakeholder map.md",
-    "02 Concepts/Facilitation.md",
-    "Value mapping.md",
-    "03 Methods/Stakeholder Value Mapping.md",
-    "User story generator.md",
-    "03 Methods/User journeys.md",
-    "03 Methods/Problem definition.md",
-    "03 Methods/Visual concepts.md",
-    "01 Maps/05 Tag pages/Phase/phase define.md",
+    "01 Maps/01 Designs/Contextual Design.md",
+    "02 Concepts/Ability.md",
+    "99 Not publishd/AI LLM templates/bard 2024 template filler.md",
+    "02 Concepts/Persuasion.md",
+    "02 Concepts/Preventive action.md",
+    "02 Concepts/Accessibility.md",
+    "03 Methods/Appreciative inquiry.md",
+    "01 Maps/04 Topics/Stakeholder Engagement.md",
+    "03 Methods/Surveys.md",
+    "02 Concepts/Goodhart's Law.md",
+    "03 Methods/Key Performance Index - KPI.md",
+    "03 Methods/Market analysis.md",
+    "01 Maps/01 Designs/Design of experiments - DOE.md",
+    "03 Methods/Framing.md",
+    "02 Concepts/Wicked Problems.md",
+    "03 Methods/Archeology.md",
+    "03 Methods/Attitude and Knowledge stakeholder map.md",
+    "03 Methods/Assumptions mapping.md",
+    "03 Methods/Artefact testing.md",
+    "03 Methods/Artefact Analysis.md",
+    "03 Methods/Workshops.md",
+    "01 Maps/04 Topics/Interviews.md",
+    "02 Concepts/Ideation.md",
+    "Desired final outcome statement.md",
+    "02 Concepts/Desired future state.md",
+    "03 Methods/Future state mapping.md",
+    "00 Notebook/99 Attachments/graph_cration_20240225.mp4",
+    "00 Notebook/99 Attachments/graph_creation_2024025.gif",
+    "00 Notebook/99 Attachments/graph_creation.mp4",
     "01 Maps/05 Tag pages/Output",
     "01 Maps/05 Tag pages/Phase",
     "01 Maps/05 Tag pages/Goals",
@@ -273,8 +216,6 @@
     "01 Maps/99 Overviews",
     "01 Maps/04 Topics",
     "01 Maps/01 Designs",
-    "01 Maps/02 Models",
-    "01 Maps/03 Frameworks",
     "00 Notebook/99 Attachments/Logo_v2.png",
     "00 Notebook/99 Attachments/Logo.png",
     "adj 2024-02-07 210622.png",
@@ -283,7 +224,6 @@
     "00 Notebook/99 Attachments/Pasted image 20240122233451.png",
     "00 Notebook/99 Attachments/Pasted image 20240206231743.png",
     "00 Notebook/99 Attachments/Pasted image 20211110203132.png",
-    "00 Notebook/99 Attachments/Pasted image 20240122233522.png",
-    "00 Notebook/99 Attachments/Pasted image 20231229190528.png"
+    "00 Notebook/99 Attachments/Pasted image 20240122233522.png"
   ]
 }

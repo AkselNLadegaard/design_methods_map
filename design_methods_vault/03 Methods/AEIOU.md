@@ -35,9 +35,12 @@ Partially by #notebook/ai/google/bard
 	- Cook 
 	- Cashier/Waiter
 
-## Related notes 
+## Related concepts 
 - [[Observation]]
-- [[Activity Analysis]]
 - [[User journeys]]
+
+## Related methods 
+- [[Activity Analysis]]
+- [[Service Blueprinting|Service blueprint]]
 
 ## Academic roots

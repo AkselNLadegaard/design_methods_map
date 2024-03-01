@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "tag:#outputs -path:\"01 Maps/05 Tag pages\"",
+  "collapse-filter": true,
+  "search": "-path:\"00 Notebook\" -path:\"01 Maps/05 Tag pages\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -11,14 +11,14 @@
       "query": "path:\"02 Concepts\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 15745602
       }
     },
     {
       "query": "path:\"03 Methods\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16757519
       }
     },
     {
@@ -27,18 +27,32 @@
         "a": 1,
         "rgb": 10773465
       }
+    },
+    {
+      "query": "path:\"01 Maps/01 Designs\"",
+      "color": {
+        "a": 1,
+        "rgb": 48551
+      }
+    },
+    {
+      "query": "path:\"01 Maps/04 Topics\"",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.6,
+  "textFadeMultiplier": 2,
+  "nodeSizeMultiplier": 1.88645833333333,
   "lineSizeMultiplier": 0.7,
   "collapse-forces": true,
-  "centerStrength": 0.4,
+  "centerStrength": 0.723958333333333,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 138,
-  "scale": 0.02498491739547445,
+  "linkDistance": 91,
+  "scale": 0.077058452915082,
   "close": false
 }

@@ -22,5 +22,5 @@ Future State Mapping is a tool used to envision and explore future states for a 
 
 ## Related methods
 - [[Current state mapping]] 
-
+- [[Desired future state]]
 ## Related content and sources

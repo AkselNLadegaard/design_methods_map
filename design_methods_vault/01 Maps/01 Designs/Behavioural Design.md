@@ -47,7 +47,6 @@ Solutions in behavioural design are often framed as [[Interventions]].
 
 ## Methods
 - [[Positive reinforcement]]
-- [[Framing]]
+- [[Frame creation]]
 ## Other content and sources
-
 - The fantastic paper on the behavioural design space: http://www.ijdesign.org/index.php/IJDesign/article/view/3922

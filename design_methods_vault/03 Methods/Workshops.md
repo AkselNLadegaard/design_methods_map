@@ -8,7 +8,8 @@ description:
 
 
 ## Examples 
-- [[Workshop - user centered problem definition]]
+- [[World cafe]]
+
 
 ## Related notes 
 - [[Warm up]]

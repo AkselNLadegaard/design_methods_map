@@ -5,6 +5,8 @@ tags:
   - stakeholders/users
 aliases:
   - Performance metrics
+  - Metrics
+  - Measurements
 description:
 ---
 

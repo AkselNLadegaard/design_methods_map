@@ -18,7 +18,7 @@ description:
 - [[Brainstorming]]
 - [[Brain writing]]
 - [[Ideal Final Result]]
-- [[Desired final outcome statement]]
+- [[Desired future state|Desired finale outcome statement]]
 - [[How might we]]
 - 
 

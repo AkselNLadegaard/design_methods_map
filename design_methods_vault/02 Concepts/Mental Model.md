@@ -20,13 +20,13 @@ description:
 - [[Heuristics]] and rules of thumb! 
 - [[Systems thinking]] relies on constructing 'handable' mental models of systems at different levels of [[Abstraction]]s
 - [[Metacognition]]
+- [[Frame of reference]]
 
 ## Related methods
 - [[Black Boxing]]
 - [[Association Chains]]
 - [[Chunking]]
 - [[Inversion]]
-- 
 
 
 ## Related content and sources

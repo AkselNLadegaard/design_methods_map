@@ -3,9 +3,7 @@ tags:
 aliases: 
 description:
 ---
-
-## Description
-
+Overview of methods and concepts to the general topic of stakeholder engagement. 
 
 ## Examples 
 - User research in design projects
@@ -15,14 +13,10 @@ description:
 - Employee involvement in organizational change
 
 ## Related concepts and principles
-- [[Feedback Loop]]
-
-   Unsure if the concepts below are too broad for the note 
 - [[Transparency]]
 - [[Empowerment]]
 - [[Inclusivity]]
 - [[Accountability]]
-
 
 ## Related methods
 - [[Surveys]]
@@ -44,7 +38,6 @@ description:
 
 - [[Stakeholder egagement assessment matrix]]
 
- maybe for another note  
 - [[Public hearing]]
 	- [[Public comment periods]]
 

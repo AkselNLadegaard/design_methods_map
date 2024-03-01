@@ -43,4 +43,5 @@ Universal Design (UD) is a philosophy and set of guidelines for creating product
 - 
 
 ## Related content and sources
-- 
+- [Cambridge university Inclusive design kit ](https://www.inclusivedesigntoolkit.com/)
+- [DTU universal design playbook](https://universaldesignguide.com/)

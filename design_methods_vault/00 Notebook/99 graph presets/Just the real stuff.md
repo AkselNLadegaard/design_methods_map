@@ -6,7 +6,7 @@ graph-presets-plugin: basic
 ---
 ```yaml:graph-preset
 collapse-filter: false
-search: '-path:"99 Not publishd" -path: "00 Notebook" -path:"01 Maps/05 Tag pages"'
+search: '-path:"99 Not publishd" -path: "00 Notebook" -path:"01 Maps/05 Tag pages" '
 showTags: false
 showAttachments: false
 hideUnresolved: true
@@ -16,15 +16,23 @@ colorGroups:
   - query: 'path:"02 Concepts"  '
     color:
       a: 1
-      rgb: 14701138
+      rgb: 15745602
   - query: 'path:"03 Methods"  '
     color:
       a: 1
-      rgb: 14725458
+      rgb: 16757519
   - query: path:"01 Maps"
     color:
       a: 1
       rgb: 10773465
+  - query: path:"01 Maps/01 Designs"
+    color:
+      rgb: 48551
+      a: 1
+  - query: path:"01 Maps/04 Topics"
+    color:
+      rgb: 0
+      a: 1
 collapse-display: false
 showArrow: true
 textFadeMultiplier: -2.9

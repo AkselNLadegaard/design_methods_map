@@ -83,4 +83,6 @@ aliases:
 60. A whole section on 
 61. [[Governance Models]]
 62. [x] contact and discuss visioning methods fro [hac@andrew.cmu.edu](mailto:hac@andrew.cmu.edu)
-63. 
+63. https://impactvc.gitbook.io/founder-impact-playbook/embedding-impact-into-your-existing-business/step-2-optimising-for-impact 
+	1. Add some frameworks from startup and impact start ups.
+64. https://co-pi.dk/media/do5jrx1t/metodekatalog.pdf

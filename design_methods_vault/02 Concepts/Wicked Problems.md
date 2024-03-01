@@ -44,6 +44,8 @@ I really enjoy this tabular format from [Pyykkö, Harri, Mari Suoheimo, and Stef
 	- [[Convergent problems]]
 
 ## Related methods
+- [[Frame creation]]
+- [[Appreciative inquiry]]
 - [[Strategic Dialogue]]
 - [[Scenario planning]]
 - [[Backcasting]]
