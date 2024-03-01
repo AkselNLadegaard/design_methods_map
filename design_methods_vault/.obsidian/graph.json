@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "-path:\"00 Notebook\" -path:\"01 Maps/05 Tag pages\"  ",
+  "collapse-filter": false,
+  "search": "path:\"03 Methods\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -45,7 +45,7 @@
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 2,
+  "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.88645833333333,
   "lineSizeMultiplier": 0.7,
   "collapse-forces": true,
@@ -53,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 91,
-  "scale": 0.077058452915082,
+  "scale": 0.6497807225798413,
   "close": false
 }

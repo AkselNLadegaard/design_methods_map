@@ -86,3 +86,5 @@ aliases:
 63. https://impactvc.gitbook.io/founder-impact-playbook/embedding-impact-into-your-existing-business/step-2-optimising-for-impact 
 	1. Add some frameworks from startup and impact start ups.
 64. https://co-pi.dk/media/do5jrx1t/metodekatalog.pdf
+65. https://par.nsf.gov/servlets/purl/10352875
+	1. And https://www.researchgate.net/figure/Method-content-and-its-relation-to-method-use-context-design-goals-information_fig1_351427001
